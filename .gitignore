@@ -32,6 +32,7 @@ yarn-error.log*
 
 # env files and credentials
 .env*
+!.env.local.sample
 credentials.json
 credentials.yml
 credentials.yaml

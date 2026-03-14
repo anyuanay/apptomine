@@ -15,18 +15,36 @@ Clone → Run → Understand → Customize with Claude Code
 
 ## Getting Started
 
+### 1. Install dependencies
+
+```bash
+npm install
+```
+
+### 2. Configure environment variables
+
+A `GITHUB_TOKEN` is **required** to enable the live GitHub search feature (`/api/crawl`). Without it, the "Search GitHub live" panel will return a 503 error.
+
+Copy the sample file and fill in your token:
+
+```bash
+cp .env.local.sample .env.local
+```
+
+Then edit `.env.local` and replace the placeholder with a real token:
+
+1. Go to [https://github.com/settings/tokens](https://github.com/settings/tokens)
+2. Click **Generate new token (classic)**
+3. Select the `public_repo` scope (read-only access to public repos is enough)
+4. Copy the token and paste it as the value of `GITHUB_TOKEN`
+
+### 3. Run the dev server
+
 ```bash
 npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to see the app.
-
-Add a GitHub token to enable the live crawler:
-
-```bash
-# .env.local
-GITHUB_TOKEN=your_token_here
-```
 
 ## Target Audience
 
