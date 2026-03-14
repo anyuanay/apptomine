@@ -18,32 +18,46 @@ function getClaudeCodeSteps(app: App): TutorialStep[] {
   return [
     {
       step: 1,
-      title: 'Install Claude Code',
-      description:
-        'Install Claude Code globally via npm. You will need Node.js 18+ and an Anthropic API key.',
-      command: 'npm install -g @anthropic-ai/claude-code',
-      note: 'Run `claude --version` to verify the installation succeeded.',
+      title: 'Clone the repository',
+      description: `Clone ${app.name} to your local machine using the command below. Open any terminal on your computer and paste it.`,
+      command: `${app.cloneCommand}`,
+      note: 'Not sure how to open a terminal? On Mac press Cmd+Space and type "Terminal". On Windows press Win+R and type "cmd".',
     },
     {
       step: 2,
-      title: 'Clone the repository',
-      description: `Clone ${app.name} to your local machine, then navigate into the project directory.`,
-      command: `${app.cloneCommand}\ncd ${repoName}`,
+      title: 'Open the folder in VS Code',
+      description: `Open Visual Studio Code, go to File → Open Folder, and select the "${repoName}" folder that was just downloaded. VS Code is a free code editor — download it at code.visualstudio.com if you haven't already.`,
     },
     {
       step: 3,
-      title: 'Ask Claude to understand the codebase',
-      description:
-        'Let Claude Code read and analyze the entire project. It will summarize the architecture, main components, and data flow.',
-      command: `claude "Please read and understand this entire codebase. Summarize the architecture, main components, and how data flows through the app."`,
-      note: 'This may take a minute on large repos. Claude will produce a detailed summary you can reference while customizing.',
+      title: 'Open a terminal inside VS Code',
+      description: 'In VS Code, go to Terminal → New Terminal (or press Ctrl+` on Windows / Ctrl+` on Mac). A terminal panel will appear at the bottom of the screen — this is where you will run Claude Code.',
     },
     {
       step: 4,
-      title: 'Type your customization requirement',
-      description:
-        'Describe what you want to change in plain English. Claude Code will identify the relevant files and implement the changes.',
-      command: `claude "I want to [describe your requirement here]. Please make the necessary changes."`,
+      title: 'Install Claude Code (one-time)',
+      description: 'In the VS Code terminal, install Claude Code globally. You only need to do this once.',
+      command: 'npm install -g @anthropic-ai/claude-code',
+      note: 'This requires Node.js 18+. Verify the install worked by running: claude --version',
+    },
+    {
+      step: 5,
+      title: 'Start Claude Code',
+      description: 'In the VS Code terminal, type the command below and press Enter. Claude Code will start up and wait for your instructions.',
+      command: 'claude',
+    },
+    {
+      step: 6,
+      title: 'Ask Claude Code to understand the codebase',
+      description: 'Type the following prompt and press Enter. Claude Code will read and analyze the entire project, then give you a clear overview of how it works.',
+      command: `Please read and understand this entire codebase. Summarize the architecture, main components, and how data flows through the app.`,
+      note: 'This may take a minute on large repos. Claude will produce a detailed summary you can reference while customizing.',
+    },
+    {
+      step: 7,
+      title: 'Start customizing',
+      description: 'Now describe what you want to change in plain English. Claude Code will find the right files and make the changes for you.',
+      command: `I want to [describe your requirement here]. Please make the necessary changes.`,
       note: 'Be as specific as possible. For example: "I want to change the color scheme to match my brand colors #FF6B35 and #004E89" or "I want to add a dark mode toggle."',
     },
   ];

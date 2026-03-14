@@ -14,9 +14,12 @@ export interface CrawlOptions {
 }
 
 const CATEGORY_QUERIES: Record<Exclude<Category, 'all'>, string> = {
-  education: 'lms OR "learning management" OR "quiz app" OR "flashcard" OR "e-learning" in:description,topics',
-  training: 'onboarding OR "employee training" OR "skill tracker" OR "corporate training" in:description,topics',
-  productivity: 'kanban OR "task manager" OR "note taking" OR "project management" in:description,topics',
+  education: 'lms OR "learning management" OR "quiz app" OR "flashcard" OR "e-learning" OR "virtual classroom" OR "course platform" in:description,topics',
+  training: 'onboarding OR "employee training" OR "skill tracker" OR "corporate training" OR "assessment platform" OR "badge" OR "credential" in:description,topics',
+  productivity: 'kanban OR "task manager" OR "note taking" OR "project management" OR "scheduling" OR "wiki" OR "knowledge base" in:description,topics',
+  cms: '"content management" OR "headless cms" OR "headless CMS" OR "cms" OR "blog platform" OR "publishing platform" in:description,topics',
+  ecommerce: '"e-commerce" OR ecommerce OR "online store" OR "shopping cart" OR "commerce platform" OR storefront in:description,topics',
+  community: 'forum OR "community platform" OR "discussion board" OR "social network" OR "team chat" OR "live chat" OR "q&a platform" in:description,topics',
 };
 
 export async function searchGithubRepos(options: CrawlOptions): Promise<GithubRepo[]> {

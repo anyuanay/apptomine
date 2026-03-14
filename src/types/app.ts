@@ -1,4 +1,4 @@
-export type Category = 'education' | 'training' | 'productivity' | 'all';
+export type Category = 'education' | 'training' | 'productivity' | 'cms' | 'ecommerce' | 'community' | 'all';
 
 export interface App {
   id: string;

@@ -11,6 +11,7 @@
   "dependencies": {
     "@octokit/rest": "^22.0.1",
     "@octokit/types": "^16.0.0",
+    "agentation": "^2.3.3",
     "date-fns": "^4.1.0",
     "lucide-react": "^0.577.0",
     "next": "16.1.6",

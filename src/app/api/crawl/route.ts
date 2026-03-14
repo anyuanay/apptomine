@@ -6,7 +6,7 @@ export const runtime = 'nodejs';
 export const revalidate = 3600; // ISR: re-crawl at most once per hour
 
 /**
- * GET /api/crawl?category=education&perPage=10&minStars=500&query=...
+ * GET /api/crawl?category=education&perPage=10&minStars=100&query=...
  *
  * Uses Octokit to search GitHub for repos matching the given category or query.
  * Returns structured App data ready for the frontend.
@@ -21,7 +21,7 @@ export async function GET(req: NextRequest) {
   const minStars = parseInt(searchParams.get('minStars') ?? '100', 10);
   const query = searchParams.get('query') ?? '';
 
-  const validCategories: Array<Exclude<Category, 'all'>> = ['education', 'training', 'productivity'];
+  const validCategories: Array<Exclude<Category, 'all'>> = ['education', 'training', 'productivity', 'cms', 'ecommerce', 'community'];
   if (!validCategories.includes(category)) {
     return NextResponse.json(
       { error: `Invalid category. Must be one of: ${validCategories.join(', ')}` },

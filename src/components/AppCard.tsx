@@ -9,9 +9,11 @@ import { formatDistanceToNow } from 'date-fns';
 
 interface AppCardProps {
   app: App;
+  /** If true, clicking the card opens the GitHub repo instead of the detail page */
+  externalLink?: boolean;
 }
 
-export default function AppCard({ app }: AppCardProps) {
+export default function AppCard({ app, externalLink = false }: AppCardProps) {
   const router = useRouter();
   const [copied, setCopied] = useState(false);
 
@@ -34,10 +36,10 @@ export default function AppCard({ app }: AppCardProps) {
   return (
     <div
       className="group block cursor-pointer"
-      onClick={() => router.push(`/apps/${app.id}`)}
+      onClick={() => externalLink ? window.open(app.githubUrl, '_blank', 'noopener,noreferrer') : router.push(`/apps/${app.id}`)}
       role="link"
       tabIndex={0}
-      onKeyDown={(e) => e.key === 'Enter' && router.push(`/apps/${app.id}`)}
+      onKeyDown={(e) => e.key === 'Enter' && (externalLink ? window.open(app.githubUrl, '_blank', 'noopener,noreferrer') : router.push(`/apps/${app.id}`))}
     >
       <div className="h-full rounded-xl border border-white/10 bg-white/5 p-5 backdrop-blur-sm transition-all duration-200 hover:border-blue-500/40 hover:bg-white/8 hover:shadow-lg hover:shadow-blue-500/10">
         {/* Header */}
