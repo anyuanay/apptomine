@@ -14,7 +14,7 @@ const CATEGORY_CONFIG: Array<{
   label: string;
   Icon: React.ComponentType<{ className?: string }>;
 }> = [
-  { id: 'all',          label: 'All Apps',     Icon: Grid3X3 },
+  { id: 'all',          label: 'Example Apps', Icon: Grid3X3 },
   { id: 'education',    label: 'Education',    Icon: BookOpen },
   { id: 'training',     label: 'Training',     Icon: Dumbbell },
   { id: 'productivity', label: 'Productivity', Icon: LayoutDashboard },
