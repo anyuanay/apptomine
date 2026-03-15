@@ -112,6 +112,20 @@ export default async function AppDetailPage({ params }: PageProps) {
             </div>
             <span>AppToMine</span>
           </Link>
+          <div className="flex items-center gap-4">
+            <Link href="/" className="text-sm text-slate-400 transition-colors hover:text-white">Home</Link>
+            <Link href="/about" className="text-sm text-slate-400 transition-colors hover:text-white">About</Link>
+            <Link href="/contact" className="text-sm text-slate-400 transition-colors hover:text-white">Contact</Link>
+            <a
+              href="https://github.com/anyuanay/apptomine"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-2 rounded-lg border border-white/10 px-3 py-1.5 text-sm text-slate-400 transition-colors hover:border-white/20 hover:text-white"
+            >
+              <Github className="h-4 w-4" />
+              Clone and Customize this App
+            </a>
+          </div>
         </div>
       </nav>
 
