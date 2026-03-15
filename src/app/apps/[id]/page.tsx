@@ -26,12 +26,12 @@ function getClaudeCodeSteps(app: App): TutorialStep[] {
     {
       step: 2,
       title: 'Open the folder in VS Code',
-      description: `Open Visual Studio Code, go to File → Open Folder, and select the "${repoName}" folder that was just downloaded. VS Code is a free code editor — download it at code.visualstudio.com if you haven't already.`,
+      description: `Open Visual Studio Code, go to File → Open Folder, and select the "${repoName}" folder that was just downloaded. VS Code is a free code editor - download it at code.visualstudio.com if you haven't already.`,
     },
     {
       step: 3,
       title: 'Open a terminal inside VS Code',
-      description: 'In VS Code, go to Terminal → New Terminal (or press Ctrl+` on Windows / Ctrl+` on Mac). A terminal panel will appear at the bottom of the screen — this is where you will run Claude Code.',
+      description: 'In VS Code, go to Terminal → New Terminal (or press Ctrl+` on Windows / Ctrl+` on Mac). A terminal panel will appear at the bottom of the screen - this is where you will run Claude Code.',
     },
     {
       step: 4,

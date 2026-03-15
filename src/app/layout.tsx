@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'AppToMine — Find an open source app. Make it yours.',
+  title: 'AppToMine - Find an open source app. Make it yours.',
   description:
     'Browse curated GitHub starter templates across education, training, and productivity. Clone any app, then customize it with Claude Code.',
 };

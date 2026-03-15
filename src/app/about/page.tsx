@@ -2,8 +2,8 @@ import Link from 'next/link';
 import { Zap, Github, Search, Code2, Users } from 'lucide-react';
 
 export const metadata = {
-  title: 'About — AppToMine',
-  description: 'Learn about AppToMine — open source app discovery and customization by Trueway AI.',
+  title: 'About - AppToMine',
+  description: 'Learn about AppToMine - open source app discovery and customization by Trueway AI.',
 };
 
 export default function AboutPage() {
@@ -39,7 +39,7 @@ export default function AboutPage() {
         <p className="mb-10 text-lg text-slate-400 leading-relaxed">
           AppToMine is an open source app discovery and customization platform built by{' '}
           <span className="font-semibold text-white">Trueway AI</span>. Our mission is to make
-          the world's open source software accessible to everyone — not just developers.
+          the world's open source software accessible to everyone - not just developers.
         </p>
 
         <div className="space-y-8">
@@ -55,7 +55,7 @@ export default function AboutPage() {
               AppToMine curates high-quality open source apps from GitHub across categories like
               education, training, productivity, e-commerce, and community platforms. Each app
               comes with a one-click clone command and a step-by-step guide for customizing it
-              with AI — no coding experience required.
+              with AI - no coding experience required.
             </p>
           </div>
 
@@ -71,7 +71,7 @@ export default function AboutPage() {
               AppToMine is built for non-developers, educators, entrepreneurs, and anyone who
               wants a working app without building from scratch. If you can describe what you
               want in plain English, you can customize any app on this platform using an AI
-              coding agent like Claude Code — and ship something real.
+              coding agent like Claude Code - and ship something real.
             </p>
           </div>
 
@@ -89,7 +89,7 @@ export default function AboutPage() {
                 'Clone it to your computer with a single command.',
                 'Open the folder in VS Code and launch Claude Code.',
                 'Ask Claude Code to explain the codebase, then describe the changes you want.',
-                'Claude Code modifies the code for you — you review, run, and ship.',
+                'Claude Code modifies the code for you - you review, run, and ship.',
               ].map((step, i) => (
                 <li key={i} className="flex gap-3">
                   <span className="shrink-0 font-bold text-slate-600">{i + 1}.</span>
@@ -104,7 +104,7 @@ export default function AboutPage() {
             <h2 className="mb-2 font-bold text-white">AppToMine is open source</h2>
             <p className="text-sm text-slate-400 leading-relaxed">
               The platform itself is open source. You can clone it, customize it, and run your
-              own version — using the exact same workflow we teach. It's built with Next.js and
+              own version - using the exact same workflow we teach. It's built with Next.js and
               deployed on Vercel.
             </p>
             <a
@@ -121,7 +121,7 @@ export default function AboutPage() {
       </main>
 
       <footer className="border-t border-white/5 px-4 py-8 text-center text-sm text-slate-600">
-        <p>AppToMine — Open source app discovery and customization by Trueway AI</p>
+        <p>AppToMine - Open source app discovery and customization by Trueway AI</p>
       </footer>
     </div>
   );

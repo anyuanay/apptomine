@@ -111,7 +111,7 @@ export default function HomePage() {
 
           <p className="mb-8 text-lg text-slate-400 leading-relaxed">
             Browse curated GitHub Open Source Apps. Clone any app, then use an AI coding agent such as Claude Code to understand and customize
-            it — no experience required.
+            it - no experience required.
           </p>
 
           <div className="flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
@@ -168,7 +168,7 @@ export default function HomePage() {
               No coding experience needed
             </div>
             <h2 className="text-2xl font-bold text-white">Getting Started</h2>
-            <p className="mt-2 text-slate-400">Follow these steps once — then you're ready to customize any app with Claude Code.</p>
+            <p className="mt-2 text-slate-400">Follow these steps once - then you're ready to customize any app with Claude Code.</p>
           </div>
 
           <div className="space-y-3">
@@ -184,7 +184,7 @@ export default function HomePage() {
                 n: '2',
                 icon: <FolderOpen className="h-5 w-5" />,
                 title: 'Install Visual Studio Code',
-                desc: "Download VS Code from code.visualstudio.com — it's a free, beginner-friendly code editor where you'll view and work on your app.",
+                desc: "Download VS Code from code.visualstudio.com - it's a free, beginner-friendly code editor where you'll view and work on your app.",
                 tag: 'One-time setup',
               },
               {
@@ -403,7 +403,7 @@ export default function HomePage() {
 
       {/* Footer */}
       <footer className="border-t border-white/5 px-4 py-8 text-center text-sm text-slate-600">
-        <p>AppToMine — Open source app discovery and customization by Trueway AI</p>
+        <p>AppToMine - Open source app discovery and customization by Trueway AI</p>
       </footer>
     </div>
   );

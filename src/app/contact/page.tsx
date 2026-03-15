@@ -40,7 +40,7 @@ export default function ContactPage() {
         <h1 className="mb-2 text-4xl font-extrabold text-white">Contact Us</h1>
         <p className="mb-10 text-slate-400">
           Have a question, suggestion, or just want to say hi? Fill in your message below and
-          click Send — it will open your email app with everything pre-filled.
+          click Send - it will open your email app with everything pre-filled.
         </p>
 
         <div className="space-y-5">
@@ -90,7 +90,7 @@ export default function ContactPage() {
       </main>
 
       <footer className="border-t border-white/5 px-4 py-8 text-center text-sm text-slate-600">
-        <p>AppToMine — Open source app discovery and customization by Trueway AI</p>
+        <p>AppToMine - Open source app discovery and customization by Trueway AI</p>
       </footer>
     </div>
   );
