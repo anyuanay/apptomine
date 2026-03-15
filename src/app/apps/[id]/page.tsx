@@ -122,7 +122,7 @@ export default async function AppDetailPage({ params }: PageProps) {
           className="mb-8 flex items-center gap-2 text-sm text-slate-400 transition-colors hover:text-white"
         >
           <ArrowLeft className="h-4 w-4" />
-          Back to all example apps
+          Back to example apps
         </Link>
 
         <div className="grid gap-8 lg:grid-cols-3">
