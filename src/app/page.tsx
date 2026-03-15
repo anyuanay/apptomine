@@ -206,6 +206,14 @@ export default function HomePage() {
               },
               {
                 n: '5',
+                icon: <Github className="h-5 w-5" />,
+                title: 'Run and view the app live',
+                desc: "Before customizing, get the app running locally so you can see your changes in real time. Open the app's GitHub page and follow the setup instructions in the README — look for sections like \"Getting Started\", \"Installation\", or \"Running locally\".",
+                tag: 'Per app',
+                highlight: true,
+              },
+              {
+                n: '6',
                 icon: <Terminal className="h-5 w-5" />,
                 title: 'Open a terminal inside VS Code',
                 desc: 'In VS Code, go to Terminal → New Terminal (or press Ctrl+` on Windows / Ctrl+` on Mac). A terminal panel will appear at the bottom of the screen.',
@@ -213,7 +221,7 @@ export default function HomePage() {
                 highlight: true,
               },
               {
-                n: '6',
+                n: '7',
                 icon: <Terminal className="h-5 w-5" />,
                 title: 'Install Claude Code (one-time)',
                 desc: (
@@ -229,7 +237,7 @@ export default function HomePage() {
                 tag: 'One-time setup',
               },
               {
-                n: '7',
+                n: '8',
                 icon: <MessageSquare className="h-5 w-5" />,
                 title: 'Start Claude Code',
                 desc: (
@@ -243,7 +251,7 @@ export default function HomePage() {
                 highlight: true,
               },
               {
-                n: '8',
+                n: '9',
                 icon: <Search className="h-5 w-5" />,
                 title: 'Ask Claude Code to understand the codebase',
                 desc: (
@@ -256,7 +264,7 @@ export default function HomePage() {
                 highlight: true,
               },
               {
-                n: '9',
+                n: '10',
                 icon: <Wand2 className="h-5 w-5" />,
                 title: 'Start customizing',
                 desc: "Describe what you want to change in plain English. Claude Code will find the right files and make the changes for you. For example: \"I want to change the color scheme to match my brand colors #FF6B35 and #004E89\" or \"I want to add a dark mode toggle.\"",
