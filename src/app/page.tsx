@@ -78,6 +78,7 @@ export default function HomePage() {
             <span>AppToMine</span>
           </Link>
           <div className="flex items-center gap-4">
+            <Link href="/" className="text-sm font-medium text-white">Home</Link>
             <Link href="/about" className="text-sm text-slate-400 transition-colors hover:text-white">About</Link>
             <Link href="/contact" className="text-sm text-slate-400 transition-colors hover:text-white">Contact</Link>
             <a
