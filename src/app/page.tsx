@@ -120,7 +120,7 @@ export default function HomePage() {
               href="#apps"
               className="flex items-center gap-2 rounded-xl bg-blue-600 px-6 py-3 text-sm font-semibold text-white shadow-lg shadow-blue-500/25 transition-all hover:bg-blue-500"
             >
-              Browse Apps <ArrowRight className="h-4 w-4" />
+              Browse Example Apps <ArrowRight className="h-4 w-4" />
             </a>
             <a
               href="#getting-started"
@@ -338,7 +338,7 @@ export default function HomePage() {
           </div>
 
           <div className="mb-6">
-            <h2 className="mb-1 text-xl font-bold text-white">Browse Apps</h2>
+            <h2 className="mb-1 text-xl font-bold text-white">Browse Example Apps</h2>
             <p className="text-sm text-slate-500">
               {filtered.length} app{filtered.length !== 1 ? 's' : ''} found
             </p>
