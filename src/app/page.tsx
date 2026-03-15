@@ -77,15 +77,19 @@ export default function HomePage() {
             </div>
             <span>AppToMine</span>
           </Link>
-          <a
-            href="https://github.com/anyuanay/apptomine"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex items-center gap-2 rounded-lg border border-white/10 px-3 py-1.5 text-sm text-slate-400 transition-colors hover:border-white/20 hover:text-white"
-          >
-            <Github className="h-4 w-4" />
-            Clone and Customize this App
-          </a>
+          <div className="flex items-center gap-4">
+            <Link href="/about" className="text-sm text-slate-400 transition-colors hover:text-white">About</Link>
+            <Link href="/contact" className="text-sm text-slate-400 transition-colors hover:text-white">Contact</Link>
+            <a
+              href="https://github.com/anyuanay/apptomine"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-2 rounded-lg border border-white/10 px-3 py-1.5 text-sm text-slate-400 transition-colors hover:border-white/20 hover:text-white"
+            >
+              <Github className="h-4 w-4" />
+              Clone and Customize this App
+            </a>
+          </div>
         </div>
       </nav>
 
@@ -97,11 +101,6 @@ export default function HomePage() {
         </div>
 
         <div className="relative mx-auto max-w-3xl">
-          <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-blue-500/30 bg-blue-500/10 px-4 py-1.5 text-sm text-blue-400">
-            <Zap className="h-3.5 w-3.5" />
-            Powered by Claude Code
-          </div>
-
           <h1 className="mb-4 text-4xl font-extrabold tracking-tight text-white sm:text-5xl md:text-6xl">
             Find an open source app.
             <br />
@@ -404,17 +403,7 @@ export default function HomePage() {
 
       {/* Footer */}
       <footer className="border-t border-white/5 px-4 py-8 text-center text-sm text-slate-600">
-        <p>
-          AppToMine — Open source app discovery, powered by{' '}
-          <a
-            href="https://claude.ai/code"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-blue-500 hover:text-blue-400"
-          >
-            Claude Code
-          </a>
-        </p>
+        <p>AppToMine — Open source app discovery and customization by Trueway AI</p>
       </footer>
     </div>
   );
