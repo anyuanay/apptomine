@@ -1,7 +1,8 @@
 'use client';
 
 import { useState, useMemo, useRef, useCallback } from 'react';
-import { Zap, Github, ArrowRight, Download, Terminal, FolderOpen, MessageSquare, Search, Wand2, Loader2, X } from 'lucide-react';
+import { Zap, Github, ArrowRight, Download, Terminal, FolderOpen, MessageSquare, Search, Wand2, Loader2, X, ChevronUp, ImageIcon } from 'lucide-react';
+import Image from 'next/image';
 import Link from 'next/link';
 import AppCard from '@/components/AppCard';
 import SearchBar from '@/components/SearchBar';
@@ -15,6 +16,9 @@ const ALL_APPS = appsData as App[];
 export default function HomePage() {
   const [search, setSearch] = useState('');
   const [category, setCategory] = useState<Category>('all');
+
+  const [showInstallImage, setShowInstallImage] = useState(false);
+  const [showVSCodeImage, setShowVSCodeImage] = useState(false);
 
   const [ghQuery, setGhQuery] = useState('');
   const [ghResults, setGhResults] = useState<App[] | null>(null);
@@ -297,6 +301,70 @@ export default function HomePage() {
                     }`}>{tag}</span>
                   </div>
                   <p className="text-sm text-slate-400 leading-relaxed">{desc}</p>
+                  {n === '2' && (
+                    <div className="mt-2">
+                      {!showVSCodeImage ? (
+                        <button
+                          onClick={() => setShowVSCodeImage(true)}
+                          className="flex items-center gap-1.5 text-xs text-blue-400 hover:text-blue-300 transition-colors"
+                        >
+                          <ImageIcon className="h-3.5 w-3.5" />
+                          Illustrating
+                        </button>
+                      ) : (
+                        <div className="mt-2 rounded-xl border border-white/10 overflow-hidden">
+                          <button
+                            onClick={() => setShowVSCodeImage(false)}
+                            className="flex w-full items-center gap-1.5 px-3 py-2 text-xs text-slate-400 hover:text-white transition-colors bg-white/5 hover:bg-white/10"
+                          >
+                            <ChevronUp className="h-3.5 w-3.5" />
+                            Collapse
+                          </button>
+                          <div className="p-2">
+                            <Image
+                              src="/images/install_VS_Code.png"
+                              alt="How to install Visual Studio Code"
+                              width={800}
+                              height={500}
+                              className="w-full rounded-lg"
+                            />
+                          </div>
+                        </div>
+                      )}
+                    </div>
+                  )}
+                  {n === '1' && (
+                    <div className="mt-2">
+                      {!showInstallImage ? (
+                        <button
+                          onClick={() => setShowInstallImage(true)}
+                          className="flex items-center gap-1.5 text-xs text-blue-400 hover:text-blue-300 transition-colors"
+                        >
+                          <ImageIcon className="h-3.5 w-3.5" />
+                          Illustrating
+                        </button>
+                      ) : (
+                        <div className="mt-2 rounded-xl border border-white/10 overflow-hidden">
+                          <button
+                            onClick={() => setShowInstallImage(false)}
+                            className="flex w-full items-center gap-1.5 px-3 py-2 text-xs text-slate-400 hover:text-white transition-colors bg-white/5 hover:bg-white/10"
+                          >
+                            <ChevronUp className="h-3.5 w-3.5" />
+                            Collapse
+                          </button>
+                          <div className="p-2">
+                            <Image
+                              src="/images/install_node_git.png"
+                              alt="How to install Node.js and Git"
+                              width={800}
+                              height={500}
+                              className="w-full rounded-lg"
+                            />
+                          </div>
+                        </div>
+                      )}
+                    </div>
+                  )}
                 </div>
                 <div className={`hidden sm:flex shrink-0 items-start pt-0.5 ${accent ? 'text-blue-400' : 'text-slate-600'}`}>
                   {icon}
