@@ -596,5 +596,30 @@
     "demoUrl": "https://misskey-hub.net",
     "cloneCommand": "git clone https://github.com/misskey-dev/misskey",
     "lastUpdated": "2025-01-13"
+  },
+  {
+    "id": "mirofish",
+    "name": "MiroFish",
+    "description": "Open-source swarm intelligence engine that spawns thousands of AI agents to simulate opinions, markets, and social dynamics — then generates a prediction report. Feed it any seed material and watch a digital world emerge.",
+    "githubUrl": "https://github.com/666ghj/MiroFish",
+    "stars": 28800,
+    "category": "productivity",
+    "tags": ["ai", "multi-agent", "prediction", "simulation", "python"],
+    "stack": ["Python", "GraphRAG", "LLM"],
+    "cloneCommand": "git clone https://github.com/666ghj/MiroFish",
+    "lastUpdated": "2026-03-16"
+  },
+  {
+    "id": "openmaic",
+    "name": "OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom from Tsinghua University. Turn any topic or document into a live classroom with AI teachers and classmates — complete with slides, quizzes, whiteboard, and real-time discussion.",
+    "githubUrl": "https://github.com/THU-MAIC/OpenMAIC",
+    "stars": 1700,
+    "category": "education",
+    "tags": ["ai", "multi-agent", "classroom", "llm", "interactive"],
+    "stack": ["Next.js", "TypeScript", "React", "LangGraph"],
+    "demoUrl": "https://open.maic.chat",
+    "cloneCommand": "git clone https://github.com/THU-MAIC/OpenMAIC",
+    "lastUpdated": "2026-03-16"
   }
 ]
