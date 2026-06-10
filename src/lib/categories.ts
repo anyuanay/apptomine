@@ -1,0 +1,143 @@
+import type { App, Category, DiscoveryMode } from '@/types/app';
+
+export interface CategoryDefinition {
+  id: Category;
+  label: string;
+  description: string;
+  keywords: string[];
+  color: string;
+}
+
+export interface DiscoveryModeDefinition {
+  id: DiscoveryMode;
+  label: string;
+  description: string;
+}
+
+export const CATEGORIES: CategoryDefinition[] = [
+  {
+    id: 'all',
+    label: 'All Apps',
+    description: 'Browse all curated open source apps',
+    keywords: [],
+    color: 'bg-blue-600',
+  },
+  {
+    id: 'creative',
+    label: 'Creative',
+    description: 'Generative art, music, visual tools, and creative coding',
+    keywords: ['creative', 'art', 'music', 'generative', 'visual', 'shader', 'drawing', 'pixel', 'font'],
+    color: 'bg-fuchsia-600',
+  },
+  {
+    id: 'tools',
+    label: 'Tools',
+    description: 'CLI utilities, developer tools, and productivity aids',
+    keywords: ['tool', 'cli', 'terminal', 'utility', 'developer', 'git', 'editor', 'wiki'],
+    color: 'bg-emerald-600',
+  },
+  {
+    id: 'data',
+    label: 'Data',
+    description: 'Data viewers, pipelines, visualizations, and analysis tools',
+    keywords: ['data', 'csv', 'json', 'sql', 'visualization', 'analytics', 'database', 'maps'],
+    color: 'bg-sky-600',
+  },
+  {
+    id: 'games',
+    label: 'Games',
+    description: 'Game engines, game jam entries, and interactive fiction',
+    keywords: ['game', 'engine', 'roguelike', 'jam', 'interactive', 'physics', 'dialogue'],
+    color: 'bg-red-600',
+  },
+  {
+    id: 'learning',
+    label: 'Learning',
+    description: 'Educational tools, flashcards, and learn-by-building projects',
+    keywords: ['learning', 'education', 'flashcard', 'tutorial', 'renderer', 'algorithm'],
+    color: 'bg-amber-600',
+  },
+  {
+    id: 'automation',
+    label: 'Automation',
+    description: 'Bots, scrapers, webhooks, and workflow tools',
+    keywords: ['automation', 'bot', 'webhook', 'rss', 'proxy', 'scraper', 'workflow'],
+    color: 'bg-violet-600',
+  },
+  {
+    id: 'web',
+    label: 'Web',
+    description: 'Small web apps, PWAs, browser tools, and single-page experiments',
+    keywords: ['web', 'pwa', 'browser', 'html', 'css', 'search', 'app'],
+    color: 'bg-orange-600',
+  },
+];
+
+export const DISCOVERY_MODES: DiscoveryModeDefinition[] = [
+  { id: 'all', label: 'All Apps', description: 'All apps, sorted by seed score' },
+  { id: 'dormant-gems', label: 'Dormant Gems', description: 'Abandoned but cool — free real estate' },
+  { id: 'single-file', label: 'Single-File Wonders', description: 'Entire project in one file, under 500 LOC' },
+  { id: 'jam-survivors', label: 'Jam Survivors', description: 'Game jam and hackathon entries with extension potential' },
+  { id: 'tiny-and-complete', label: 'Tiny & Complete', description: 'Under 1,000 LOC but fully functional' },
+];
+
+export function getCategoryDefinition(id: Category): CategoryDefinition {
+  return CATEGORIES.find((c) => c.id === id) ?? CATEGORIES[0];
+}
+
+export function filterByDiscoveryMode(apps: App[], mode: DiscoveryMode): App[] {
+  switch (mode) {
+    case 'dormant-gems':
+      return apps.filter((a) => a.dormant);
+    case 'single-file':
+      return apps.filter((a) => a.singleFile);
+    case 'jam-survivors':
+      return apps.filter((a) =>
+        a.tags.some((t) => ['game-jam', 'js13k', 'jam', 'hackathon', 'ludum-dare', 'game-jam'].includes(t)) ||
+        a.tags.some((t) => t.includes('jam')) ||
+        a.category === 'games'
+      );
+    case 'tiny-and-complete':
+      return apps.filter((a) => a.loc <= 1000);
+    default:
+      return apps;
+  }
+}
+
+export function filterApps(apps: App[], category: Category, query: string, discoveryMode: DiscoveryMode = 'all'): App[] {
+  let filtered = filterByDiscoveryMode(apps, discoveryMode);
+
+  if (category !== 'all') {
+    filtered = filtered.filter((app) => app.category === category);
+  }
+
+  if (query.trim()) {
+    const q = query.toLowerCase();
+    filtered = filtered.filter(
+      (app) =>
+        app.name.toLowerCase().includes(q) ||
+        app.description.toLowerCase().includes(q) ||
+        app.spark.toLowerCase().includes(q) ||
+        app.tags.some((t) => t.toLowerCase().includes(q)) ||
+        app.stack.some((s) => s.toLowerCase().includes(q)) ||
+        app.category.toLowerCase().includes(q)
+    );
+  }
+
+  filtered.sort((a, b) => b.seedScore.total - a.seedScore.total);
+
+  return filtered;
+}
+
+export function getCategoryBadgeClass(category: Exclude<Category, 'all'>): string {
+  const map: Record<Exclude<Category, 'all'>, string> = {
+    creative:   'bg-fuchsia-500/20 text-fuchsia-400 border border-fuchsia-500/30',
+    tools:      'bg-emerald-500/20 text-emerald-400 border border-emerald-500/30',
+    data:       'bg-sky-500/20 text-sky-400 border border-sky-500/30',
+    games:      'bg-red-500/20 text-red-400 border border-red-500/30',
+    learning:   'bg-amber-500/20 text-amber-400 border border-amber-500/30',
+    automation: 'bg-violet-500/20 text-violet-400 border border-violet-500/30',
+    web:        'bg-orange-500/20 text-orange-400 border border-orange-500/30',
+  };
+  return map[category] ?? 'bg-blue-500/20 text-blue-400 border border-blue-500/30';
+}
