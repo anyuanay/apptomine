@@ -1141,6 +1141,146 @@
     }
   },
   {
+    "id": "sufirehman-carbon-aware-ml-scheduler",
+    "name": "Carbon Aware Ml Scheduler",
+    "description": "A carbon-aware ML training scheduling system that optimises machine learning workloads using real-time UK grid carbon intensity data. It simulates ML training, finds optimal low-carbon execution windows, and visualises carbon savings through an interactive multi-page Streamlit analytics dashboard.",
+    "spark": "A carbon-aware ML training scheduling system that optimises machine learning workloads using real-time UK grid carbon intensity data. It simulates ML training, finds optimal low-carbon execution windows, and visualises carbon savings through an interactive multi-page Streamlit analytics dashboard.",
+    "githubUrl": "https://github.com/sufirehman/carbon-aware-ml-scheduler",
+    "stars": 13,
+    "license": "MIT",
+    "category": "data",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/sufirehman/carbon-aware-ml-scheduler",
+    "lastUpdated": "2026-06-11",
+    "loc": 222,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 37
+    }
+  },
+  {
+    "id": "gotd-cli",
+    "name": "Cli",
+    "description": "The command line utility for Telegram",
+    "spark": "The command line utility for Telegram",
+    "githubUrl": "https://github.com/gotd/cli",
+    "stars": 22,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "automation",
+      "bot",
+      "cli",
+      "go",
+      "telegram"
+    ],
+    "stack": [
+      "Go"
+    ],
+    "cloneCommand": "git clone https://github.com/gotd/cli",
+    "lastUpdated": "2026-06-13",
+    "loc": 420,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 37
+    }
+  },
+  {
+    "id": "visquill-visquill-lab",
+    "name": "Visquill Lab",
+    "description": "Demos, concepts, and reusable blueprints built with the VisQuill GDK - an interactive browser-based explorer for reactive data visualizations.",
+    "spark": "Demos, concepts, and reusable blueprints built with the VisQuill GDK - an interactive browser-based explorer for reactive data visualizations.",
+    "githubUrl": "https://github.com/visquill/visquill-lab",
+    "stars": 9,
+    "license": "MIT",
+    "category": "data",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/visquill/visquill-lab",
+    "lastUpdated": "2026-06-10",
+    "loc": 278,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 37
+    }
+  },
+  {
+    "id": "leelibona-pulsepoint--patient-appointment-records-system",
+    "name": "Pulsepoint  Patient Appointment Records System",
+    "description": "A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.",
+    "spark": "A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.",
+    "githubUrl": "https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System",
+    "stars": 17,
+    "license": "MIT",
+    "category": "data",
+    "tags": [
+      "java"
+    ],
+    "stack": [
+      "Java"
+    ],
+    "cloneCommand": "git clone https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System",
+    "lastUpdated": "2026-05-31",
+    "loc": 457,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 37
+    }
+  },
+  {
     "id": "dotting",
     "name": "Dotting",
     "description": "Dotting is a pixel art editor component library for React. Build pixel editors, sprite tools, or any grid-based drawing interface.",
@@ -5635,6 +5775,997 @@
     }
   },
   {
+    "id": "dnyarri-pixelartscaling",
+    "name": "Pixelartscaling",
+    "description": "Scale2x, Scale3x, Scale2xSFX and Scale3xSFX scaling of pixel art and low-resolution scans for OCR",
+    "spark": "Scale2x, Scale3x, Scale2xSFX and Scale3xSFX scaling of pixel art and low-resolution scans for OCR",
+    "githubUrl": "https://github.com/Dnyarri/PixelArtScaling",
+    "stars": 6,
+    "license": "Unlicense",
+    "category": "creative",
+    "tags": [
+      "advmame2x",
+      "advmame3x",
+      "batch",
+      "image-manipulation",
+      "image-processing",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://dnyarri.github.io/scalenx.html",
+    "cloneCommand": "git clone https://github.com/Dnyarri/PixelArtScaling",
+    "lastUpdated": "2026-06-12",
+    "loc": 369,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "neondatabase-neonctl",
+    "name": "Neonctl",
+    "description": "Neon CLI tool. The Neon CLI is a command-line interface that lets you manage Neon Serverless Postgres directly from the terminal.",
+    "spark": "Neon CLI tool. The Neon CLI is a command-line interface that lets you manage Neon Serverless Postgres directly from the terminal.",
+    "githubUrl": "https://github.com/neondatabase/neonctl",
+    "stars": 113,
+    "license": "Apache-2.0",
+    "category": "tools",
+    "tags": [
+      "cli",
+      "database",
+      "postgres",
+      "postgresql",
+      "serverless",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://neon.com/docs/reference/neon-cli",
+    "cloneCommand": "git clone https://github.com/neondatabase/neonctl",
+    "lastUpdated": "2026-06-12",
+    "loc": 3177,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "azat-chdig",
+    "name": "Chdig",
+    "description": "Dig into ClickHouse with TUI interface.",
+    "spark": "Dig into ClickHouse with TUI interface.",
+    "githubUrl": "https://github.com/azat/chdig",
+    "stars": 288,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "clickhouse",
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "cloneCommand": "git clone https://github.com/azat/chdig",
+    "lastUpdated": "2026-06-12",
+    "loc": 1280,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "mpreissner-zs-config",
+    "name": "Zs Config",
+    "description": "Interactive TUI for Zscaler OneAPI — manage multiple Zscaler products with a local DB cache for fast lookups and bulk operations",
+    "spark": "Interactive TUI for Zscaler OneAPI — manage multiple Zscaler products with a local DB cache for fast lookups and bulk operations",
+    "githubUrl": "https://github.com/mpreissner/zs-config",
+    "stars": 6,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/mpreissner/zs-config",
+    "lastUpdated": "2026-06-12",
+    "loc": 3448,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "materkey-ccfullsearch",
+    "name": "Ccfullsearch",
+    "description": "TUI tool for searching and browsing Claude Code and Codex session history",
+    "spark": "TUI tool for searching and browsing Claude Code and Codex session history",
+    "githubUrl": "https://github.com/materkey/ccfullsearch",
+    "stars": 6,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "cloneCommand": "git clone https://github.com/materkey/ccfullsearch",
+    "lastUpdated": "2026-06-12",
+    "loc": 1766,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "sanne-incus-spawn",
+    "name": "Incus Spawn",
+    "description": "CLI and TUI wrapper to manage sandboxing containers for agentic development",
+    "spark": "CLI and TUI wrapper to manage sandboxing containers for agentic development",
+    "githubUrl": "https://github.com/Sanne/incus-spawn",
+    "stars": 22,
+    "license": "Apache-2.0",
+    "category": "tools",
+    "tags": [
+      "java"
+    ],
+    "stack": [
+      "Java"
+    ],
+    "cloneCommand": "git clone https://github.com/Sanne/incus-spawn",
+    "lastUpdated": "2026-06-12",
+    "loc": 800,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "sectore-timr-tui",
+    "name": "Timr Tui",
+    "description": "TUI to organize your time: Pomodoro, Countdown, Timer, Event.",
+    "spark": "TUI to organize your time: Pomodoro, Countdown, Timer, Event.",
+    "githubUrl": "https://github.com/sectore/timr-tui",
+    "stars": 349,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "pomodoro",
+      "ratatui",
+      "rust",
+      "tui"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "cloneCommand": "git clone https://github.com/sectore/timr-tui",
+    "lastUpdated": "2026-06-12",
+    "loc": 2784,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -0.5,
+      "total": 34
+    }
+  },
+  {
+    "id": "valiere01-ise-trace",
+    "name": "Ise Trace",
+    "description": "An agentic data pipeline, smarter and broader",
+    "spark": "An agentic data pipeline, smarter and broader",
+    "githubUrl": "https://github.com/Valiere01/ISE-Trace",
+    "stars": 7,
+    "license": "MIT",
+    "category": "data",
+    "tags": [],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/Valiere01/ISE-Trace",
+    "lastUpdated": "2026-06-12",
+    "loc": 667,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "seailz-shader-devtools",
+    "name": "Shader Devtools",
+    "description": "Client-side dev tools for working on Minecraft core shaders, post shaders, post effects, and render pipelines without restarting the game or reloading the resource pack",
+    "spark": "Client-side dev tools for working on Minecraft core shaders, post shaders, post effects, and render pipelines without restarting the game or reloading the resource pack",
+    "githubUrl": "https://github.com/seailz/shader-devtools",
+    "stars": 13,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "java"
+    ],
+    "stack": [
+      "Java"
+    ],
+    "demoUrl": "https://modrinth.com/mod/shader-devtools",
+    "cloneCommand": "git clone https://github.com/seailz/shader-devtools",
+    "lastUpdated": "2026-06-13",
+    "loc": 143,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "spritecook-skills",
+    "name": "Skills",
+    "description": "Skills for autonomous agents generating pixel art using SpriteCook",
+    "spark": "Skills for autonomous agents generating pixel art using SpriteCook",
+    "githubUrl": "https://github.com/SpriteCook/skills",
+    "stars": 11,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/SpriteCook/skills",
+    "lastUpdated": "2026-06-10",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "jsulpis-radiance",
+    "name": "Radiance",
+    "description": "Lightweight, reactive WebGL library for working with shaders",
+    "spark": "Lightweight, reactive WebGL library for working with shaders",
+    "githubUrl": "https://github.com/jsulpis/radiance",
+    "stars": 17,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://usegl.vercel.app",
+    "cloneCommand": "git clone https://github.com/jsulpis/radiance",
+    "lastUpdated": "2026-06-10",
+    "loc": 3720,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "albanogiovanni-godot-anime-sdf-shader",
+    "name": "Godot Anime Sdf Shader",
+    "description": "Advanced Procedural Anime Cel Shader Kit for Godot 4. Features SDF Face Shader, stable World-Space lighting, and Dynamic Z-Depth Outlines. GDShader & VisualShader versions.",
+    "spark": "Advanced Procedural Anime Cel Shader Kit for Godot 4. Features SDF Face Shader, stable World-Space lighting, and Dynamic Z-Depth Outlines. GDShader & VisualShader versions.",
+    "githubUrl": "https://github.com/albanogiovanni/godot-anime-sdf-shader",
+    "stars": 5,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "gdshader"
+    ],
+    "stack": [
+      "GDShader"
+    ],
+    "cloneCommand": "git clone https://github.com/albanogiovanni/godot-anime-sdf-shader",
+    "lastUpdated": "2026-06-10",
+    "loc": 6012,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "zaidmukaddam-scira-cli",
+    "name": "Scira Cli",
+    "description": "TUI/CLI interface where Code meets Research",
+    "spark": "TUI/CLI interface where Code meets Research",
+    "githubUrl": "https://github.com/zaidmukaddam/scira-cli",
+    "stars": 7,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://cli.scira.ai/",
+    "cloneCommand": "git clone https://github.com/zaidmukaddam/scira-cli",
+    "lastUpdated": "2026-06-13",
+    "loc": 1540,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "suzuki-shunsuke-ci-info",
+    "name": "Ci Info",
+    "description": "CLI tool to get CI related information",
+    "spark": "CLI tool to get CI related information",
+    "githubUrl": "https://github.com/suzuki-shunsuke/ci-info",
+    "stars": 15,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "ci",
+      "cli",
+      "oss",
+      "go"
+    ],
+    "stack": [
+      "Go"
+    ],
+    "cloneCommand": "git clone https://github.com/suzuki-shunsuke/ci-info",
+    "lastUpdated": "2026-06-13",
+    "loc": 1622,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "acoyfellow-tuiport",
+    "name": "Tuiport",
+    "description": "Wish-style SSH applications built with OpenTUI and deployed in a Cloudflare Container.",
+    "spark": "Wish-style SSH applications built with OpenTUI and deployed in a Cloudflare Container.",
+    "githubUrl": "https://github.com/acoyfellow/tuiport",
+    "stars": 14,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "agent-experience",
+      "cloudflare",
+      "containers",
+      "opentui",
+      "ssh",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://tuiport.coey.dev",
+    "cloneCommand": "git clone https://github.com/acoyfellow/tuiport",
+    "lastUpdated": "2026-06-13",
+    "loc": 1400,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "edimuj-tokenlean",
+    "name": "Tokenlean",
+    "description": "Lean CLI tools for AI agents and developers - reduce context, save tokens",
+    "spark": "Lean CLI tools for AI agents and developers - reduce context, save tokens",
+    "githubUrl": "https://github.com/edimuj/tokenlean",
+    "stars": 9,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "agent-tools",
+      "ai-agent-tools",
+      "cli-tools",
+      "context7",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "cloneCommand": "git clone https://github.com/edimuj/tokenlean",
+    "lastUpdated": "2026-06-13",
+    "loc": 2919,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "carlosdanieldev-maestro",
+    "name": "Maestro",
+    "description": "Maestro spawns and monitors multiple AI providers sessions working on the same project simultaneously. It provides real-time visibility into what each agent is doing, how much it's spending, and coordinates their work to prevent conflicts — all from a single TUI dashboard.",
+    "spark": "Maestro spawns and monitors multiple AI providers sessions working on the same project simultaneously. It provides real-time visibility into what each agent is doing, how much it's spending, and coordinates their work to prevent conflicts — all from a single TUI dashboard.",
+    "githubUrl": "https://github.com/CarlosDanielDev/maestro",
+    "stars": 27,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "cloneCommand": "git clone https://github.com/CarlosDanielDev/maestro",
+    "lastUpdated": "2026-06-13",
+    "loc": 5438,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "zseven-w-zode",
+    "name": "Zode",
+    "description": "AI-native coding CLI for your terminal. Microkernel + plugin architecture, multi-provider, full-screen TUI.",
+    "spark": "AI-native coding CLI for your terminal. Microkernel + plugin architecture, multi-provider, full-screen TUI.",
+    "githubUrl": "https://github.com/ZSeven-W/zode",
+    "stars": 7,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "ai",
+      "cli",
+      "coding-assistant",
+      "rust",
+      "terminal"
+    ],
+    "stack": [
+      "Rust",
+      "typescript"
+    ],
+    "cloneCommand": "git clone https://github.com/ZSeven-W/zode",
+    "lastUpdated": "2026-06-13",
+    "loc": 264,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "young-lillo-data-visualization-skills",
+    "name": "Data Visualization Skills",
+    "description": "A Codex skill kit to visualize data",
+    "spark": "A Codex skill kit to visualize data",
+    "githubUrl": "https://github.com/young-lillo/data-visualization-skills",
+    "stars": 11,
+    "license": "MIT",
+    "category": "data",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/young-lillo/data-visualization-skills",
+    "lastUpdated": "2026-06-13",
+    "loc": 2862,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "construkts-gasket-rs",
+    "name": "Gasket Rs",
+    "description": "An opinionated Rust library for building application using data pipeline semantics.",
+    "spark": "An opinionated Rust library for building application using data pipeline semantics.",
+    "githubUrl": "https://github.com/construkts/gasket-rs",
+    "stars": 13,
+    "license": "Apache-2.0",
+    "category": "data",
+    "tags": [
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "cloneCommand": "git clone https://github.com/construkts/gasket-rs",
+    "lastUpdated": "2026-06-13",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "bandtec-web-data-viz",
+    "name": "Web Data Viz",
+    "description": "Web Data Visualization (Visualização de Dados na Web) - Implementação de Referência para o seu Projeto de Primeiro Semestre",
+    "spark": "Web Data Visualization (Visualização de Dados na Web) - Implementação de Referência para o seu Projeto de Primeiro Semestre",
+    "githubUrl": "https://github.com/BandTec/web-data-viz",
+    "stars": 152,
+    "license": "MIT",
+    "category": "data",
+    "tags": [
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "cloneCommand": "git clone https://github.com/BandTec/web-data-viz",
+    "lastUpdated": "2026-06-12",
+    "loc": 2261,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "simeg-dotfiles",
+    "name": "Dotfiles",
+    "description": ":star: My personal dotfiles with automated macOS setup. Features smart installation scripts, Bats testing (bash), performance monitoring, and 20+ make targets for system optimization. Includes modular Zsh config, Neovim setup, Starship themes, package management, and analytics dashboard.",
+    "spark": ":star: My personal dotfiles with automated macOS setup. Features smart installation scripts, Bats testing (bash), performance monitoring, and 20+ make targets for system optimization. Includes modular Zsh config, Neovim setup, Starship themes, package management, and analytics dashboard.",
+    "githubUrl": "https://github.com/simeg/dotfiles",
+    "stars": 12,
+    "license": "MIT",
+    "category": "data",
+    "tags": [
+      "dotfiles",
+      "shell"
+    ],
+    "stack": [
+      "Shell"
+    ],
+    "cloneCommand": "git clone https://github.com/simeg/dotfiles",
+    "lastUpdated": "2026-06-12",
+    "loc": 4650,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "zumboww-financial_market_data_pipeline",
+    "name": "Financial Market Data Pipeline",
+    "description": "A Medallion-architecture real-time data pipeline ingesting gold, currency, and crypto prices via Redpanda → Spark Structured Streaming → MinIO (Parquet) → ClickHouse OLAP, served through FastAPI REST endpoints and visualized in Grafana. Orchestrated with Apache Airflow.",
+    "spark": "A Medallion-architecture real-time data pipeline ingesting gold, currency, and crypto prices via Redpanda → Spark Structured Streaming → MinIO (Parquet) → ClickHouse OLAP, served through FastAPI REST endpoints and visualized in Grafana. Orchestrated with Apache Airflow.",
+    "githubUrl": "https://github.com/Zumboww/Financial_Market_Data_PipeLine",
+    "stars": 5,
+    "license": "MIT",
+    "category": "data",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/Zumboww/Financial_Market_Data_PipeLine",
+    "lastUpdated": "2026-06-06",
+    "loc": 2690,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "salesforceairesearch-pretrainrl-pipeline",
+    "name": "Pretrainrl Pipeline",
+    "description": "An automated data pipeline scaling RL to pretraining levels",
+    "spark": "An automated data pipeline scaling RL to pretraining levels",
+    "githubUrl": "https://github.com/SalesforceAIResearch/PretrainRL-pipeline",
+    "stars": 77,
+    "license": "Apache-2.0",
+    "category": "data",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/SalesforceAIResearch/PretrainRL-pipeline",
+    "lastUpdated": "2026-06-02",
+    "loc": 787,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "ixlab-vidformer",
+    "name": "Vidformer",
+    "description": "A drop-in declarative optimization framework for rendering video data visualizations.",
+    "spark": "A drop-in declarative optimization framework for rendering video data visualizations.",
+    "githubUrl": "https://github.com/ixlab/vidformer",
+    "stars": 69,
+    "license": "Apache-2.0",
+    "category": "data",
+    "tags": [
+      "declarative-video-editing",
+      "video",
+      "video-query",
+      "visualization",
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "demoUrl": "https://ixlab.github.io/vidformer/",
+    "cloneCommand": "git clone https://github.com/ixlab/vidformer",
+    "lastUpdated": "2026-06-02",
+    "loc": 4728,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "data-science-unit-geoflo",
+    "name": "Geoflo",
+    "description": "GeoFlo: An automated data pipeline for downloading, preprocessing, and feature extraction of geospatial datasets, designed to support comprehensive environmental and demographic analysis.",
+    "spark": "GeoFlo: An automated data pipeline for downloading, preprocessing, and feature extraction of geospatial datasets, designed to support comprehensive environmental and demographic analysis.",
+    "githubUrl": "https://github.com/Data-Science-Unit/GeoFlo",
+    "stars": 37,
+    "license": "MIT",
+    "category": "data",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/Data-Science-Unit/GeoFlo",
+    "lastUpdated": "2026-06-01",
+    "loc": 566,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "jintaolee-roger-cigvis",
+    "name": "Cigvis",
+    "description": "CIGVis is a tool for geophysical data visualization, which developed by  Computational Interpretation Group (CIG)",
+    "spark": "CIGVis is a tool for geophysical data visualization, which developed by  Computational Interpretation Group (CIG)",
+    "githubUrl": "https://github.com/JintaoLee-Roger/cigvis",
+    "stars": 139,
+    "license": "MIT",
+    "category": "data",
+    "tags": [
+      "3d-visualization",
+      "geophysics",
+      "python",
+      "seismic",
+      "visualization"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/JintaoLee-Roger/cigvis",
+    "lastUpdated": "2026-06-11",
+    "loc": 568,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "willballentine-sunforge",
+    "name": "Sunforge",
+    "description": "Sunforge is a 2D game engine written in Odin",
+    "spark": "Sunforge is a 2D game engine written in Odin",
+    "githubUrl": "https://github.com/WillBallentine/Sunforge",
+    "stars": 7,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "odin"
+    ],
+    "stack": [
+      "Odin"
+    ],
+    "cloneCommand": "git clone https://github.com/WillBallentine/Sunforge",
+    "lastUpdated": "2026-06-13",
+    "loc": 6568,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
     "id": "webhook-tester",
     "name": "Webhook Tester",
     "description": "Powerful tool for testing WebHooks and more. Self-hosted webhook debugging with a live-updating UI to inspect requests.",
@@ -6072,6 +7203,144 @@
     }
   },
   {
+    "id": "dgraph-io-ratel",
+    "name": "Ratel",
+    "description": "Dgraph Data Visualizer and Cluster Manager",
+    "spark": "Dgraph Data Visualizer and Cluster Manager",
+    "githubUrl": "https://github.com/dgraph-io/ratel",
+    "stars": 147,
+    "license": "Apache-2.0",
+    "category": "data",
+    "tags": [
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "cloneCommand": "git clone https://github.com/dgraph-io/ratel",
+    "lastUpdated": "2026-06-11",
+    "loc": 8511,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 33
+    }
+  },
+  {
+    "id": "dennisochulor-mc-flashcards",
+    "name": "Mc Flashcards",
+    "description": "Study while playing Minecraft.",
+    "spark": "Study while playing Minecraft.",
+    "githubUrl": "https://github.com/DennisOchulor/mc-flashcards",
+    "stars": 8,
+    "license": "MIT",
+    "category": "learning",
+    "tags": [
+      "minecraft",
+      "java"
+    ],
+    "stack": [
+      "Java"
+    ],
+    "demoUrl": "https://modrinth.com/mod/flashcards",
+    "cloneCommand": "git clone https://github.com/DennisOchulor/mc-flashcards",
+    "lastUpdated": "2026-06-12",
+    "loc": 205,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 33
+    }
+  },
+  {
+    "id": "s-sigdel-vimhjkl",
+    "name": "Vimhjkl",
+    "description": "learn vim from your terminal with spaced repetition",
+    "spark": "learn vim from your terminal with spaced repetition",
+    "githubUrl": "https://github.com/S-Sigdel/vimhjkl",
+    "stars": 448,
+    "license": "MIT",
+    "category": "learning",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/S-Sigdel/vimhjkl",
+    "lastUpdated": "2026-06-12",
+    "loc": 594,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 33
+    }
+  },
+  {
+    "id": "amgdy-github-copilot-insights-dashboard",
+    "name": "Github Copilot Insights Dashboard",
+    "description": "A centralized analytics dashboard for enterprise GitHub Copilot adoption. Visualize usage metrics, license allocation, premium request consumption, and AI model activity — all sourced from the GitHub Copilot Usage Metrics API.",
+    "spark": "A centralized analytics dashboard for enterprise GitHub Copilot adoption. Visualize usage metrics, license allocation, premium request consumption, and AI model activity — all sourced from the GitHub Copilot Usage Metrics API.",
+    "githubUrl": "https://github.com/amgdy/github-copilot-insights-dashboard",
+    "stars": 13,
+    "license": "MIT",
+    "category": "data",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/amgdy/github-copilot-insights-dashboard",
+    "lastUpdated": "2026-06-09",
+    "loc": 8412,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 33
+    }
+  },
+  {
     "id": "nevermore23274-aethertune",
     "name": "Aethertune",
     "description": "A terminal-based internet radio player with real-time audio visualization, built in Rust.",
@@ -6261,6 +7530,41 @@
     "cloneCommand": "git clone https://github.com/deneb-viz/deneb",
     "lastUpdated": "2026-06-09",
     "loc": 10904,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 32
+    }
+  },
+  {
+    "id": "corepunch-openwarcraft3",
+    "name": "Openwarcraft3",
+    "description": "Open-source reimplementation of the Warcraft III game engine, written in C. Loads and renders original game assets directly from War3.mpq (v1.0–v1.29b), targeting Linux and macOS.",
+    "spark": "Open-source reimplementation of the Warcraft III game engine, written in C. Loads and renders original game assets directly from War3.mpq (v1.0–v1.29b), targeting Linux and macOS.",
+    "githubUrl": "https://github.com/corepunch/openwarcraft3",
+    "stars": 68,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "c"
+    ],
+    "stack": [
+      "C"
+    ],
+    "demoUrl": "https://corepunch.github.io/openwarcraft3/",
+    "cloneCommand": "git clone https://github.com/corepunch/openwarcraft3",
+    "lastUpdated": "2026-06-12",
+    "loc": 10279,
     "authorCount": 1,
     "dormant": false,
     "singleFile": false,
@@ -9269,6 +10573,793 @@
     }
   },
   {
+    "id": "renanbomtempo-polygon-wind",
+    "name": "Polygon Wind",
+    "description": "Unity shader to emulate wind on low poly assets.",
+    "spark": "Unity shader to emulate wind on low poly assets.",
+    "githubUrl": "https://github.com/renanbomtempo/polygon-wind",
+    "stars": 175,
+    "license": "Apache-2.0",
+    "category": "creative",
+    "tags": [
+      "glsl-shaders",
+      "lowpoly",
+      "polygon-wind",
+      "shader",
+      "unity",
+      "shaderlab"
+    ],
+    "stack": [
+      "ShaderLab"
+    ],
+    "demoUrl": "https://forum.unity.com/threads/shader-open-source-polygon-wind-for-low-poly-tree-assets.499240/",
+    "cloneCommand": "git clone https://github.com/renanbomtempo/polygon-wind",
+    "lastUpdated": "2026-06-12",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "mob-sakai-compositecanvasrenderer",
+    "name": "Compositecanvasrenderer",
+    "description": "CompositeCanvasRenderer bakes multiple source graphics into a bake-buffer (RenderTexture) and renders it. Additional material modification, mesh modification, and baking effects are supported! Let's enjoy the effects that were difficult to implement with UI shaders, such as blur, soft outline, and soft shadow!",
+    "spark": "CompositeCanvasRenderer bakes multiple source graphics into a bake-buffer (RenderTexture) and renders it. Additional material modification, mesh modification, and baking effects are supported! Let's enjoy the effects that were difficult to implement with UI shaders, such as blur, soft outline, and soft shadow!",
+    "githubUrl": "https://github.com/mob-sakai/CompositeCanvasRenderer",
+    "stars": 206,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "bake",
+      "bloom",
+      "blur",
+      "effects",
+      "glow",
+      "c#"
+    ],
+    "stack": [
+      "C#"
+    ],
+    "demoUrl": "https://mob-sakai.github.io/CompositeCanvasRenderer/",
+    "cloneCommand": "git clone https://github.com/mob-sakai/CompositeCanvasRenderer",
+    "lastUpdated": "2026-06-12",
+    "loc": 971,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "mob-sakai-uimaterialpropertyinjector",
+    "name": "Uimaterialpropertyinjector",
+    "description": "This package provides a component that allows easy modification/animation of material properties for Unity UI (uGUI) without the need for shader-specific custom components.",
+    "spark": "This package provides a component that allows easy modification/animation of material properties for Unity UI (uGUI) without the need for shader-specific custom components.",
+    "githubUrl": "https://github.com/mob-sakai/UIMaterialPropertyInjector",
+    "stars": 174,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "animatable",
+      "component",
+      "material",
+      "ugui",
+      "uguicomponent",
+      "c#"
+    ],
+    "stack": [
+      "C#"
+    ],
+    "demoUrl": "https://mob-sakai.github.io/UIMaterialPropertyInjector/",
+    "cloneCommand": "git clone https://github.com/mob-sakai/UIMaterialPropertyInjector",
+    "lastUpdated": "2026-06-12",
+    "loc": 787,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "selcukcukur-webgl",
+    "name": "Webgl",
+    "description": "A modular WebGL toolkit — type‑safe, lightweight helpers for every rendering need.",
+    "spark": "A modular WebGL toolkit — type‑safe, lightweight helpers for every rendering need.",
+    "githubUrl": "https://github.com/selcukcukur/webgl",
+    "stars": 5,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "3d",
+      "attribute",
+      "buffer",
+      "canvas",
+      "gpu",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/selcukcukur/webgl",
+    "lastUpdated": "2026-06-12",
+    "loc": 106,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "josephoibrahim-houdini_camera_rig_system",
+    "name": "Houdini Camera Rig System",
+    "description": "Physically-grounded virtual cinematography for Houdini 21 Solaris. PDF-authoritative Cooke anamorphic registry (S35 + FF+) wired into the rigs, vcc-compiled Karma lens shader (Brown-Conrady + mumps + nodal pupil), six 2026 cinema body presets (ARRI / Sony / RED / Blackmagic), fluid-head biomechanics, Copernicus 2.0 post-processing.",
+    "spark": "Physically-grounded virtual cinematography for Houdini 21 Solaris. PDF-authoritative Cooke anamorphic registry (S35 + FF+) wired into the rigs, vcc-compiled Karma lens shader (Brown-Conrady + mumps + nodal pupil), six 2026 cinema body presets (ARRI / Sony / RED / Blackmagic), fluid-head biomechanics, Copernicus 2.0 post-processing.",
+    "githubUrl": "https://github.com/JosephOIbrahim/Houdini_Camera_Rig_System",
+    "stars": 8,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "anamorphic",
+      "arri-alexa",
+      "biomechanics",
+      "camera-rig",
+      "cinema-camera",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/JosephOIbrahim/Houdini_Camera_Rig_System",
+    "lastUpdated": "2026-06-11",
+    "loc": 1370,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "suren878-matrixclaw",
+    "name": "Matrixclaw",
+    "description": "Always-on local AI assistant and AI coding agent runtime in Go. OpenClaw, Claude Code, Codex, and OpenCode alternative with Terminal TUI, Telegram, MCP tools, SQLite memory, approvals, scheduled tasks, and subagents.",
+    "spark": "Always-on local AI assistant and AI coding agent runtime in Go. OpenClaw, Claude Code, Codex, and OpenCode alternative with Terminal TUI, Telegram, MCP tools, SQLite memory, approvals, scheduled tasks, and subagents.",
+    "githubUrl": "https://github.com/Suren878/matrixclaw",
+    "stars": 20,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "ai-agent",
+      "ai-assistant",
+      "ai-coding-agent",
+      "autonomous-agent",
+      "claude-code",
+      "go"
+    ],
+    "stack": [
+      "Go"
+    ],
+    "cloneCommand": "git clone https://github.com/Suren878/matrixclaw",
+    "lastUpdated": "2026-06-12",
+    "loc": 1301,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "maliknajjar-guifier",
+    "name": "Guifier",
+    "description": "An interactive front-end toolkit simplifying JSON, YAML, TOML, and XML data. Visualize, edit, and perform real-time data manipulations. Empower your data-driven apps with user-friendly data processing and interactive visualization.",
+    "spark": "An interactive front-end toolkit simplifying JSON, YAML, TOML, and XML data. Visualize, edit, and perform real-time data manipulations. Empower your data-driven apps with user-friendly data processing and interactive visualization.",
+    "githubUrl": "https://github.com/maliknajjar/guifier",
+    "stars": 103,
+    "license": "MIT",
+    "category": "data",
+    "tags": [
+      "data-editing-tools",
+      "data-visualization",
+      "interactive-ui",
+      "json-processing",
+      "npm-package",
+      "svelte"
+    ],
+    "stack": [
+      "Svelte"
+    ],
+    "demoUrl": "https://guifier.com",
+    "cloneCommand": "git clone https://github.com/maliknajjar/guifier",
+    "lastUpdated": "2026-06-12",
+    "loc": 1177,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "bitquery-widgets",
+    "name": "Widgets",
+    "description": "Widgets for blockchain data visualizations",
+    "spark": "Widgets for blockchain data visualizations",
+    "githubUrl": "https://github.com/bitquery/widgets",
+    "stars": 133,
+    "license": "MIT",
+    "category": "data",
+    "tags": [
+      "analytics",
+      "blockchain",
+      "data",
+      "graphql",
+      "statistics",
+      "vue"
+    ],
+    "stack": [
+      "Vue"
+    ],
+    "cloneCommand": "git clone https://github.com/bitquery/widgets",
+    "lastUpdated": "2026-06-11",
+    "loc": 2658,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "absaoss-pramen",
+    "name": "Pramen",
+    "description": "Resilient data pipeline framework running on Apache Spark",
+    "spark": "Resilient data pipeline framework running on Apache Spark",
+    "githubUrl": "https://github.com/AbsaOSS/pramen",
+    "stars": 30,
+    "license": "Apache-2.0",
+    "category": "data",
+    "tags": [
+      "big-data",
+      "data-pipeline",
+      "etl",
+      "hacktoberfest",
+      "scala"
+    ],
+    "stack": [
+      "Scala"
+    ],
+    "cloneCommand": "git clone https://github.com/AbsaOSS/pramen",
+    "lastUpdated": "2026-06-11",
+    "loc": 4379,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "1homsi-cubeforge",
+    "name": "Cubeforge",
+    "description": "React-first 2D browser game engine. Write games the same way you write interfaces.",
+    "spark": "React-first 2D browser game engine. Write games the same way you write interfaces.",
+    "githubUrl": "https://github.com/1homsi/cubeforge",
+    "stars": 9,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "2d-game",
+      "browser-game",
+      "canvas",
+      "ecs",
+      "game-development",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript",
+      "react"
+    ],
+    "demoUrl": "https://cubeforge.dev/",
+    "cloneCommand": "git clone https://github.com/1homsi/cubeforge",
+    "lastUpdated": "2026-06-12",
+    "loc": 1827,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "pokerdeveloper-real-time-multiplayer-poker-game-engine-",
+    "name": "Real Time Multiplayer Poker Game Engine ",
+    "description": "德州游戏，德州俱乐部源码，德州扑克源码，德州联盟，HHpoker源码，德扑圈源码，百人牛牛，德州朋友局；德州撲克源碼，德州源碼，德州俱樂部，德州私人局，德州朋友局源碼；WPK，WPK源码,HHpoker源码，AAPOKER，ALLIN，ALLIN源码，AAPOKER，Real-time multiplayer poker server | scalable game backend | WebSocket | game architectureComplete Texas Hold'em poker sourcae code (Club & Gold Coin modes).",
+    "spark": "德州游戏，德州俱乐部源码，德州扑克源码，德州联盟，HHpoker源码，德扑圈源码，百人牛牛，德州朋友局；德州撲克源碼，德州源碼，德州俱樂部，德州私人局，德州朋友局源碼；WPK，WPK源码,HHpoker源码，AAPOKER，ALLIN，ALLIN源码，AAPOKER，Real-time multiplayer poker server | scalable game backend | WebSocket | game architectureComplete Texas Hold'em poker sourcae code (Club & Gold Coin modes).",
+    "githubUrl": "https://github.com/pokerdeveloper/Real-time-Multiplayer-Poker-Game-Engine-",
+    "stars": 8,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "club-poker",
+      "game-server",
+      "multiplayer",
+      "poker",
+      "poker-ai",
+      "c++"
+    ],
+    "stack": [
+      "C++"
+    ],
+    "cloneCommand": "git clone https://github.com/pokerdeveloper/Real-time-Multiplayer-Poker-Game-Engine-",
+    "lastUpdated": "2026-06-12",
+    "loc": 4884,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "zoeesilcock-flint",
+    "name": "Flint",
+    "description": "Building blocks for the game engine your game actually needs.",
+    "spark": "Building blocks for the game engine your game actually needs.",
+    "githubUrl": "https://github.com/zoeesilcock/flint",
+    "stars": 26,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "flint",
+      "game-development",
+      "imgui",
+      "sdl",
+      "sdl3",
+      "zig"
+    ],
+    "stack": [
+      "Zig"
+    ],
+    "cloneCommand": "git clone https://github.com/zoeesilcock/flint",
+    "lastUpdated": "2026-06-12",
+    "loc": 5374,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "kelpekk-juicee",
+    "name": "Juicee",
+    "description": "90 game-feel effects for Godot 4 with a visual graph editor — screen shake, hit-stop, damage numbers, springs, screen shaders & more. Inspired by FEEL. MIT.",
+    "spark": "90 game-feel effects for Godot 4 with a visual graph editor — screen shake, hit-stop, damage numbers, springs, screen shaders & more. Inspired by FEEL. MIT.",
+    "githubUrl": "https://github.com/Kelpekk/Juicee",
+    "stars": 17,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "addon",
+      "feel",
+      "game-feel",
+      "gamedev",
+      "gdscript"
+    ],
+    "stack": [
+      "GDScript"
+    ],
+    "cloneCommand": "git clone https://github.com/Kelpekk/Juicee",
+    "lastUpdated": "2026-06-12",
+    "loc": 759,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "audiofool934-cc-copilot",
+    "name": "Cc Copilot",
+    "description": "A copilot for AI coding agents — read-only supervision for Claude Code & Codex: re-entry recaps, safety verdicts, grounded chat, every claim cited.",
+    "spark": "A copilot for AI coding agents — read-only supervision for Claude Code & Codex: re-entry recaps, safety verdicts, grounded chat, every claim cited.",
+    "githubUrl": "https://github.com/Audiofool934/cc-copilot",
+    "stars": 8,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "observability",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/Audiofool934/cc-copilot",
+    "lastUpdated": "2026-06-13",
+    "loc": 3623,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "vortrix5-sifty",
+    "name": "Sifty",
+    "description": "Windows maintenance CLI + TUI that sifts the junk from the keep. Dry-run by default, Recycle Bin only, undo included.",
+    "spark": "Windows maintenance CLI + TUI that sifts the junk from the keep. Dry-run by default, Recycle Bin only, undo included.",
+    "githubUrl": "https://github.com/Vortrix5/sifty",
+    "stars": 12,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "clean",
+      "command-line",
+      "junk-cleaner",
+      "optimize",
+      "productivity",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://vortrix5.github.io/sifty/",
+    "cloneCommand": "git clone https://github.com/Vortrix5/sifty",
+    "lastUpdated": "2026-06-13",
+    "loc": 5787,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "ad-si-hikchr",
+    "name": "Hikchr",
+    "description": "Haskell wrapper + CLI tool for Pikchr, a PIC-like markup language for diagrams.",
+    "spark": "Haskell wrapper + CLI tool for Pikchr, a PIC-like markup language for diagrams.",
+    "githubUrl": "https://github.com/ad-si/Hikchr",
+    "stars": 5,
+    "license": "BSD-3-Clause",
+    "category": "tools",
+    "tags": [
+      "cli",
+      "diagram",
+      "haskell",
+      "markup",
+      "pic"
+    ],
+    "stack": [
+      "Haskell"
+    ],
+    "demoUrl": "https://hackage.haskell.org/package/hikchr",
+    "cloneCommand": "git clone https://github.com/ad-si/Hikchr",
+    "lastUpdated": "2026-06-13",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "jongwoo328-cloudip",
+    "name": "Cloudip",
+    "description": "CLI tool to identify whether an IP address belongs to AWS, GCP, or Azure.",
+    "spark": "CLI tool to identify whether an IP address belongs to AWS, GCP, or Azure.",
+    "githubUrl": "https://github.com/jongwoo328/cloudip",
+    "stars": 15,
+    "license": "Apache-2.0",
+    "category": "tools",
+    "tags": [
+      "aws",
+      "azure",
+      "cidr",
+      "cli",
+      "cloud-provider",
+      "go"
+    ],
+    "stack": [
+      "Go"
+    ],
+    "cloneCommand": "git clone https://github.com/jongwoo328/cloudip",
+    "lastUpdated": "2026-06-13",
+    "loc": 148,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "datayoga-io-datayoga",
+    "name": "Datayoga",
+    "description": "streaming data pipeline platform",
+    "spark": "streaming data pipeline platform",
+    "githubUrl": "https://github.com/datayoga-io/datayoga",
+    "stars": 30,
+    "license": "Apache-2.0",
+    "category": "data",
+    "tags": [
+      "cassandra",
+      "cdc",
+      "data",
+      "database",
+      "elt",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://datayoga-io.github.io/datayoga/",
+    "cloneCommand": "git clone https://github.com/datayoga-io/datayoga",
+    "lastUpdated": "2026-06-03",
+    "loc": 2176,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "devdizzle-gammarips-engine",
+    "name": "Gammarips Engine",
+    "description": "End-to-end AI market intelligence platform for high-gamma options trading. Powers the GammaRips application with automated data pipelines on GCP.",
+    "spark": "End-to-end AI market intelligence platform for high-gamma options trading. Powers the GammaRips application with automated data pipelines on GCP.",
+    "githubUrl": "https://github.com/DevDizzle/gammarips-engine",
+    "stars": 8,
+    "license": "MIT",
+    "category": "data",
+    "tags": [
+      "ai",
+      "big-query",
+      "cloud-functions",
+      "data-pipeline",
+      "financial-data",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://profitscout.app/",
+    "cloneCommand": "git clone https://github.com/DevDizzle/gammarips-engine",
+    "lastUpdated": "2026-06-12",
+    "loc": 3070,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "oliverbestmann-byke",
+    "name": "Byke",
+    "description": "ECS game engine based on ebitengine for golang, heavily inspired by bevy.",
+    "spark": "ECS game engine based on ebitengine for golang, heavily inspired by bevy.",
+    "githubUrl": "https://github.com/oliverbestmann/byke",
+    "stars": 26,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "bevy",
+      "ebitengine",
+      "ecs",
+      "game-engine",
+      "gamedev",
+      "go"
+    ],
+    "stack": [
+      "Go"
+    ],
+    "cloneCommand": "git clone https://github.com/oliverbestmann/byke",
+    "lastUpdated": "2026-06-13",
+    "loc": 12464,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
     "id": "noisefactorllc-noisemaker",
     "name": "Noisemaker",
     "description": "A collection of creative coding effects for Python or JavaScript",
@@ -10218,6 +12309,272 @@
     }
   },
   {
+    "id": "leonxlnx-lumenshaders",
+    "name": "Lumenshaders",
+    "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies.",
+    "spark": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies.",
+    "githubUrl": "https://github.com/Leonxlnx/lumenshaders",
+    "stars": 142,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "creative-coding",
+      "generative-art",
+      "gif",
+      "glsl",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "https://lumenshaders.vercel.app/",
+    "cloneCommand": "git clone https://github.com/Leonxlnx/lumenshaders",
+    "lastUpdated": "2026-06-12",
+    "loc": 8474,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "ucav-sparrow",
+    "name": "Sparrow",
+    "description": "Local-first Rust agent cockpit — route, run, replay, rewind.",
+    "spark": "Local-first Rust agent cockpit — route, run, replay, rewind.",
+    "githubUrl": "https://github.com/ucav/Sparrow",
+    "stars": 7,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "autonomy",
+      "cli",
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "demoUrl": "https://github.com/ucav/Sparrow",
+    "cloneCommand": "git clone https://github.com/ucav/Sparrow",
+    "lastUpdated": "2026-06-12",
+    "loc": 7106,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "konghayao-peri",
+    "name": "Peri",
+    "description": "Rust terminal coding agent, Claude Code compatible — your .claude/ config just works. Multi-LLM, streaming Markdown TUI, 95%+ prompt cache, MCP & ACP support, background agents. Built entirely by AI via Nobody Coding.",
+    "spark": "Rust terminal coding agent, Claude Code compatible — your .claude/ config just works. Multi-LLM, streaming Markdown TUI, 95%+ prompt cache, MCP & ACP support, background agents. Built entirely by AI via Nobody Coding.",
+    "githubUrl": "https://github.com/KonghaYao/peri",
+    "stars": 37,
+    "license": "Apache-2.0",
+    "category": "tools",
+    "tags": [
+      "acp",
+      "claude-code",
+      "coding-agent",
+      "deepseek",
+      "glm",
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "cloneCommand": "git clone https://github.com/KonghaYao/peri",
+    "lastUpdated": "2026-06-12",
+    "loc": 8797,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "mergifyio-mergify-cli",
+    "name": "Mergify Cli",
+    "description": "Mergify CLI tool",
+    "spark": "Mergify CLI tool",
+    "githubUrl": "https://github.com/Mergifyio/mergify-cli",
+    "stars": 28,
+    "license": "Apache-2.0",
+    "category": "tools",
+    "tags": [
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "demoUrl": "https://mergify.com",
+    "cloneCommand": "git clone https://github.com/Mergifyio/mergify-cli",
+    "lastUpdated": "2026-06-12",
+    "loc": 2916,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "powersync-ja-powersync-sqlite-core",
+    "name": "Powersync Sqlite Core",
+    "description": "PowerSync SQLite Extension",
+    "spark": "PowerSync SQLite Extension",
+    "githubUrl": "https://github.com/powersync-ja/powersync-sqlite-core",
+    "stars": 45,
+    "license": "Apache-2.0",
+    "category": "data",
+    "tags": [
+      "c"
+    ],
+    "stack": [
+      "C"
+    ],
+    "cloneCommand": "git clone https://github.com/powersync-ja/powersync-sqlite-core",
+    "lastUpdated": "2026-06-12",
+    "loc": 3163,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "kopecmaciej-vi-mongo",
+    "name": "Vi Mongo",
+    "description": "MongoDB TUI manager designed to simplify data visualization and quick manipulation",
+    "spark": "MongoDB TUI manager designed to simplify data visualization and quick manipulation",
+    "githubUrl": "https://github.com/kopecmaciej/vi-mongo",
+    "stars": 225,
+    "license": "Apache-2.0",
+    "category": "data",
+    "tags": [
+      "go",
+      "golang",
+      "mongo",
+      "mongodb",
+      "tui"
+    ],
+    "stack": [
+      "Go"
+    ],
+    "demoUrl": "https://vi-mongo.com",
+    "cloneCommand": "git clone https://github.com/kopecmaciej/vi-mongo",
+    "lastUpdated": "2026-06-12",
+    "loc": 14822,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 5,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "ankimcp-anki-mcp-server",
+    "name": "Anki Mcp Server",
+    "description": "A Model Context Protocol (MCP) server that enables AI assistants to interact with Anki, the spaced repetition flashcard application.",
+    "spark": "A Model Context Protocol (MCP) server that enables AI assistants to interact with Anki, the spaced repetition flashcard application.",
+    "githubUrl": "https://github.com/ankimcp/anki-mcp-server",
+    "stars": 324,
+    "license": "MIT",
+    "category": "learning",
+    "tags": [
+      "ai",
+      "ai-learning-tool",
+      "ai-tutor",
+      "anki",
+      "anki-addon",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://ankimcp.ai",
+    "cloneCommand": "git clone https://github.com/ankimcp/anki-mcp-server",
+    "lastUpdated": "2026-06-12",
+    "loc": 3046,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -0.5,
+      "total": 30
+    }
+  },
+  {
     "id": "jsoncrack",
     "name": "JSON Crack",
     "description": "Innovative and open-source visualization application that transforms various data formats such as JSON, YAML, XML and CSV into interactive graphs.",
@@ -10704,6 +13061,46 @@
       "singleFileBonus": 0,
       "genericClonePenalty": 0,
       "popularityRamp": -1,
+      "total": 29
+    }
+  },
+  {
+    "id": "aidenkielby-aiden3drenderer",
+    "name": "Aiden3Drenderer",
+    "description": "A real-time 3D function visualizer with a plug-and-play GPU pipeline—write simple compute shaders to create custom effects without dealing with complex rendering internals.",
+    "spark": "A real-time 3D function visualizer with a plug-and-play GPU pipeline—write simple compute shaders to create custom effects without dealing with complex rendering internals.",
+    "githubUrl": "https://github.com/AidenKielby/Aiden3DRenderer",
+    "stars": 12,
+    "license": "Apache-2.0",
+    "category": "creative",
+    "tags": [
+      "3d-graphics",
+      "3d-mesh",
+      "3d-mesh-generation",
+      "3d-rendering",
+      "3d-to-2d",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://pypi.org/project/aiden3drenderer/1.12.20/",
+    "cloneCommand": "git clone https://github.com/AidenKielby/Aiden3DRenderer",
+    "lastUpdated": "2026-06-10",
+    "loc": 10858,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
       "total": 29
     }
   },
@@ -12333,6 +14730,536 @@
     }
   },
   {
+    "id": "keeffeoghan-gl-gpgpu",
+    "name": "Gl Gpgpu",
+    "description": "GPGPU state-stepping: maps optimal draw passes, shaders, GL resources, inputs, outputs; lets you focus on your logic. BYORenderer.",
+    "spark": "GPGPU state-stepping: maps optimal draw passes, shaders, GL resources, inputs, outputs; lets you focus on your logic. BYORenderer.",
+    "githubUrl": "https://github.com/keeffEoghan/gl-gpgpu",
+    "stars": 10,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "glsl",
+      "gpgpu",
+      "regl",
+      "shaders",
+      "webgl",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "http://epok.tech/gl-gpgpu/",
+    "cloneCommand": "git clone https://github.com/keeffEoghan/gl-gpgpu",
+    "lastUpdated": "2026-06-11",
+    "loc": 176235,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "jinwei-lu-multivis",
+    "name": "Multivis",
+    "description": "[SIGMOD'26] MultiVis-Agent: A Multi-Agent Framework with Logic Rules for Reliable and Comprehensive Cross-Modal Data Visualization & [SIGMOD'26 Demo] Demonstration of MultiVis-Agent: Interactively Generating Reliable Visualizations via Logic-Rule Agents",
+    "spark": "[SIGMOD'26] MultiVis-Agent: A Multi-Agent Framework with Logic Rules for Reliable and Comprehensive Cross-Modal Data Visualization & [SIGMOD'26 Demo] Demonstration of MultiVis-Agent: Interactively Generating Reliable Visualizations via Logic-Rule Agents",
+    "githubUrl": "https://github.com/Jinwei-Lu/MultiVis",
+    "stars": 7,
+    "license": "MIT",
+    "category": "data",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/Jinwei-Lu/MultiVis",
+    "lastUpdated": "2026-06-12",
+    "loc": 74644,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "yoruniubi-mo_yu_pai_xia",
+    "name": "Mo Yu Pai Xia",
+    "description": "摸鱼牌侠，一款使用Godot开发的职场卡牌roguelike游戏。",
+    "spark": "摸鱼牌侠，一款使用Godot开发的职场卡牌roguelike游戏。",
+    "githubUrl": "https://github.com/yoruniubi/mo_yu_pai_xia",
+    "stars": 10,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "gdscript"
+    ],
+    "stack": [
+      "GDScript"
+    ],
+    "demoUrl": "https://yoruniubi.itch.io/mo-yu-pai-xia",
+    "cloneCommand": "git clone https://github.com/yoruniubi/mo_yu_pai_xia",
+    "lastUpdated": "2026-06-12",
+    "loc": 243386,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "kwengine-kwengine3",
+    "name": "Kwengine3",
+    "description": "The game engine for students and teachers now in its third iteration!",
+    "spark": "The game engine for students and teachers now in its third iteration!",
+    "githubUrl": "https://github.com/KWEngine/KWEngine3",
+    "stars": 5,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "c#"
+    ],
+    "stack": [
+      "C#"
+    ],
+    "cloneCommand": "git clone https://github.com/KWEngine/KWEngine3",
+    "lastUpdated": "2026-06-12",
+    "loc": 965280,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "msx80-omicron",
+    "name": "Omicron",
+    "description": "a Java Fantasy Console/Game Engine",
+    "spark": "a Java Fantasy Console/Game Engine",
+    "githubUrl": "https://github.com/msx80/Omicron",
+    "stars": 29,
+    "license": "Apache-2.0",
+    "category": "games",
+    "tags": [
+      "c"
+    ],
+    "stack": [
+      "C"
+    ],
+    "cloneCommand": "git clone https://github.com/msx80/Omicron",
+    "lastUpdated": "2026-06-12",
+    "loc": 18966,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "modulepillow-pillowbasics",
+    "name": "Pillowbasics",
+    "description": "A lightweight game engine with TBE.",
+    "spark": "A lightweight game engine with TBE.",
+    "githubUrl": "https://github.com/ModulePillow/PillowBasics",
+    "stars": 7,
+    "license": "BSD-3-Clause",
+    "category": "games",
+    "tags": [
+      "cpp20",
+      "directx12",
+      "c++"
+    ],
+    "stack": [
+      "C++"
+    ],
+    "cloneCommand": "git clone https://github.com/ModulePillow/PillowBasics",
+    "lastUpdated": "2026-06-12",
+    "loc": 236414,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "xcasadio-casaenginemonogame",
+    "name": "Casaenginemonogame",
+    "description": "Editor + game engine written in C# with MonoGame",
+    "spark": "Editor + game engine written in C# with MonoGame",
+    "githubUrl": "https://github.com/xcasadio/CasaEngineMonogame",
+    "stars": 9,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "game-editor",
+      "game-engine",
+      "gameengine",
+      "monogame",
+      "xna",
+      "c#"
+    ],
+    "stack": [
+      "C#"
+    ],
+    "cloneCommand": "git clone https://github.com/xcasadio/CasaEngineMonogame",
+    "lastUpdated": "2026-06-12",
+    "loc": 52392,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "wide-dot-thomson-to8-game-engine",
+    "name": "Thomson To8 Game Engine",
+    "description": "Thomson TO8 game engine (sprites, music, etc.) and its generator written in ASM 6809 and Java",
+    "spark": "Thomson TO8 game engine (sprites, music, etc.) and its generator written in ASM 6809 and Java",
+    "githubUrl": "https://github.com/wide-dot/thomson-to8-game-engine",
+    "stars": 19,
+    "license": "Apache-2.0",
+    "category": "games",
+    "tags": [
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "cloneCommand": "git clone https://github.com/wide-dot/thomson-to8-game-engine",
+    "lastUpdated": "2026-06-12",
+    "loc": 284831,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "k-irito02-enhancevision",
+    "name": "Enhancevision",
+    "description": "基于 Qt 6.10.2 + QML 的桌面端图像处理与 Real-ESRGAN 画质增强工具。采用原生 Qt Quick 架构，结合 GPU Shader 处理与 NCNN AI 推理引擎，提供兼顾性能与质量的画质增强方案。",
+    "spark": "基于 Qt 6.10.2 + QML 的桌面端图像处理与 Real-ESRGAN 画质增强工具。采用原生 Qt Quick 架构，结合 GPU Shader 处理与 NCNN AI 推理引擎，提供兼顾性能与质量的画质增强方案。",
+    "githubUrl": "https://github.com/K-irito02/EnhanceVision",
+    "stars": 5,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "c++"
+    ],
+    "stack": [
+      "C++"
+    ],
+    "cloneCommand": "git clone https://github.com/K-irito02/EnhanceVision",
+    "lastUpdated": "2026-06-12",
+    "loc": 32282,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "thurbeen-thurbox",
+    "name": "Thurbox",
+    "description": "TUI for agentic code orchestration",
+    "spark": "TUI for agentic code orchestration",
+    "githubUrl": "https://github.com/Thurbeen/thurbox",
+    "stars": 5,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "demoUrl": "https://thurbox.thurbeen.eu/",
+    "cloneCommand": "git clone https://github.com/Thurbeen/thurbox",
+    "lastUpdated": "2026-06-13",
+    "loc": 175452,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "rudyhendrawn-data-course",
+    "name": "Data Course",
+    "description": "Kumpulan kode program untuk mata kuliah Data Mining / Machine Learning / Data Visualization",
+    "spark": "Kumpulan kode program untuk mata kuliah Data Mining / Machine Learning / Data Visualization",
+    "githubUrl": "https://github.com/rudyhendrawn/data-course",
+    "stars": 10,
+    "license": "MIT",
+    "category": "data",
+    "tags": [
+      "jupyter notebook"
+    ],
+    "stack": [
+      "Jupyter Notebook"
+    ],
+    "cloneCommand": "git clone https://github.com/rudyhendrawn/data-course",
+    "lastUpdated": "2026-06-02",
+    "loc": 30255,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "handsondataviz-book",
+    "name": "Book",
+    "description": "Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code is an open-access book, also published with O'Reilly Media.",
+    "spark": "Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code is an open-access book, also published with O'Reilly Media.",
+    "githubUrl": "https://github.com/HandsOnDataViz/book",
+    "stars": 311,
+    "license": "MIT",
+    "category": "data",
+    "tags": [
+      "bookdown",
+      "data-visualization",
+      "dataviz",
+      "tex"
+    ],
+    "stack": [
+      "TeX"
+    ],
+    "demoUrl": "https://handsondataviz.org",
+    "cloneCommand": "git clone https://github.com/HandsOnDataViz/book",
+    "lastUpdated": "2026-06-01",
+    "loc": 1172257,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -0.5,
+      "total": 28
+    }
+  },
+  {
+    "id": "mrscauthd-sparkle",
+    "name": "Sparkle",
+    "description": "A fast, Cross-platform .NET 10 C# 14 game engine.",
+    "spark": "A fast, Cross-platform .NET 10 C# 14 game engine.",
+    "githubUrl": "https://github.com/MrScautHD/Sparkle",
+    "stars": 132,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "c#"
+    ],
+    "stack": [
+      "C#"
+    ],
+    "demoUrl": "https://stellution.com/",
+    "cloneCommand": "git clone https://github.com/MrScautHD/Sparkle",
+    "lastUpdated": "2026-06-13",
+    "loc": 43054,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "tangziwen-cubeminigame",
+    "name": "Cubeminigame",
+    "description": "HomeBrew C++ 3D Game Engine based on OpenGL & Vulkan",
+    "spark": "HomeBrew C++ 3D Game Engine based on OpenGL & Vulkan",
+    "githubUrl": "https://github.com/tangziwen/CubeMiniGame",
+    "stars": 356,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "c++"
+    ],
+    "stack": [
+      "C++"
+    ],
+    "cloneCommand": "git clone https://github.com/tangziwen/CubeMiniGame",
+    "lastUpdated": "2026-06-13",
+    "loc": 431423,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -0.5,
+      "total": 28
+    }
+  },
+  {
+    "id": "johnlavender474-megaman-maverick",
+    "name": "Megaman Maverick",
+    "description": "Mega Man fan game built using LibGDX and a custom game engine",
+    "spark": "Mega Man fan game built using LibGDX and a custom game engine",
+    "githubUrl": "https://github.com/JohnLavender474/Megaman-Maverick",
+    "stars": 9,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "kotlin"
+    ],
+    "stack": [
+      "Kotlin"
+    ],
+    "cloneCommand": "git clone https://github.com/JohnLavender474/Megaman-Maverick",
+    "lastUpdated": "2026-06-13",
+    "loc": 895425,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
     "id": "okerew-larkos",
     "name": "Larkos",
     "description": "This repository shows an alternative neural network structure to modern ones, inspiring from the brain and it's creativity, workings.",
@@ -12656,6 +15583,41 @@
     "cloneCommand": "git clone https://github.com/NorthConcepts/DataPipeline-Examples",
     "lastUpdated": "2026-06-05",
     "loc": 11683,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 27
+    }
+  },
+  {
+    "id": "irokaru-pixel-scaler",
+    "name": "Pixel Scaler",
+    "description": "A pixel art upscaling tool",
+    "spark": "A pixel art upscaling tool",
+    "githubUrl": "https://github.com/irokaru/pixel-scaler",
+    "stars": 246,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://irokaru.github.io/pixel-scaler/",
+    "cloneCommand": "git clone https://github.com/irokaru/pixel-scaler",
+    "lastUpdated": "2026-06-10",
+    "loc": 12968,
     "authorCount": 1,
     "dormant": false,
     "singleFile": false,
@@ -15620,6 +18582,766 @@
     "cloneCommand": "git clone https://github.com/gabekz/GoodsackEngine",
     "lastUpdated": "2026-06-09",
     "loc": 157810,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "0xmonas-khora",
+    "name": "Khora",
+    "description": "On-chain AI agent generator on Shape. Create, mint, and register AI agents with fully on-chain pixel art and identity — powered by ERC-8004.",
+    "spark": "On-chain AI agent generator on Shape. Create, mint, and register AI agents with fully on-chain pixel art and identity — powered by ERC-8004.",
+    "githubUrl": "https://github.com/0xmonas/Khora",
+    "stars": 7,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "ai-agents",
+      "base",
+      "erc-721",
+      "erc-8004",
+      "nextjs",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript",
+      "nextjs"
+    ],
+    "demoUrl": "https://khora.fun",
+    "cloneCommand": "git clone https://github.com/0xmonas/Khora",
+    "lastUpdated": "2026-06-12",
+    "loc": 51830,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "jsoulier-fluid_simulation",
+    "name": "Fluid Simulation",
+    "description": "Fluid Simulation using SDL3 GPU with compute shaders",
+    "spark": "Fluid Simulation using SDL3 GPU with compute shaders",
+    "githubUrl": "https://github.com/jsoulier/fluid_simulation",
+    "stars": 11,
+    "license": "Unlicense",
+    "category": "creative",
+    "tags": [
+      "3d",
+      "compute-shader",
+      "compute-shaders",
+      "cpp",
+      "example",
+      "c++"
+    ],
+    "stack": [
+      "C++",
+      "cpp"
+    ],
+    "cloneCommand": "git clone https://github.com/jsoulier/fluid_simulation",
+    "lastUpdated": "2026-06-11",
+    "loc": 17588,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "leriart-cava-bg",
+    "name": "Cava Bg",
+    "description": "A high-performance audio visualizer for Wayland compositors",
+    "spark": "A high-performance audio visualizer for Wayland compositors",
+    "githubUrl": "https://github.com/leriart/cava-bg",
+    "stars": 54,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "cava",
+      "hyprland",
+      "rust",
+      "wallpaper",
+      "wayland"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "cloneCommand": "git clone https://github.com/leriart/cava-bg",
+    "lastUpdated": "2026-06-11",
+    "loc": 76126,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "emprcl-runal",
+    "name": "Runal",
+    "description": "a creative coding environment for the terminal :fireworks:",
+    "spark": "a creative coding environment for the terminal :fireworks:",
+    "githubUrl": "https://github.com/emprcl/runal",
+    "stars": 104,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "art",
+      "ascii-art",
+      "creative-coding",
+      "design",
+      "graphics",
+      "go"
+    ],
+    "stack": [
+      "Go"
+    ],
+    "demoUrl": "https://empr.cl/runal/",
+    "cloneCommand": "git clone https://github.com/emprcl/runal",
+    "lastUpdated": "2026-06-11",
+    "loc": 17918,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "the-focus-ai-umwelten",
+    "name": "Umwelten",
+    "description": "CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.",
+    "spark": "CLI tool for evaluating and comparing AI models across Google, Ollama, OpenRouter, LM Studio, LlamaBarn, and GitHub Models. Features robust error handling, cost tracking, memory-augmented chat, and dynamic test coverage.",
+    "githubUrl": "https://github.com/The-Focus-AI/umwelten",
+    "stars": 5,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "ai",
+      "cli",
+      "gemini",
+      "github-models",
+      "google",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://umwelten.thefocus.ai",
+    "cloneCommand": "git clone https://github.com/The-Focus-AI/umwelten",
+    "lastUpdated": "2026-06-12",
+    "loc": 25019,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "skoreengine-skore",
+    "name": "Skore",
+    "description": "Skore Engine – Multi-platform 2D and 3D game engine",
+    "spark": "Skore Engine – Multi-platform 2D and 3D game engine",
+    "githubUrl": "https://github.com/SkoreEngine/Skore",
+    "stars": 5,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "game",
+      "game-engine",
+      "gamedev",
+      "multi-platform",
+      "open-source",
+      "c++"
+    ],
+    "stack": [
+      "C++"
+    ],
+    "cloneCommand": "git clone https://github.com/SkoreEngine/Skore",
+    "lastUpdated": "2026-06-12",
+    "loc": 32404,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "zephyr75-overdrive",
+    "name": "Overdrive",
+    "description": "An OpenGL game engine written in Go",
+    "spark": "An OpenGL game engine written in Go",
+    "githubUrl": "https://github.com/Zephyr75/overdrive",
+    "stars": 6,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "3d",
+      "3d-graphics",
+      "blender",
+      "game-engine",
+      "go",
+      "c++"
+    ],
+    "stack": [
+      "C++",
+      "go"
+    ],
+    "cloneCommand": "git clone https://github.com/Zephyr75/overdrive",
+    "lastUpdated": "2026-06-12",
+    "loc": 74046,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "oxylusengine-oxylus",
+    "name": "Oxylus",
+    "description": "A powerful data-driven game engine built in C++",
+    "spark": "A powerful data-driven game engine built in C++",
+    "githubUrl": "https://github.com/oxylusengine/Oxylus",
+    "stars": 261,
+    "license": "Apache-2.0",
+    "category": "games",
+    "tags": [
+      "cpp",
+      "ecs",
+      "engine",
+      "game-development",
+      "game-engine",
+      "c++"
+    ],
+    "stack": [
+      "C++",
+      "cpp"
+    ],
+    "demoUrl": "http://oxyl.us",
+    "cloneCommand": "git clone https://github.com/oxylusengine/Oxylus",
+    "lastUpdated": "2026-06-12",
+    "loc": 20171,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "karimio-grindstone",
+    "name": "Grindstone",
+    "description": "A complete game engine and toolkit.",
+    "spark": "A complete game engine and toolkit.",
+    "githubUrl": "https://github.com/KarimIO/Grindstone",
+    "stars": 10,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "directx",
+      "game",
+      "game-development",
+      "game-engine",
+      "graphics",
+      "c++"
+    ],
+    "stack": [
+      "C++"
+    ],
+    "demoUrl": "https://karimio.github.io/grindstone/",
+    "cloneCommand": "git clone https://github.com/KarimIO/Grindstone",
+    "lastUpdated": "2026-06-12",
+    "loc": 87247,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "kaorii-ako-shiori-v1",
+    "name": "Shiori V1",
+    "description": "Open-source AI study companion — Google Classroom sync, Gemini AI plans, SRS flashcards, GPA predictor, AI quiz, MCP server for Claude Code. Try demo at shiori-v1.vercel.app",
+    "spark": "Open-source AI study companion — Google Classroom sync, Gemini AI plans, SRS flashcards, GPA predictor, AI quiz, MCP server for Claude Code. Try demo at shiori-v1.vercel.app",
+    "githubUrl": "https://github.com/kaorii-ako/Shiori-v1",
+    "stars": 42,
+    "license": "MIT",
+    "category": "learning",
+    "tags": [
+      "ai",
+      "docker",
+      "education",
+      "flashcards",
+      "gemini",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript",
+      "react",
+      "typescript"
+    ],
+    "demoUrl": "https://shiori-v1.vercel.app",
+    "cloneCommand": "git clone https://github.com/kaorii-ako/Shiori-v1",
+    "lastUpdated": "2026-06-12",
+    "loc": 29742,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "motion-core-motion-gpu",
+    "name": "Motion Gpu",
+    "description": "Minimalist framework for modern WebGPU visuals.",
+    "spark": "Minimalist framework for modern WebGPU visuals.",
+    "githubUrl": "https://github.com/Motion-Core/motion-gpu",
+    "stars": 175,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "javascript",
+      "nextjs",
+      "react",
+      "shader",
+      "shaders",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript",
+      "nextjs",
+      "react",
+      "svelte"
+    ],
+    "demoUrl": "https://www.motion-gpu.dev/",
+    "cloneCommand": "git clone https://github.com/Motion-Core/motion-gpu",
+    "lastUpdated": "2026-06-12",
+    "loc": 22066,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "nickprotop-consoleex",
+    "name": "Consoleex",
+    "description": "SharpConsoleUI — A .NET 8+ console windowing system with overlapping windows, 30+ controls, embedded terminal emulator, canvas drawing, and async per-window threads.",
+    "spark": "SharpConsoleUI — A .NET 8+ console windowing system with overlapping windows, 30+ controls, embedded terminal emulator, canvas drawing, and async per-window threads.",
+    "githubUrl": "https://github.com/nickprotop/ConsoleEx",
+    "stars": 233,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "console",
+      "csharp",
+      "developer-tools",
+      "dotnet",
+      "linux",
+      "c#"
+    ],
+    "stack": [
+      "C#"
+    ],
+    "demoUrl": "https://nickprotop.github.io/ConsoleEx/",
+    "cloneCommand": "git clone https://github.com/nickprotop/ConsoleEx",
+    "lastUpdated": "2026-06-13",
+    "loc": 57876,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "clawscli-claws",
+    "name": "Claws",
+    "description": "k9s-inspired TUI for AWS resource management with vim-style navigation",
+    "spark": "k9s-inspired TUI for AWS resource management with vim-style navigation",
+    "githubUrl": "https://github.com/clawscli/claws",
+    "stars": 130,
+    "license": "Apache-2.0",
+    "category": "tools",
+    "tags": [
+      "amazon-web-services",
+      "aws",
+      "bubbletea",
+      "cli",
+      "go"
+    ],
+    "stack": [
+      "Go"
+    ],
+    "cloneCommand": "git clone https://github.com/clawscli/claws",
+    "lastUpdated": "2026-06-13",
+    "loc": 24288,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "darrenldl-docfd",
+    "name": "Docfd",
+    "description": "TUI multiline fuzzy document finder",
+    "spark": "TUI multiline fuzzy document finder",
+    "githubUrl": "https://github.com/darrenldl/docfd",
+    "stars": 286,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "document-management",
+      "fuzzy-search",
+      "grep-like",
+      "indexed-search",
+      "search",
+      "ocaml"
+    ],
+    "stack": [
+      "OCaml"
+    ],
+    "demoUrl": "https://docfd.sh",
+    "cloneCommand": "git clone https://github.com/darrenldl/docfd",
+    "lastUpdated": "2026-06-13",
+    "loc": 65202,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "michelin-torchsom",
+    "name": "Torchsom",
+    "description": "TorchSOM is a PyTorch-based library for training Self-Organizing Maps (SOMs), a model trained in an unsupervised manner, that can be used for clustering, dimensionality reduction and data visualization. It is designed to be scalable and user-friendly.",
+    "spark": "TorchSOM is a PyTorch-based library for training Self-Organizing Maps (SOMs), a model trained in an unsupervised manner, that can be used for clustering, dimensionality reduction and data visualization. It is designed to be scalable and user-friendly.",
+    "githubUrl": "https://github.com/michelin/TorchSOM",
+    "stars": 35,
+    "license": "Apache-2.0",
+    "category": "data",
+    "tags": [
+      "clustering",
+      "clustering-algorithm",
+      "data-visualisation",
+      "dimensionality-reduction-algorithms",
+      "dimensionality-reduction-technique",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://opensource.michelin.io/TorchSOM/",
+    "cloneCommand": "git clone https://github.com/michelin/TorchSOM",
+    "lastUpdated": "2026-06-01",
+    "loc": 115634,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "starlake-ai-starlake",
+    "name": "Starlake",
+    "description": "Declarative text based tool for data analysts and engineers to extract, load, transform and orchestrate their data pipelines.",
+    "spark": "Declarative text based tool for data analysts and engineers to extract, load, transform and orchestrate their data pipelines.",
+    "githubUrl": "https://github.com/starlake-ai/starlake",
+    "stars": 204,
+    "license": "Apache-2.0",
+    "category": "data",
+    "tags": [
+      "bigquery",
+      "data-engineering",
+      "data-integration",
+      "data-pipeline",
+      "etl",
+      "scala"
+    ],
+    "stack": [
+      "Scala"
+    ],
+    "demoUrl": "http://starlake.ai/",
+    "cloneCommand": "git clone https://github.com/starlake-ai/starlake",
+    "lastUpdated": "2026-06-07",
+    "loc": 149169,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "painfulexistence-atmosphericengine",
+    "name": "Atmosphericengine",
+    "description": "A cross-platform 3D game engine built in C++",
+    "spark": "A cross-platform 3D game engine built in C++",
+    "githubUrl": "https://github.com/painfulexistence/AtmosphericEngine",
+    "stars": 6,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "3d",
+      "bullet-physics",
+      "c-plus-plus",
+      "cross-platform",
+      "game-engine",
+      "c++"
+    ],
+    "stack": [
+      "C++"
+    ],
+    "cloneCommand": "git clone https://github.com/painfulexistence/AtmosphericEngine",
+    "lastUpdated": "2026-06-13",
+    "loc": 188890,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "antonionoack-remsengine",
+    "name": "Remsengine",
+    "description": "OpenSource game engine for Kotlin",
+    "spark": "OpenSource game engine for Kotlin",
+    "githubUrl": "https://github.com/AntonioNoack/RemsEngine",
+    "stars": 40,
+    "license": "Apache-2.0",
+    "category": "games",
+    "tags": [
+      "engine",
+      "game",
+      "graphics",
+      "kotlin",
+      "rendering"
+    ],
+    "stack": [
+      "Kotlin"
+    ],
+    "demoUrl": "https://remsengine.phychi.com/",
+    "cloneCommand": "git clone https://github.com/AntonioNoack/RemsEngine",
+    "lastUpdated": "2026-06-13",
+    "loc": 159764,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "hekbas-luth",
+    "name": "Luth",
+    "description": "Data-oriented C++20 game engine with a fiber-based job system and bindless Vulkan 1.3 renderer.",
+    "spark": "Data-oriented C++20 game engine with a fiber-based job system and bindless Vulkan 1.3 renderer.",
+    "githubUrl": "https://github.com/Hekbas/Luth",
+    "stars": 133,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "cpp20",
+      "data-oriented-design",
+      "entity-component-system",
+      "game-engine",
+      "job-system",
+      "c++"
+    ],
+    "stack": [
+      "C++"
+    ],
+    "demoUrl": "https://hdl.handle.net/2117/447342",
+    "cloneCommand": "git clone https://github.com/Hekbas/Luth",
+    "lastUpdated": "2026-06-13",
+    "loc": 895275,
     "authorCount": 1,
     "dormant": false,
     "singleFile": false,
