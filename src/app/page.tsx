@@ -69,6 +69,9 @@ export default function HomePage() {
       learning:   count('learning'),
       automation: count('automation'),
       web:        count('web'),
+      agents:     count('agents'),
+      cybersecurity: count('cybersecurity'),
+      privacy:    count('privacy'),
     };
   }, [search, discoveryMode]);
 

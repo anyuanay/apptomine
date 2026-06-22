@@ -71,6 +71,27 @@ export const CATEGORIES: CategoryDefinition[] = [
     keywords: ['web', 'pwa', 'browser', 'html', 'css', 'search', 'app'],
     color: 'bg-orange-600',
   },
+  {
+    id: 'agents',
+    label: 'Agents',
+    description: 'Agent skills, agentic-coding frameworks, and LLM tooling',
+    keywords: ['agent', 'agentic', 'skill', 'claude-skills', 'llm', 'ai', 'subagent', 'context-engineering'],
+    color: 'bg-teal-600',
+  },
+  {
+    id: 'cybersecurity',
+    label: 'Cybersecurity',
+    description: 'Security tools, pentesting, vulnerability scanners, and CTF projects',
+    keywords: ['security', 'cybersecurity', 'pentest', 'vulnerability', 'infosec', 'exploit', 'malware', 'ctf', 'firewall'],
+    color: 'bg-cyan-600',
+  },
+  {
+    id: 'privacy',
+    label: 'Privacy',
+    description: 'Encryption, anonymity, tracker blockers, and self-hosted privacy tools',
+    keywords: ['privacy', 'encryption', 'anonymity', 'tor', 'e2ee', 'tracker', 'gdpr', 'self-hosted'],
+    color: 'bg-indigo-600',
+  },
 ];
 
 export const DISCOVERY_MODES: DiscoveryModeDefinition[] = [
@@ -138,6 +159,9 @@ export function getCategoryBadgeClass(category: Exclude<Category, 'all'>): strin
     learning:   'bg-amber-500/20 text-amber-400 border border-amber-500/30',
     automation: 'bg-violet-500/20 text-violet-400 border border-violet-500/30',
     web:        'bg-orange-500/20 text-orange-400 border border-orange-500/30',
+    agents:     'bg-teal-500/20 text-teal-400 border border-teal-500/30',
+    cybersecurity: 'bg-cyan-500/20 text-cyan-400 border border-cyan-500/30',
+    privacy:    'bg-indigo-500/20 text-indigo-400 border border-indigo-500/30',
   };
   return map[category] ?? 'bg-blue-500/20 text-blue-400 border border-blue-500/30';
 }

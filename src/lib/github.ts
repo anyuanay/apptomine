@@ -23,6 +23,9 @@ const CATEGORY_QUERIES: Record<Exclude<Category, 'all'>, string> = {
   learning: 'flashcard OR "spaced repetition" OR "educational" OR "learn by building" OR "from scratch" in:description,topics',
   automation: 'webhook OR "rss" OR "bot" OR "scraper" OR "automation" OR "proxy" OR "cron" in:description,topics',
   web: 'pwa OR "single page" OR "static site" OR "browser extension" OR "bookmarklet" OR "minimal web app" in:description,topics',
+  agents: '"agent skill" OR "claude skill" OR "agentic" OR "ai agent" OR "subagent" OR "context engineering" OR "llm agent" in:description,topics',
+  cybersecurity: 'cybersecurity OR "security tool" OR "penetration testing" OR "vulnerability scanner" OR "infosec" OR "ctf" in:description,topics',
+  privacy: 'privacy OR "end-to-end encryption" OR "anonymity" OR "tracker blocker" OR "self-hosted" OR "gdpr" in:description,topics',
 };
 
 export async function searchGithubRepos(options: CrawlOptions): Promise<GithubRepo[]> {
