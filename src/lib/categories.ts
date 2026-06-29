@@ -113,6 +113,13 @@ export const CATEGORIES: CategoryDefinition[] = [
     keywords: ['degree', 'open-source-degree', 'cs-curriculum', 'self-taught', 'computer-science', 'ossu', 'roadmap', 'study-plan'],
     color: 'bg-purple-600',
   },
+  {
+    id: 'vision',
+    label: 'Computer Vision',
+    description: 'Object detection, segmentation, tracking, and image-processing toolkits',
+    keywords: ['vision', 'computer-vision', 'object-detection', 'opencv', 'image-processing', 'segmentation', 'tracking', 'yolo', 'deep-learning'],
+    color: 'bg-pink-600',
+  },
 ];
 
 export const DISCOVERY_MODES: DiscoveryModeDefinition[] = [
@@ -186,6 +193,7 @@ export function getCategoryBadgeClass(category: Exclude<Category, 'all'>): strin
     curriculum: 'bg-rose-500/20 text-rose-400 border border-rose-500/30',
     papers:     'bg-lime-500/20 text-lime-400 border border-lime-500/30',
     degree:     'bg-purple-500/20 text-purple-400 border border-purple-500/30',
+    vision:     'bg-pink-500/20 text-pink-400 border border-pink-500/30',
   };
   return map[category] ?? 'bg-blue-500/20 text-blue-400 border border-blue-500/30';
 }

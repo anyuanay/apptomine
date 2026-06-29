@@ -75,6 +75,7 @@ export default function HomePage() {
       curriculum: count('curriculum'),
       papers:     count('papers'),
       degree:     count('degree'),
+      vision:     count('vision'),
     };
   }, [search, discoveryMode]);
 

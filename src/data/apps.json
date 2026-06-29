@@ -13028,6 +13028,147 @@
     }
   },
   {
+    "id": "dnjulek-vapoursynth-zip",
+    "name": "Vapoursynth Zip",
+    "description": "VapourSynth Zig Image Process ⚡🎞️",
+    "spark": "VapourSynth Zig Image Process ⚡🎞️",
+    "githubUrl": "https://github.com/dnjulek/vapoursynth-zip",
+    "stars": 44,
+    "license": "MIT",
+    "category": "vision",
+    "tags": [
+      "zig"
+    ],
+    "stack": [
+      "Zig"
+    ],
+    "cloneCommand": "git clone https://github.com/dnjulek/vapoursynth-zip",
+    "lastUpdated": "2026-06-29",
+    "loc": 1929,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "ultralytics-mkdocs",
+    "name": "Mkdocs",
+    "description": "MkDocs plugin for Ultralytics Docs at https://docs.ultralytics.com",
+    "spark": "MkDocs plugin for Ultralytics Docs at https://docs.ultralytics.com",
+    "githubUrl": "https://github.com/ultralytics/mkdocs",
+    "stars": 74,
+    "license": "AGPL-3.0",
+    "category": "vision",
+    "tags": [
+      "documentation",
+      "mkdocs",
+      "python",
+      "ultralytics",
+      "yolo"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://docs.ultralytics.com",
+    "cloneCommand": "git clone https://github.com/ultralytics/mkdocs",
+    "lastUpdated": "2026-06-29",
+    "loc": 205,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "onuralpszr-trackforge",
+    "name": "Trackforge",
+    "description": "Unified, high-performance computer vision tracking library",
+    "spark": "Unified, high-performance computer vision tracking library",
+    "githubUrl": "https://github.com/onuralpszr/trackforge",
+    "stars": 28,
+    "license": "MIT",
+    "category": "vision",
+    "tags": [
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "cloneCommand": "git clone https://github.com/onuralpszr/trackforge",
+    "lastUpdated": "2026-06-28",
+    "loc": 1955,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "imgal-sc-imgal",
+    "name": "Imgal",
+    "description": "A fast and open-source scientific image processing and algorithm library.",
+    "spark": "A fast and open-source scientific image processing and algorithm library.",
+    "githubUrl": "https://github.com/imgal-sc/imgal",
+    "stars": 15,
+    "license": "MIT",
+    "category": "vision",
+    "tags": [
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "cloneCommand": "git clone https://github.com/imgal-sc/imgal",
+    "lastUpdated": "2026-06-28",
+    "loc": 1451,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
     "id": "webhook-tester",
     "name": "Webhook Tester",
     "description": "Powerful tool for testing WebHooks and more. Self-hosted webhook debugging with a live-updating UI to inspect requests.",
@@ -23401,6 +23542,166 @@
     }
   },
   {
+    "id": "obi19999-smart-video-reframe",
+    "name": "Smart Video Reframe",
+    "description": "🎥 Auto-reframe videos for mobile using AI to track faces and analyze scenes, ensuring optimal framing for platforms like TikTok and Reels.",
+    "spark": "🎥 Auto-reframe videos for mobile using AI to track faces and analyze scenes, ensuring optimal framing for platforms like TikTok and Reels.",
+    "githubUrl": "https://github.com/obi19999/smart-video-reframe",
+    "stars": 6,
+    "license": "MIT",
+    "category": "vision",
+    "tags": [
+      "ai",
+      "auto-reframe-video",
+      "cli-tool",
+      "face-detection",
+      "ffmpeg",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://obi19999.github.io",
+    "cloneCommand": "git clone https://github.com/obi19999/smart-video-reframe",
+    "lastUpdated": "2026-06-29",
+    "loc": 887,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "arkjeetsingh-scrape-rs",
+    "name": "Scrape Rs",
+    "description": "✨ Parse HTML efficiently across Rust, Python, and Node.js, achieving 8x the speed of BeautifulSoup4 and 2x the speed of Cheerio.",
+    "spark": "✨ Parse HTML efficiently across Rust, Python, and Node.js, achieving 8x the speed of BeautifulSoup4 and 2x the speed of Cheerio.",
+    "githubUrl": "https://github.com/arkjeetsingh/scrape-rs",
+    "stars": 5,
+    "license": "Apache-2.0",
+    "category": "vision",
+    "tags": [
+      "composer",
+      "gas-library",
+      "google",
+      "google-apps-script",
+      "googlenews",
+      "rust"
+    ],
+    "stack": [
+      "Rust",
+      "python"
+    ],
+    "demoUrl": "https://arkjeetsingh.github.io",
+    "cloneCommand": "git clone https://github.com/arkjeetsingh/scrape-rs",
+    "lastUpdated": "2026-06-29",
+    "loc": 1882,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "cjmk1-badminton-visionai",
+    "name": "Badminton Visionai",
+    "description": "🏸 Analyze badminton performance in real-time with AI-driven player tracking, shot analysis, and interactive dashboards for insightful training.",
+    "spark": "🏸 Analyze badminton performance in real-time with AI-driven player tracking, shot analysis, and interactive dashboards for insightful training.",
+    "githubUrl": "https://github.com/CJMK1/Badminton-VisionAI",
+    "stars": 8,
+    "license": "Unknown",
+    "category": "vision",
+    "tags": [
+      "ai-systems",
+      "badminton-track",
+      "camera-calibration",
+      "computer-vision",
+      "dashboard"
+    ],
+    "stack": [
+      "python"
+    ],
+    "demoUrl": "https://cjmk1.github.io",
+    "cloneCommand": "git clone https://github.com/CJMK1/Badminton-VisionAI",
+    "lastUpdated": "2026-06-29",
+    "loc": 3738,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "ultralytics-inference",
+    "name": "Inference",
+    "description": "Rust inference package experiments",
+    "spark": "Rust inference package experiments",
+    "githubUrl": "https://github.com/ultralytics/inference",
+    "stars": 106,
+    "license": "AGPL-3.0",
+    "category": "vision",
+    "tags": [
+      "computer-vision",
+      "deep-learning",
+      "instance-segmentation",
+      "machine-learning",
+      "object-detection",
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "demoUrl": "https://docs.ultralytics.com/inference",
+    "cloneCommand": "git clone https://github.com/ultralytics/inference",
+    "lastUpdated": "2026-06-28",
+    "loc": 1037,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
     "id": "noisefactorllc-noisemaker",
     "name": "Noisemaker",
     "description": "A collection of creative coding effects for Python or JavaScript",
@@ -25561,6 +25862,82 @@
     }
   },
   {
+    "id": "ultralytics-yolo-ios-app",
+    "name": "Yolo Ios App",
+    "description": "Ultralytics YOLO iOS App source code for running YOLO in your own iOS apps 🌟",
+    "spark": "Ultralytics YOLO iOS App source code for running YOLO in your own iOS apps 🌟",
+    "githubUrl": "https://github.com/ultralytics/yolo-ios-app",
+    "stars": 484,
+    "license": "AGPL-3.0",
+    "category": "vision",
+    "tags": [
+      "ai",
+      "app",
+      "app-store",
+      "coreml",
+      "instance-segmentation",
+      "swift"
+    ],
+    "stack": [
+      "Swift"
+    ],
+    "demoUrl": "https://apps.apple.com/app/ultralytics-yolo/id1452689527",
+    "cloneCommand": "git clone https://github.com/ultralytics/yolo-ios-app",
+    "lastUpdated": "2026-06-29",
+    "loc": 758,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 30
+    }
+  },
+  {
+    "id": "wangqvq-yolo-arxiv-daily",
+    "name": "Yolo Arxiv Daily",
+    "description": "每日从arXiv中获取最新YOLO相关论文",
+    "spark": "每日从arXiv中获取最新YOLO相关论文",
+    "githubUrl": "https://github.com/WangQvQ/YOLO-Arxiv-Daily",
+    "stars": 11,
+    "license": "Apache-2.0",
+    "category": "vision",
+    "tags": [
+      "arxiv",
+      "yolo",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/WangQvQ/YOLO-Arxiv-Daily",
+    "lastUpdated": "2026-06-29",
+    "loc": 2122,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
     "id": "jsoncrack",
     "name": "JSON Crack",
     "description": "Innovative and open-source visualization application that transforms various data formats such as JSON, YAML, XML and CSV into interactive graphs.",
@@ -26657,6 +27034,47 @@
     "cloneCommand": "git clone https://github.com/nasimstg/SkillTreeOSS",
     "lastUpdated": "2026-03-03",
     "loc": 10215,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 29
+    }
+  },
+  {
+    "id": "galihru-facemind",
+    "name": "Facemind",
+    "description": "application uses computer vision and machine learning to analyze mental health based on facial expressions. The app includes login system, and real-time mental health analysis through facial landmarks, using OpenCV, Mediapipe, and PyQt5. This Application Delegation Paper Competition for ",
+    "spark": "application uses computer vision and machine learning to analyze mental health based on facial expressions. The app includes login system, and real-time mental health analysis through facial landmarks, using OpenCV, Mediapipe, and PyQt5. This Application Delegation Paper Competition for ",
+    "githubUrl": "https://github.com/galihru/facemind",
+    "stars": 35,
+    "license": "Apache-2.0",
+    "category": "vision",
+    "tags": [
+      "ai",
+      "competition",
+      "computer-vision",
+      "instagram",
+      "mental-health",
+      "tex"
+    ],
+    "stack": [
+      "TeX",
+      "python"
+    ],
+    "demoUrl": "https://galihru.github.io/facemind/",
+    "cloneCommand": "git clone https://github.com/galihru/facemind",
+    "lastUpdated": "2026-06-29",
+    "loc": 10956,
     "authorCount": 1,
     "dormant": false,
     "singleFile": false,
@@ -31083,6 +31501,184 @@
     }
   },
   {
+    "id": "samuelkriegerbonini-dev-astroburst",
+    "name": "Astroburst",
+    "description": "This is the first astronomical image processor built on the Rust/Tauri/WebGPU stack, delivering near-native performance with a fraction of the memory footprint of legacy tools.",
+    "spark": "This is the first astronomical image processor built on the Rust/Tauri/WebGPU stack, delivering near-native performance with a fraction of the memory footprint of legacy tools.",
+    "githubUrl": "https://github.com/samuelkriegerbonini-dev/AstroBurst",
+    "stars": 88,
+    "license": "GPL-3.0",
+    "category": "vision",
+    "tags": [
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "cloneCommand": "git clone https://github.com/samuelkriegerbonini-dev/AstroBurst",
+    "lastUpdated": "2026-06-29",
+    "loc": 215630,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "cryoem-eman2",
+    "name": "Eman2",
+    "description": "A scientific image processing software suite with a focus on CryoEM and CryoET",
+    "spark": "A scientific image processing software suite with a focus on CryoEM and CryoET",
+    "githubUrl": "https://github.com/cryoem/eman2",
+    "stars": 168,
+    "license": "Unknown",
+    "category": "vision",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/cryoem/eman2",
+    "lastUpdated": "2026-06-29",
+    "loc": 361390,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "pythoncrazy-jimm",
+    "name": "Jimm",
+    "description": "JAX Image Modeling of Models contains Computer Vision/Vision Language Model implementations in native flax nnx with proper sharding annotations (allowing you to do easy fully sharded data parallel training with native flax nnx/jax)",
+    "spark": "JAX Image Modeling of Models contains Computer Vision/Vision Language Model implementations in native flax nnx with proper sharding annotations (allowing you to do easy fully sharded data parallel training with native flax nnx/jax)",
+    "githubUrl": "https://github.com/pythoncrazy/jimm",
+    "stars": 7,
+    "license": "MIT",
+    "category": "vision",
+    "tags": [
+      "computer-vision",
+      "flax",
+      "jax",
+      "machine-learning",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://pythoncrazy.github.io/jimm/",
+    "cloneCommand": "git clone https://github.com/pythoncrazy/jimm",
+    "lastUpdated": "2026-06-29",
+    "loc": 29990,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "crowd-dataset-crowd",
+    "name": "Crowd",
+    "description": "This repository contains code that extracts YouTube videos based on a mapping.csv file and performs object detection using YOLOv11. The primary objective of this work is to evaluate pedestrian behaviour in a cross-country or cross-cultural context using freely available YouTube videos.",
+    "spark": "This repository contains code that extracts YouTube videos based on a mapping.csv file and performs object detection using YOLOv11. The primary objective of this work is to evaluate pedestrian behaviour in a cross-country or cross-cultural context using freely available YouTube videos.",
+    "githubUrl": "https://github.com/crowd-dataset/crowd",
+    "stars": 9,
+    "license": "MIT",
+    "category": "vision",
+    "tags": [
+      "computer-vision",
+      "cross-cultural",
+      "pedestrain",
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "cloneCommand": "git clone https://github.com/crowd-dataset/crowd",
+    "lastUpdated": "2026-06-28",
+    "loc": 4049761,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "mxhsj-us_multi_anatomy_seg",
+    "name": "Us Multi Anatomy Seg",
+    "description": "segment multiple anatomies using yolo seg model",
+    "spark": "segment multiple anatomies using yolo seg model",
+    "githubUrl": "https://github.com/MXHsj/us_multi_anatomy_seg",
+    "stars": 5,
+    "license": "Unknown",
+    "category": "vision",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/MXHsj/us_multi_anatomy_seg",
+    "lastUpdated": "2026-06-28",
+    "loc": 2133698,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
     "id": "okerew-larkos",
     "name": "Larkos",
     "description": "This repository shows an alternative neural network structure to modern ones, inspiring from the brain and it's creativity, workings.",
@@ -31645,6 +32241,81 @@
     }
   },
   {
+    "id": "ultralytics-actions",
+    "name": "Actions",
+    "description": "Ultralytics GitHub Actions",
+    "spark": "Ultralytics GitHub Actions",
+    "githubUrl": "https://github.com/ultralytics/actions",
+    "stars": 113,
+    "license": "AGPL-3.0",
+    "category": "vision",
+    "tags": [
+      "auto-formatter",
+      "code-cleanup",
+      "code-linting",
+      "github-actions",
+      "gpt-4",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://ultralytics.com/actions",
+    "cloneCommand": "git clone https://github.com/ultralytics/actions",
+    "lastUpdated": "2026-06-29",
+    "loc": 941,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 27
+    }
+  },
+  {
+    "id": "libreyolo-libreyolo",
+    "name": "Libreyolo",
+    "description": "LibreYOLO is a MIT licensed open source computer vision library",
+    "spark": "LibreYOLO is a MIT licensed open source computer vision library",
+    "githubUrl": "https://github.com/LibreYOLO/libreyolo",
+    "stars": 432,
+    "license": "NOASSERTION",
+    "category": "vision",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://www.libreyolo.com/",
+    "cloneCommand": "git clone https://github.com/LibreYOLO/libreyolo",
+    "lastUpdated": "2026-06-28",
+    "loc": 36022,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 27
+    }
+  },
+  {
     "id": "jsoulier-voxel_raytracer",
     "name": "Voxel Raytracer",
     "description": "Simple Voxel Raytracer using SDL3 GPU with compute shaders",
@@ -32097,6 +32768,46 @@
     "cloneCommand": "git clone https://github.com/AlexanderFarhan/omniclaw",
     "lastUpdated": "2026-06-26",
     "loc": 16304,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 4,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 26
+    }
+  },
+  {
+    "id": "abhash-chakraborty-find",
+    "name": "Find",
+    "description": "A local-first, AI-powered image search engine. Find your photos using natural language queries—100% private and self-hosted.",
+    "spark": "A local-first, AI-powered image search engine. Find your photos using natural language queries—100% private and self-hosted.",
+    "githubUrl": "https://github.com/Abhash-Chakraborty/Find",
+    "stars": 32,
+    "license": "MIT",
+    "category": "vision",
+    "tags": [
+      "computer-vision",
+      "fastapi",
+      "local-first",
+      "nextjs",
+      "self-hosted",
+      "python"
+    ],
+    "stack": [
+      "Python",
+      "nextjs"
+    ],
+    "cloneCommand": "git clone https://github.com/Abhash-Chakraborty/Find",
+    "lastUpdated": "2026-06-28",
+    "loc": 15623,
     "authorCount": 1,
     "dormant": false,
     "singleFile": false,
@@ -38693,6 +39404,243 @@
     }
   },
   {
+    "id": "steve1316-uma-android-automation",
+    "name": "Uma Android Automation",
+    "description": "Android application written in Kotlin with the sole purpose of completely automating a run of Uma Musume Pretty Derby.",
+    "spark": "Android application written in Kotlin with the sole purpose of completely automating a run of Uma Musume Pretty Derby.",
+    "githubUrl": "https://github.com/steve1316/uma-android-automation",
+    "stars": 123,
+    "license": "GPL-3.0",
+    "category": "vision",
+    "tags": [
+      "accessibility",
+      "android",
+      "automation",
+      "bot",
+      "botting",
+      "kotlin"
+    ],
+    "stack": [
+      "Kotlin",
+      "python"
+    ],
+    "cloneCommand": "git clone https://github.com/steve1316/uma-android-automation",
+    "lastUpdated": "2026-06-29",
+    "loc": 93734,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "amyznikov-serstacker",
+    "name": "Serstacker",
+    "description": "Highly experimental code for planetary image stacking with OpenCV",
+    "spark": "Highly experimental code for planetary image stacking with OpenCV",
+    "githubUrl": "https://github.com/amyznikov/SerStacker",
+    "stars": 10,
+    "license": "CC0-1.0",
+    "category": "vision",
+    "tags": [
+      "astronomy",
+      "astrophotography",
+      "image",
+      "opencv",
+      "planetary",
+      "c++"
+    ],
+    "stack": [
+      "C++"
+    ],
+    "cloneCommand": "git clone https://github.com/amyznikov/SerStacker",
+    "lastUpdated": "2026-06-29",
+    "loc": 127315,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "jimmy-hu-tinydip",
+    "name": "Tinydip",
+    "description": "Tiny Digital Image Processing Library is a C++ experimental library for image processing, designed with C++20 syntax",
+    "spark": "Tiny Digital Image Processing Library is a C++ experimental library for image processing, designed with C++20 syntax",
+    "githubUrl": "https://github.com/Jimmy-Hu/TinyDIP",
+    "stars": 5,
+    "license": "GPL-3.0",
+    "category": "vision",
+    "tags": [
+      "algorithms",
+      "cmake",
+      "cpp",
+      "cpp20",
+      "image",
+      "c++"
+    ],
+    "stack": [
+      "C++",
+      "cpp"
+    ],
+    "cloneCommand": "git clone https://github.com/Jimmy-Hu/TinyDIP",
+    "lastUpdated": "2026-06-29",
+    "loc": 156502,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "ultralytics-docs",
+    "name": "Docs",
+    "description": "Ultralytics Docs https://docs.ultralytics.com",
+    "spark": "Ultralytics Docs https://docs.ultralytics.com",
+    "githubUrl": "https://github.com/ultralytics/docs",
+    "stars": 119,
+    "license": "AGPL-3.0",
+    "category": "vision",
+    "tags": [
+      "docs",
+      "documentation",
+      "guides",
+      "hub",
+      "quickstart",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://docs.ultralytics.com",
+    "cloneCommand": "git clone https://github.com/ultralytics/docs",
+    "lastUpdated": "2026-06-28",
+    "loc": 1758642,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "lostpigeonwrath-fortnite-aim-neweraai-assist",
+    "name": "Fortnite Aim Neweraai Assist",
+    "description": "Advanced Computer Vision & Input Optimization Framework for Fortnite Environments",
+    "spark": "Advanced Computer Vision & Input Optimization Framework for Fortnite Environments",
+    "githubUrl": "https://github.com/LostPigeonWrath/Fortnite-Aim-NewEraAI-Assist",
+    "stars": 5,
+    "license": "MIT",
+    "category": "vision",
+    "tags": [
+      "ai",
+      "automation",
+      "computer-vision",
+      "fortnite",
+      "fortnite-2026",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "cloneCommand": "git clone https://github.com/LostPigeonWrath/Fortnite-Aim-NewEraAI-Assist",
+    "lastUpdated": "2026-06-28",
+    "loc": 56704,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "aseiel-videohighlighter",
+    "name": "Videohighlighter",
+    "description": "Open-source local AI video analyzer powered by Ollama. Visual search, automatic highlights, scene/action/object detection, audio analysis, and subtitle generation. Free, offline alternative to Twelve Labs, Runway, and Descript.",
+    "spark": "Open-source local AI video analyzer powered by Ollama. Visual search, automatic highlights, scene/action/object detection, audio analysis, and subtitle generation. Free, offline alternative to Twelve Labs, Runway, and Descript.",
+    "githubUrl": "https://github.com/Aseiel/VideoHighlighter",
+    "stars": 46,
+    "license": "AGPL-3.0",
+    "category": "vision",
+    "tags": [
+      "action-recognition-dataset",
+      "cuda",
+      "highlight-generation",
+      "llava",
+      "local-ai",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/Aseiel/VideoHighlighter",
+    "lastUpdated": "2026-06-28",
+    "loc": 153883,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
     "id": "reyamira-models",
     "name": "Models",
     "description": "TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers.",
@@ -40207,6 +41155,200 @@
     "cloneCommand": "git clone https://github.com/wx672/lecture-notes",
     "lastUpdated": "2026-06-28",
     "loc": 163175,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 24
+    }
+  },
+  {
+    "id": "dromara-omega-ai",
+    "name": "Omega Ai",
+    "description": "Omega-AI：基于java打造的深度学习框架，帮助你快速搭建神经网络，实现模型推理与训练，引擎支持自动求导，多线程与GPU运算，GPU支持CUDA，CUDNN。",
+    "spark": "Omega-AI：基于java打造的深度学习框架，帮助你快速搭建神经网络，实现模型推理与训练，引擎支持自动求导，多线程与GPU运算，GPU支持CUDA，CUDNN。",
+    "githubUrl": "https://github.com/dromara/Omega-AI",
+    "stars": 479,
+    "license": "Apache-2.0",
+    "category": "vision",
+    "tags": [
+      "ai",
+      "deeplearning",
+      "diffusion",
+      "llm",
+      "neural-network",
+      "java"
+    ],
+    "stack": [
+      "Java"
+    ],
+    "cloneCommand": "git clone https://github.com/dromara/Omega-AI",
+    "lastUpdated": "2026-06-29",
+    "loc": 228526,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 24
+    }
+  },
+  {
+    "id": "everruns-yolop",
+    "name": "Yolop",
+    "description": "Everruns Coding Agent",
+    "spark": "Everruns Coding Agent",
+    "githubUrl": "https://github.com/everruns/yolop",
+    "stars": 5,
+    "license": "MIT",
+    "category": "vision",
+    "tags": [
+      "acp",
+      "ai-agents",
+      "ai-coding",
+      "coding",
+      "everruns",
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "cloneCommand": "git clone https://github.com/everruns/yolop",
+    "lastUpdated": "2026-06-29",
+    "loc": 25555,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 24
+    }
+  },
+  {
+    "id": "ultralytics-yolo-flutter-app",
+    "name": "Yolo Flutter App",
+    "description": "Flutter plugin for Ultralytics YOLO",
+    "spark": "Flutter plugin for Ultralytics YOLO",
+    "githubUrl": "https://github.com/ultralytics/yolo-flutter-app",
+    "stars": 446,
+    "license": "AGPL-3.0",
+    "category": "vision",
+    "tags": [
+      "ai",
+      "android",
+      "app",
+      "coreml",
+      "dart"
+    ],
+    "stack": [
+      "Dart"
+    ],
+    "demoUrl": "https://pub.dev/packages/ultralytics_yolo",
+    "cloneCommand": "git clone https://github.com/ultralytics/yolo-flutter-app",
+    "lastUpdated": "2026-06-29",
+    "loc": 35585,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 24
+    }
+  },
+  {
+    "id": "stillwater-sc-universal",
+    "name": "Universal",
+    "description": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization, estimation, and approximation.",
+    "spark": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization, estimation, and approximation.",
+    "githubUrl": "https://github.com/stillwater-sc/universal",
+    "stars": 498,
+    "license": "MIT",
+    "category": "vision",
+    "tags": [
+      "arbitrary-precision",
+      "arbitrary-precision-arithmetic",
+      "arbitrary-precision-floats",
+      "arbitrary-precision-integers",
+      "arithmetic",
+      "c++"
+    ],
+    "stack": [
+      "C++"
+    ],
+    "cloneCommand": "git clone https://github.com/stillwater-sc/universal",
+    "lastUpdated": "2026-06-29",
+    "loc": 116539,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 24
+    }
+  },
+  {
+    "id": "cilda-umaumachecker",
+    "name": "Umaumachecker",
+    "description": "ウマ娘で選択肢のステータスを画像認識によって可視化する",
+    "spark": "ウマ娘で選択肢のステータスを画像認識によって可視化する",
+    "githubUrl": "https://github.com/Cilda/UmaUmaChecker",
+    "stars": 48,
+    "license": "MIT",
+    "category": "vision",
+    "tags": [
+      "c-plus-plus",
+      "ocr",
+      "opencv",
+      "umamusume",
+      "c++"
+    ],
+    "stack": [
+      "C++"
+    ],
+    "cloneCommand": "git clone https://github.com/Cilda/UmaUmaChecker",
+    "lastUpdated": "2026-06-28",
+    "loc": 34284,
     "authorCount": 1,
     "dormant": false,
     "singleFile": false,
