@@ -1,12 +1,10 @@
 import { Octokit } from '@octokit/rest';
-import type { App, GithubRepo, License, SeedScore } from '@/types/app';
+import type { App, GithubRepo, SeedScore } from '@/types/app';
 import type { Category } from '@/types/app';
 
 const octokit = new Octokit({
   auth: process.env.GITHUB_TOKEN,
 });
-
-const PERMISSIVE_LICENSES = ['MIT', 'Apache-2.0', 'BSD-2-Clause', 'BSD-3-Clause', '0BSD', 'Unlicense'];
 
 export interface CrawlOptions {
   category: Exclude<Category, 'all'>;
@@ -26,14 +24,16 @@ const CATEGORY_QUERIES: Record<Exclude<Category, 'all'>, string> = {
   agents: '"agent skill" OR "claude skill" OR "agentic" OR "ai agent" OR "subagent" OR "context engineering" OR "llm agent" in:description,topics',
   cybersecurity: 'cybersecurity OR "security tool" OR "penetration testing" OR "vulnerability scanner" OR "infosec" OR "ctf" in:description,topics',
   privacy: 'privacy OR "end-to-end encryption" OR "anonymity" OR "tracker blocker" OR "self-hosted" OR "gdpr" in:description,topics',
+  curriculum: 'curriculum OR "course materials" OR "syllabus" OR "learning path" OR "self-study" OR "lecture notes" in:description,topics',
+  papers: '"awesome papers" OR "paper list" OR "research papers" OR "paper implementations" OR "reading list" OR "paper collection" in:description,topics',
+  degree: '"open source degree" OR "cs curriculum" OR "self-taught" OR "computer science curriculum" OR "ossu" OR "degree program" in:description,topics',
 };
 
 export async function searchGithubRepos(options: CrawlOptions): Promise<GithubRepo[]> {
   const { category, query, perPage = 10, maxStars = 500 } = options;
 
   const baseQuery = query || CATEGORY_QUERIES[category];
-  const licenseFilter = PERMISSIVE_LICENSES.map((l) => `license:${l.toLowerCase()}`).join(' ');
-  const fullQuery = `${baseQuery} stars:1..${maxStars} is:public ${licenseFilter}`;
+  const fullQuery = `${baseQuery} stars:1..${maxStars} is:public`;
 
   const response = await octokit.search.repos({
     q: fullQuery,
@@ -53,7 +53,7 @@ export async function searchGithubRepos(options: CrawlOptions): Promise<GithubRe
     language: item.language,
     pushed_at: item.pushed_at ?? new Date().toISOString(),
     homepage: item.homepage,
-    license: item.license ? { spdx_id: item.license.spdx_id ?? 'MIT' } : null,
+    license: item.license ? { spdx_id: item.license.spdx_id ?? 'Unknown' } : null,
     size: item.size ?? 0,
   }));
 }
@@ -98,7 +98,7 @@ export function repoToApp(repo: GithubRepo, category: Exclude<Category, 'all'>):
   const loc = estimateLoc(repo.size);
   const lastPush = new Date(repo.pushed_at);
   const monthsAgo = (Date.now() - lastPush.getTime()) / (1000 * 60 * 60 * 24 * 30);
-  const licenseSpdx = repo.license?.spdx_id ?? 'MIT';
+  const licenseSpdx = repo.license?.spdx_id ?? 'Unknown';
 
   return {
     id: repo.full_name.replace('/', '-').toLowerCase(),
@@ -109,7 +109,7 @@ export function repoToApp(repo: GithubRepo, category: Exclude<Category, 'all'>):
     spark: repo.description ?? 'Interesting project worth exploring.',
     githubUrl: repo.html_url,
     stars: repo.stargazers_count,
-    license: (PERMISSIVE_LICENSES.includes(licenseSpdx) ? licenseSpdx : 'MIT') as License,
+    license: licenseSpdx,
     category,
     tags: [
       ...(repo.topics ?? []).slice(0, 5),

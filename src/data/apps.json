@@ -1749,6 +1749,143 @@
     }
   },
   {
+    "id": "ai-in-transportation-lab-awesome-tinyml",
+    "name": "Awesome Tinyml",
+    "description": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on TinyML — the intersection of machine learning and ultra-low-power embedded systems.",
+    "spark": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on TinyML — the intersection of machine learning and ultra-low-power embedded systems.",
+    "githubUrl": "https://github.com/AI-in-Transportation-Lab/awesome-tinyml",
+    "stars": 126,
+    "license": "NOASSERTION",
+    "category": "papers",
+    "tags": [
+      "machine-learning",
+      "tiny-machine-learnig",
+      "tinyml",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "https://dl.acm.org/doi/10.1145/3776588",
+    "cloneCommand": "git clone https://github.com/AI-in-Transportation-Lab/awesome-tinyml",
+    "lastUpdated": "2026-06-28",
+    "loc": 212,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 37
+    }
+  },
+  {
+    "id": "exploitcraft-exploitcraft",
+    "name": "Exploitcraft",
+    "description": "Personal portfolio — self-taught dev from Bangladesh 🇧🇩",
+    "spark": "Personal portfolio — self-taught dev from Bangladesh 🇧🇩",
+    "githubUrl": "https://github.com/ExploitCraft/ExploitCraft",
+    "stars": 12,
+    "license": "Unknown",
+    "category": "degree",
+    "tags": [],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/ExploitCraft/ExploitCraft",
+    "lastUpdated": "2026-06-28",
+    "loc": 243,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 37
+    }
+  },
+  {
+    "id": "exploitcraft-portfolio",
+    "name": "Portfolio",
+    "description": "Personal portfolio — self-taught dev from Bangladesh 🇧🇩",
+    "spark": "Personal portfolio — self-taught dev from Bangladesh 🇧🇩",
+    "githubUrl": "https://github.com/ExploitCraft/portfolio",
+    "stars": 12,
+    "license": "MIT",
+    "category": "degree",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://emonpersonal.xyz/",
+    "cloneCommand": "git clone https://github.com/ExploitCraft/portfolio",
+    "lastUpdated": "2026-05-21",
+    "loc": 249,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 37
+    }
+  },
+  {
+    "id": "profjimhowes-tuj-cis",
+    "name": "Tuj Cis",
+    "description": "Course materials for Computer Science curriculum @ Temple University Japan",
+    "spark": "Course materials for Computer Science curriculum @ Temple University Japan",
+    "githubUrl": "https://github.com/profjimhowes/tuj-cis",
+    "stars": 23,
+    "license": "GPL-3.0",
+    "category": "degree",
+    "tags": [
+      "java"
+    ],
+    "stack": [
+      "Java"
+    ],
+    "cloneCommand": "git clone https://github.com/profjimhowes/tuj-cis",
+    "lastUpdated": "2026-04-13",
+    "loc": 206,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 37
+    }
+  },
+  {
     "id": "dotting",
     "name": "Dotting",
     "description": "Dotting is a pixel art editor component library for React. Build pixel editors, sprite tools, or any grid-based drawing interface.",
@@ -2017,6 +2154,75 @@
       "singleAuthorBonus": 3,
       "dormancyBonus": 0,
       "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 36
+    }
+  },
+  {
+    "id": "eugeneyan-applied-ml",
+    "name": "Applied Ml",
+    "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "spark": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "githubUrl": "https://github.com/eugeneyan/applied-ml",
+    "stars": 29860,
+    "license": "MIT",
+    "category": "papers",
+    "tags": [
+      "applied-data-science",
+      "applied-machine-learning",
+      "computer-vision",
+      "data-discovery",
+      "data-engineering"
+    ],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/eugeneyan/applied-ml",
+    "lastUpdated": "2024-07-18",
+    "loc": 318,
+    "authorCount": 1,
+    "dormant": true,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 3,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 36
+    }
+  },
+  {
+    "id": "forrestknight-open-source-cs",
+    "name": "Open Source Cs",
+    "description": "Video discussing this curriculum:",
+    "spark": "Video discussing this curriculum:",
+    "githubUrl": "https://github.com/ForrestKnight/open-source-cs",
+    "stars": 23453,
+    "license": "MIT",
+    "category": "degree",
+    "tags": [
+      "computer-science"
+    ],
+    "stack": [],
+    "demoUrl": "https://youtu.be/NyOvFSP_IpQ",
+    "cloneCommand": "git clone https://github.com/ForrestKnight/open-source-cs",
+    "lastUpdated": "2025-06-11",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": true,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 3,
+      "singleFileBonus": 3,
       "genericClonePenalty": 0,
       "popularityRamp": -1,
       "total": 36
@@ -11156,6 +11362,1672 @@
     }
   },
   {
+    "id": "cisco-talos-evidenceforge",
+    "name": "Evidenceforge",
+    "description": "Generate realistic synthetic security logs for cybersecurity threat hunting training and research",
+    "spark": "Generate realistic synthetic security logs for cybersecurity threat hunting training and research",
+    "githubUrl": "https://github.com/Cisco-Talos/EvidenceForge",
+    "stars": 161,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/Cisco-Talos/EvidenceForge",
+    "lastUpdated": "2026-06-26",
+    "loc": 6670,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "malloryai-mallorymcp",
+    "name": "Mallorymcp",
+    "description": "Mallory - Cyber Threat Intelligence MCP Server",
+    "spark": "Mallory - Cyber Threat Intelligence MCP Server",
+    "githubUrl": "https://github.com/malloryai/mallorymcp",
+    "stars": 8,
+    "license": "Apache-2.0",
+    "category": "cybersecurity",
+    "tags": [
+      "cti",
+      "cyber",
+      "cyber-threat-intelligence",
+      "cybersecurity",
+      "threat-intelligence",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://mallory.ai",
+    "cloneCommand": "git clone https://github.com/malloryai/mallorymcp",
+    "lastUpdated": "2026-06-26",
+    "loc": 178,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "somyagupta06-cybersec-notes-and-investigations",
+    "name": "Cybersec Notes And Investigations",
+    "description": "Cybersecurity portfolio containing investigations, technical writeups, DFIR analyses, threat hunting exercises, and learning notes. Built through hands-on practice across security labs, CTFs, and real-world inspired scenarios.",
+    "spark": "Cybersecurity portfolio containing investigations, technical writeups, DFIR analyses, threat hunting exercises, and learning notes. Built through hands-on practice across security labs, CTFs, and real-world inspired scenarios.",
+    "githubUrl": "https://github.com/somyagupta06/cybersec-notes-and-investigations",
+    "stars": 6,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/somyagupta06/cybersec-notes-and-investigations",
+    "lastUpdated": "2026-06-26",
+    "loc": 967,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "kaademos-secure-sdlc-agents",
+    "name": "Secure Sdlc Agents",
+    "description": "A team of Claude Code sub-agents that enforce security across the full SDLC, from ASVS requirements and threat modelling to SAST triage, IaC review, compliance attestation and release sign-off. Drop into any project. No security team required.",
+    "spark": "A team of Claude Code sub-agents that enforce security across the full SDLC, from ASVS requirements and threat modelling to SAST triage, IaC review, compliance attestation and release sign-off. Drop into any project. No security team required.",
+    "githubUrl": "https://github.com/Kaademos/secure-sdlc-agents",
+    "stars": 10,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "ai-agents",
+      "appsec",
+      "asvs",
+      "claude-code",
+      "compliance",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "https://owasp.org/www-project-application-security-verification-standard/",
+    "cloneCommand": "git clone https://github.com/Kaademos/secure-sdlc-agents",
+    "lastUpdated": "2026-06-26",
+    "loc": 256,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "six2dez-dispatch",
+    "name": "Dispatch",
+    "description": "Caido plugin to send HTTP requests to external CLI security tools with preview, batch execution, and live output",
+    "spark": "Caido plugin to send HTTP requests to external CLI security tools with preview, batch execution, and live output",
+    "githubUrl": "https://github.com/six2dez/dispatch",
+    "stars": 23,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "caido",
+      "caido-extension",
+      "caido-plugin",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/six2dez/dispatch",
+    "lastUpdated": "2026-06-26",
+    "loc": 1050,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "ekszz-ezctfer",
+    "name": "Ezctfer",
+    "description": "Multi-LLM CTF solving framework based on LangGraph",
+    "spark": "Multi-LLM CTF solving framework based on LangGraph",
+    "githubUrl": "https://github.com/ekszz/EzCTFer",
+    "stars": 9,
+    "license": "Apache-2.0",
+    "category": "cybersecurity",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/ekszz/EzCTFer",
+    "lastUpdated": "2026-06-26",
+    "loc": 1024,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "syed-sameer-ul-hassan-zenith-sentry",
+    "name": "Zenith Sentry",
+    "description": "Zenith-Sentry: Production-grade Linux Endpoint Detection and Response (EDR) toolkit with eBPF kernel telemetry, behavioral analysis, MITRE ATT&CK mapping, and automated threat mitigation. Real-time security monitoring for Linux servers and workstations.",
+    "spark": "Zenith-Sentry: Production-grade Linux Endpoint Detection and Response (EDR) toolkit with eBPF kernel telemetry, behavioral analysis, MITRE ATT&CK mapping, and automated threat mitigation. Real-time security monitoring for Linux servers and workstations.",
+    "githubUrl": "https://github.com/syed-sameer-ul-hassan/Zenith-Sentry",
+    "stars": 23,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "cyber-defense",
+      "cybersecurity",
+      "ebpf",
+      "edr",
+      "endpoint-security",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://zenith-sentry.orildo.sbs",
+    "cloneCommand": "git clone https://github.com/syed-sameer-ul-hassan/Zenith-Sentry",
+    "lastUpdated": "2026-06-26",
+    "loc": 390,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "masriyan-claude-code-cybersecurity-skill",
+    "name": "Claude Code Cybersecurity Skill",
+    "description": "A comprehensive collection of 15 Claude Code Skills for cybersecurity professionals ,covering offensive security, defensive operations, reverse engineering, threat hunting, CSOC automation, and more",
+    "spark": "A comprehensive collection of 15 Claude Code Skills for cybersecurity professionals ,covering offensive security, defensive operations, reverse engineering, threat hunting, CSOC automation, and more",
+    "githubUrl": "https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill",
+    "stars": 123,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "claude-skills",
+      "claudecode",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://www.security-life.org",
+    "cloneCommand": "git clone https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill",
+    "lastUpdated": "2026-06-26",
+    "loc": 2354,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "badchars-cve-mcp",
+    "name": "Cve Mcp",
+    "description": "23-tool MCP server for CVE & vulnerability intelligence. NVD, EPSS, CISA KEV, GitHub Advisory, OSV — unified in one server. Risk scoring, bulk triage, exploit search. 2 dependencies, runs with npx.",
+    "spark": "23-tool MCP server for CVE & vulnerability intelligence. NVD, EPSS, CISA KEV, GitHub Advisory, OSV — unified in one server. Risk scoring, bulk triage, exploit search. 2 dependencies, runs with npx.",
+    "githubUrl": "https://github.com/badchars/cve-mcp",
+    "stars": 9,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "ai-security",
+      "cisa",
+      "claude",
+      "cve",
+      "cvss",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://www.npmjs.com/package/cve-mcp",
+    "cloneCommand": "git clone https://github.com/badchars/cve-mcp",
+    "lastUpdated": "2026-06-25",
+    "loc": 244,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "cybersheepdog-analyst-tool",
+    "name": "Analyst Tool",
+    "description": "Analyst Tool to automate some of an analyst's daily investigation tasks. In both python script and Jupyter Notebook format.",
+    "spark": "Analyst Tool to automate some of an analyst's daily investigation tasks. In both python script and Jupyter Notebook format.",
+    "githubUrl": "https://github.com/cybersheepdog/Analyst-Tool",
+    "stars": 17,
+    "license": "BSD-3-Clause",
+    "category": "cybersecurity",
+    "tags": [
+      "cyber-threat-intelligence",
+      "cybersecurity",
+      "infosectools",
+      "security-automation",
+      "security-tools",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/cybersheepdog/Analyst-Tool",
+    "lastUpdated": "2026-06-25",
+    "loc": 886,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "shriyanss-js-recon",
+    "name": "Js Recon",
+    "description": "Automate JS analysis on modern JS apps",
+    "spark": "Automate JS analysis on modern JS apps",
+    "githubUrl": "https://github.com/shriyanss/js-recon",
+    "stars": 13,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "cybersecurity",
+      "javascript-cli",
+      "penetration-testing",
+      "websecurity",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://js-recon.io",
+    "cloneCommand": "git clone https://github.com/shriyanss/js-recon",
+    "lastUpdated": "2026-06-25",
+    "loc": 6792,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "cds-snc-security-tools",
+    "name": "Security Tools",
+    "description": "This repository will contain various tools used by CDS to ensure the confidentiality, integrity and availability of CDS applications and services",
+    "spark": "This repository will contain various tools used by CDS to ensure the confidentiality, integrity and availability of CDS applications and services",
+    "githubUrl": "https://github.com/cds-snc/security-tools",
+    "stars": 6,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "jupyter notebook"
+    ],
+    "stack": [
+      "Jupyter Notebook"
+    ],
+    "cloneCommand": "git clone https://github.com/cds-snc/security-tools",
+    "lastUpdated": "2026-06-25",
+    "loc": 1314,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "mwakidenis-elimu-sasa",
+    "name": "Elimu Sasa",
+    "description": "✨Elimu Now is an online educational platform dedicated to providing high-quality lessons and tutoring for students in Kenya. We offer a wide range of subjects aligned with the Kenyan school curriculum, helping students excel in their studies and achieve academic success. ✨",
+    "spark": "✨Elimu Now is an online educational platform dedicated to providing high-quality lessons and tutoring for students in Kenya. We offer a wide range of subjects aligned with the Kenyan school curriculum, helping students excel in their studies and achieve academic success. ✨",
+    "githubUrl": "https://github.com/mwakidenis/Elimu-Sasa",
+    "stars": 5,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "css",
+      "html",
+      "javascript",
+      "scss"
+    ],
+    "stack": [
+      "SCSS"
+    ],
+    "demoUrl": "https://elimu-now.vercel.app/",
+    "cloneCommand": "git clone https://github.com/mwakidenis/Elimu-Sasa",
+    "lastUpdated": "2026-06-28",
+    "loc": 2719,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "enthusjast-cf-maths-courses-2025",
+    "name": "Cf Maths Courses 2025",
+    "description": "course materials for the 2025 CF Maths talents class of USTC",
+    "spark": "course materials for the 2025 CF Maths talents class of USTC",
+    "githubUrl": "https://github.com/Enthusjast/CF-Maths-courses-2025",
+    "stars": 8,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "tex"
+    ],
+    "stack": [
+      "TeX"
+    ],
+    "cloneCommand": "git clone https://github.com/Enthusjast/CF-Maths-courses-2025",
+    "lastUpdated": "2026-06-28",
+    "loc": 2257,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "henu-kaguya-henu-kaguya",
+    "name": "Henu Kaguya",
+    "description": "河南大学计算机科学与技术专业课程资料及学习指南合集 (HENU-CS)",
+    "spark": "河南大学计算机科学与技术专业课程资料及学习指南合集 (HENU-CS)",
+    "githubUrl": "https://github.com/Henu-Kaguya/Henu-Kaguya",
+    "stars": 41,
+    "license": "NOASSERTION",
+    "category": "curriculum",
+    "tags": [
+      "computer-science",
+      "curriculum",
+      "henu",
+      "notes",
+      "study-guide"
+    ],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/Henu-Kaguya/Henu-Kaguya",
+    "lastUpdated": "2026-06-28",
+    "loc": 137,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "megany128-sklonuj",
+    "name": "Sklonuj",
+    "description": "Czech noun declension trainer synced with Krok za krokem syllabus.",
+    "spark": "Czech noun declension trainer synced with Krok za krokem syllabus.",
+    "githubUrl": "https://github.com/megany128/sklonuj",
+    "stars": 5,
+    "license": "NOASSERTION",
+    "category": "curriculum",
+    "tags": [
+      "czech",
+      "czech-language",
+      "language-learning",
+      "svelte"
+    ],
+    "stack": [
+      "Svelte"
+    ],
+    "demoUrl": "https://sklonuj.com",
+    "cloneCommand": "git clone https://github.com/megany128/sklonuj",
+    "lastUpdated": "2026-06-28",
+    "loc": 4352,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "herstack-org-website",
+    "name": "Website",
+    "description": "She doesn't just use AI. She builds it. — Open source platform for girls in AI across India. 💜  Free AI/ML learning paths, women mentors & open source programs",
+    "spark": "She doesn't just use AI. She builds it. — Open source platform for girls in AI across India. 💜  Free AI/ML learning paths, women mentors & open source programs",
+    "githubUrl": "https://github.com/HerStack-org/website",
+    "stars": 18,
+    "license": "MIT",
+    "category": "curriculum",
+    "tags": [
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "https://herstack.org/",
+    "cloneCommand": "git clone https://github.com/HerStack-org/website",
+    "lastUpdated": "2026-06-28",
+    "loc": 135,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "roiamiel1-build-deep-learning-from-scratch",
+    "name": "Build Deep Learning From Scratch",
+    "description": "A project-based curriculum that teaches PyTorch by rebuilding it from scratch. Start with scalar backpropagation, create a reverse-mode autodiff engine, expand it into tensors, then implement neural networks, optimizers, CNNs, attention, Transformers, ViTs, and a mini PyTorch framework. Every gradient is code you write and understand.",
+    "spark": "A project-based curriculum that teaches PyTorch by rebuilding it from scratch. Start with scalar backpropagation, create a reverse-mode autodiff engine, expand it into tensors, then implement neural networks, optimizers, CNNs, attention, Transformers, ViTs, and a mini PyTorch framework. Every gradient is code you write and understand.",
+    "githubUrl": "https://github.com/roiamiel1/Build-Deep-Learning-From-Scratch",
+    "stars": 14,
+    "license": "Unlicense",
+    "category": "curriculum",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/roiamiel1/Build-Deep-Learning-From-Scratch",
+    "lastUpdated": "2026-06-27",
+    "loc": 736,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "param20h-pdf-assistant-rag",
+    "name": "Pdf Assistant Rag",
+    "description": "PDF-Assistant-RAG is a complete, production-ready AI document assistant that lets users upload complex PDFs, financial reports, legal contracts, and research papers — then chat with an AI that provides accurate, cited answers powered by a multi-stage Retrieval-Augmented Generation pipeline.",
+    "spark": "PDF-Assistant-RAG is a complete, production-ready AI document assistant that lets users upload complex PDFs, financial reports, legal contracts, and research papers — then chat with an AI that provides accurate, cited answers powered by a multi-stage Retrieval-Augmented Generation pipeline.",
+    "githubUrl": "https://github.com/param20h/PDF-Assistant-RAG",
+    "stars": 41,
+    "license": "MIT",
+    "category": "papers",
+    "tags": [
+      "fastapi",
+      "nextjs",
+      "pdf-rag",
+      "python"
+    ],
+    "stack": [
+      "Python",
+      "nextjs"
+    ],
+    "demoUrl": "https://pdf-assistant-rag.vercel.app/",
+    "cloneCommand": "git clone https://github.com/param20h/PDF-Assistant-RAG",
+    "lastUpdated": "2026-06-28",
+    "loc": 2173,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "rizhaocai-awesome-fas",
+    "name": "Awesome Fas",
+    "description": "Paper collection of about the face anti-spoofing",
+    "spark": "Paper collection of about the face anti-spoofing",
+    "githubUrl": "https://github.com/RizhaoCai/Awesome-FAS",
+    "stars": 383,
+    "license": "Unknown",
+    "category": "papers",
+    "tags": [
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "cloneCommand": "git clone https://github.com/RizhaoCai/Awesome-FAS",
+    "lastUpdated": "2026-06-28",
+    "loc": 138,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": -0.5,
+      "total": 34
+    }
+  },
+  {
+    "id": "patrickwiloak-genai-research-papers-summarized",
+    "name": "Genai Research Papers Summarized",
+    "description": "For folks who don't have time to read 220,000+ words of research 📚",
+    "spark": "For folks who don't have time to read 220,000+ words of research 📚",
+    "githubUrl": "https://github.com/PatrickWiloak/genai-research-papers-summarized",
+    "stars": 8,
+    "license": "NOASSERTION",
+    "category": "papers",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/PatrickWiloak/genai-research-papers-summarized",
+    "lastUpdated": "2026-06-28",
+    "loc": 898,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "zhuwenxing-daily_arxiv",
+    "name": "Daily Arxiv",
+    "description": "Using GitHub Action to collect paper list with publicly available source code in the daily arxiv",
+    "spark": "Using GitHub Action to collect paper list with publicly available source code in the daily arxiv",
+    "githubUrl": "https://github.com/zhuwenxing/daily_arxiv",
+    "stars": 267,
+    "license": "Apache-2.0",
+    "category": "papers",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/zhuwenxing/daily_arxiv",
+    "lastUpdated": "2026-06-28",
+    "loc": 2088,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "willjhliang-obsidian-papers",
+    "name": "Obsidian Papers",
+    "description": "An obsidian plugin to retrieve and import research papers.",
+    "spark": "An obsidian plugin to retrieve and import research papers.",
+    "githubUrl": "https://github.com/willjhliang/obsidian-papers",
+    "stars": 8,
+    "license": "MIT",
+    "category": "papers",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/willjhliang/obsidian-papers",
+    "lastUpdated": "2026-06-28",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "yqhuang722-dailyarxiv",
+    "name": "Dailyarxiv",
+    "description": "A bot that automatically fetches the latest articles from Arxiv, helping users stay updated with new research papers based on customizable keywords or categories. Ideal for researchers and academics tracking cutting-edge developments.",
+    "spark": "A bot that automatically fetches the latest articles from Arxiv, helping users stay updated with new research papers based on customizable keywords or categories. Ideal for researchers and academics tracking cutting-edge developments.",
+    "githubUrl": "https://github.com/yqhuang722/DailyArxiv",
+    "stars": 8,
+    "license": "MIT",
+    "category": "papers",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/yqhuang722/DailyArxiv",
+    "lastUpdated": "2026-06-28",
+    "loc": 6193,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "adii0906-ml-agent",
+    "name": "Ml Agent",
+    "description": "ml-agent: an autonomous ML engineer that analyzes data, researches papers, trains models, and ships ML workflows",
+    "spark": "ml-agent: an autonomous ML engineer that analyzes data, researches papers, trains models, and ships ML workflows",
+    "githubUrl": "https://github.com/Adii0906/ml-agent",
+    "stars": 18,
+    "license": "Unknown",
+    "category": "papers",
+    "tags": [
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "cloneCommand": "git clone https://github.com/Adii0906/ml-agent",
+    "lastUpdated": "2026-06-28",
+    "loc": 110,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "kwwwww74-awesome-trustworthy-audiollms",
+    "name": "Awesome Trustworthy Audiollms",
+    "description": "A reading list for trustworthy audio large language models.",
+    "spark": "A reading list for trustworthy audio large language models.",
+    "githubUrl": "https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs",
+    "stars": 243,
+    "license": "Unknown",
+    "category": "papers",
+    "tags": [],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs",
+    "lastUpdated": "2026-06-28",
+    "loc": 5019,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "danidiaz-variegated-reading-lists",
+    "name": "Variegated Reading Lists",
+    "description": "A bunch of reading lists on various topics",
+    "spark": "A bunch of reading lists on various topics",
+    "githubUrl": "https://github.com/danidiaz/variegated-reading-lists",
+    "stars": 6,
+    "license": "BSD-3-Clause",
+    "category": "papers",
+    "tags": [],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/danidiaz/variegated-reading-lists",
+    "lastUpdated": "2026-06-28",
+    "loc": 3130,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "ai-in-transportation-lab-awesome-mcp",
+    "name": "Awesome Mcp",
+    "description": "A carefully curated collection of high-quality tools, libraries, research papers, projects, and tutorials centered around Model Context Protocol (MCP) — a novel paradigm designed to enable modular, adaptive coordination between large language models (LLMs) and external tools or data contexts.",
+    "spark": "A carefully curated collection of high-quality tools, libraries, research papers, projects, and tutorials centered around Model Context Protocol (MCP) — a novel paradigm designed to enable modular, adaptive coordination between large language models (LLMs) and external tools or data contexts.",
+    "githubUrl": "https://github.com/AI-in-Transportation-Lab/awesome-mcp",
+    "stars": 11,
+    "license": "NOASSERTION",
+    "category": "papers",
+    "tags": [
+      "mcp",
+      "model-context-protocol",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "https://arxiv.org/abs/2508.19239",
+    "cloneCommand": "git clone https://github.com/AI-in-Transportation-Lab/awesome-mcp",
+    "lastUpdated": "2026-06-28",
+    "loc": 155,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "ai-in-transportation-lab-awesome-jepa",
+    "name": "Awesome Jepa",
+    "description": "A carefully curated collection of high-quality tools, libraries, research papers, projects, and tutorials centered around Joint Embedding Predictive Architecture (JEPA).",
+    "spark": "A carefully curated collection of high-quality tools, libraries, research papers, projects, and tutorials centered around Joint Embedding Predictive Architecture (JEPA).",
+    "githubUrl": "https://github.com/AI-in-Transportation-Lab/awesome-jepa",
+    "stars": 92,
+    "license": "NOASSERTION",
+    "category": "papers",
+    "tags": [
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "cloneCommand": "git clone https://github.com/AI-in-Transportation-Lab/awesome-jepa",
+    "lastUpdated": "2026-06-28",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "dingyucanada-awesome-medical-ai",
+    "name": "Awesome Medical Ai",
+    "description": "🏥 Auto-updating collection of cutting-edge AI research papers in medicine and healthcare with AI-powered analysis",
+    "spark": "🏥 Auto-updating collection of cutting-edge AI research papers in medicine and healthcare with AI-powered analysis",
+    "githubUrl": "https://github.com/dingyucanada/Awesome-Medical-AI",
+    "stars": 7,
+    "license": "Unknown",
+    "category": "papers",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/dingyucanada/Awesome-Medical-AI",
+    "lastUpdated": "2026-06-28",
+    "loc": 3096,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "atharvadomale-daily-huggingface-ai-papers",
+    "name": "Daily Huggingface Ai Papers",
+    "description": "Automatically updated list of trending AI research papers from HuggingFace.",
+    "spark": "Automatically updated list of trending AI research papers from HuggingFace.",
+    "githubUrl": "https://github.com/AtharvaDomale/Daily-HuggingFace-AI-Papers",
+    "stars": 6,
+    "license": "Unknown",
+    "category": "papers",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/AtharvaDomale/Daily-HuggingFace-AI-Papers",
+    "lastUpdated": "2026-06-28",
+    "loc": 4642,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "ai-in-transportation-lab-awesome-mamba",
+    "name": "Awesome Mamba",
+    "description": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Structured State Space Models (SSMs), with a special emphasis on S4, Mamba, and their variants.",
+    "spark": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Structured State Space Models (SSMs), with a special emphasis on S4, Mamba, and their variants.",
+    "githubUrl": "https://github.com/AI-in-Transportation-Lab/awesome-mamba",
+    "stars": 5,
+    "license": "NOASSERTION",
+    "category": "papers",
+    "tags": [
+      "mamba",
+      "mamba-state-space-models",
+      "state-space-model",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "https://arxiv.org/abs/2503.18970",
+    "cloneCommand": "git clone https://github.com/AI-in-Transportation-Lab/awesome-mamba",
+    "lastUpdated": "2026-06-28",
+    "loc": 157,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "ai-in-transportation-lab-awesome-pinns",
+    "name": "Awesome Pinns",
+    "description": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Physics-Informed Machine Learning (PIML) and Physics-Informed Neural Networks (PINNs).",
+    "spark": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Physics-Informed Machine Learning (PIML) and Physics-Informed Neural Networks (PINNs).",
+    "githubUrl": "https://github.com/AI-in-Transportation-Lab/awesome-pinns",
+    "stars": 124,
+    "license": "NOASSERTION",
+    "category": "papers",
+    "tags": [
+      "physics-informed-machine-learning",
+      "physics-informed-neural-networks",
+      "piml",
+      "pinn",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "cloneCommand": "git clone https://github.com/AI-in-Transportation-Lab/awesome-pinns",
+    "lastUpdated": "2026-06-28",
+    "loc": 638,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "xunguangwang-awesome-jailbreak-guardrails",
+    "name": "Awesome Jailbreak Guardrails",
+    "description": "A reading list of jailbreak guardrails for large models",
+    "spark": "A reading list of jailbreak guardrails for large models",
+    "githubUrl": "https://github.com/xunguangwang/Awesome-Jailbreak-Guardrails",
+    "stars": 11,
+    "license": "Unknown",
+    "category": "papers",
+    "tags": [],
+    "stack": [],
+    "demoUrl": "https://github.com/xunguangwang/Awesome-Jailbreak-Guardrails",
+    "cloneCommand": "git clone https://github.com/xunguangwang/Awesome-Jailbreak-Guardrails",
+    "lastUpdated": "2026-06-28",
+    "loc": 4714,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "ai-in-transportation-lab-awesome-mechanistic-interpretability",
+    "name": "Awesome Mechanistic Interpretability",
+    "description": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Mechanistic Interpretability, a growing subfield in machine learning interpretability research that aims to reverse-engineer neural networks into understandable computational components.",
+    "spark": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Mechanistic Interpretability, a growing subfield in machine learning interpretability research that aims to reverse-engineer neural networks into understandable computational components.",
+    "githubUrl": "https://github.com/AI-in-Transportation-Lab/awesome-mechanistic-interpretability",
+    "stars": 114,
+    "license": "NOASSERTION",
+    "category": "papers",
+    "tags": [
+      "llms",
+      "mechanistic-interpretability",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "https://doi.org/10.1145/3787104",
+    "cloneCommand": "git clone https://github.com/AI-in-Transportation-Lab/awesome-mechanistic-interpretability",
+    "lastUpdated": "2026-06-28",
+    "loc": 704,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "greemdev-greemdev",
+    "name": "Greemdev",
+    "description": "I'm a self taught hobbyist programmer with 8 years of experience. I build open source tools and software using mainly C#. ",
+    "spark": "I'm a self taught hobbyist programmer with 8 years of experience. I build open source tools and software using mainly C#. ",
+    "githubUrl": "https://github.com/GreemDev/GreemDev",
+    "stars": 20,
+    "license": "Unknown",
+    "category": "degree",
+    "tags": [],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/GreemDev/GreemDev",
+    "lastUpdated": "2026-06-28",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "iqbalhasandev-iqbalhasandev",
+    "name": "Iqbalhasandev",
+    "description": "I am IQBAL HASAN, self-taught, Laravel developer / Sr. Web App Developer from Bangladesh. I am specialized in Backend Development. My mission is to convert an idea into a real pixel-perfect application.  I love to talk on trending ⚡ technology ⚡, I have huge attraction on 😁 Linux 😅 and I am a bit 😄 mad 😄 when I code",
+    "spark": "I am IQBAL HASAN, self-taught, Laravel developer / Sr. Web App Developer from Bangladesh. I am specialized in Backend Development. My mission is to convert an idea into a real pixel-perfect application.  I love to talk on trending ⚡ technology ⚡, I have huge attraction on 😁 Linux 😅 and I am a bit 😄 mad 😄 when I code",
+    "githubUrl": "https://github.com/iqbalhasandev/iqbalhasandev",
+    "stars": 18,
+    "license": "Unknown",
+    "category": "degree",
+    "tags": [
+      "cv",
+      "portfolio"
+    ],
+    "stack": [],
+    "demoUrl": "https://iqbalhasan.dev/",
+    "cloneCommand": "git clone https://github.com/iqbalhasandev/iqbalhasandev",
+    "lastUpdated": "2026-06-28",
+    "loc": 182,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "rudra496-devroadmaps",
+    "name": "Devroadmaps",
+    "description": "🗺️ Developer Roadmaps — 20 career paths, 870+ topics, 1,880+ free resources. PWA, certifications, community-driven. Your free guide from beginner to senior dev.",
+    "spark": "🗺️ Developer Roadmaps — 20 career paths, 870+ topics, 1,880+ free resources. PWA, certifications, community-driven. Your free guide from beginner to senior dev.",
+    "githubUrl": "https://github.com/rudra496/devroadmaps",
+    "stars": 11,
+    "license": "MIT",
+    "category": "degree",
+    "tags": [
+      "ai",
+      "backend",
+      "beginner-friendly",
+      "career",
+      "developer-roadmap",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "https://rudra496.github.io/devroadmaps",
+    "cloneCommand": "git clone https://github.com/rudra496/devroadmaps",
+    "lastUpdated": "2026-06-19",
+    "loc": 280,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "anicka-net-ossuary-risk",
+    "name": "Ossuary Risk",
+    "description": "OSS Supply Chain Risk Scoring - Where abandoned packages come to rest",
+    "spark": "OSS Supply Chain Risk Scoring - Where abandoned packages come to rest",
+    "githubUrl": "https://github.com/anicka-net/ossuary-risk",
+    "stars": 5,
+    "license": "Unknown",
+    "category": "degree",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/anicka-net/ossuary-risk",
+    "lastUpdated": "2026-06-13",
+    "loc": 3252,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "packtpublishing-fundamentals-for-self-taught-programmers",
+    "name": "Fundamentals For Self Taught Programmers",
+    "description": "Computer Science for Self-Taught Developers, published by Packt",
+    "spark": "Computer Science for Self-Taught Developers, published by Packt",
+    "githubUrl": "https://github.com/PacktPublishing/Fundamentals-for-Self-Taught-Programmers",
+    "stars": 21,
+    "license": "MIT",
+    "category": "degree",
+    "tags": [
+      "c#"
+    ],
+    "stack": [
+      "C#"
+    ],
+    "cloneCommand": "git clone https://github.com/PacktPublishing/Fundamentals-for-Self-Taught-Programmers",
+    "lastUpdated": "2026-04-22",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "jv377-sagax",
+    "name": "Sagax",
+    "description": "A simple app for learning, organizing your knowledge, and a place to store it. 100% offline, fast and lightweight, made by a young self-taught individual, runs on Linux and Windows. (Sagax Historical Code (Formerly Sponte Study))",
+    "spark": "A simple app for learning, organizing your knowledge, and a place to store it. 100% offline, fast and lightweight, made by a young self-taught individual, runs on Linux and Windows. (Sagax Historical Code (Formerly Sponte Study))",
+    "githubUrl": "https://github.com/JV377/Sagax",
+    "stars": 14,
+    "license": "GPL-3.0",
+    "category": "degree",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/JV377/Sagax",
+    "lastUpdated": "2026-04-18",
+    "loc": 1530,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "mr-sxr-masudurrahmansifat",
+    "name": "Masudurrahmansifat",
+    "description": "👨‍💻 About me — Python Developer & Automation Engineer | Mr-SxR",
+    "spark": "👨‍💻 About me — Python Developer & Automation Engineer | Mr-SxR",
+    "githubUrl": "https://github.com/Mr-SxR/MasudurRahmanSifat",
+    "stars": 8,
+    "license": "MIT",
+    "category": "degree",
+    "tags": [
+      "apk-analysis",
+      "automation",
+      "desktop-software",
+      "mr-sxr",
+      "python"
+    ],
+    "stack": [
+      "python"
+    ],
+    "cloneCommand": "git clone https://github.com/Mr-SxR/MasudurRahmanSifat",
+    "lastUpdated": "2026-04-02",
+    "loc": 469,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "jedi58-ossus",
+    "name": "Ossus",
+    "description": "A repository filled with useful bits of information and scripts",
+    "spark": "A repository filled with useful bits of information and scripts",
+    "githubUrl": "https://github.com/jedi58/ossus",
+    "stars": 6,
+    "license": "Unknown",
+    "category": "degree",
+    "tags": [
+      "powershell"
+    ],
+    "stack": [
+      "PowerShell"
+    ],
+    "cloneCommand": "git clone https://github.com/jedi58/ossus",
+    "lastUpdated": "2026-02-28",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "racoten-self-taught-course",
+    "name": "Self Taught Course",
+    "description": "This is a little experiment I want to start with. Basically ask claude to give a course on a github project. But basically I get a link to the github project, generate the course and then upload it as a git page. I'm just bored twin",
+    "spark": "This is a little experiment I want to start with. Basically ask claude to give a course on a github project. But basically I get a link to the github project, generate the course and then upload it as a git page. I'm just bored twin",
+    "githubUrl": "https://github.com/racoten/Self-Taught-Course",
+    "stars": 22,
+    "license": "MIT",
+    "category": "degree",
+    "tags": [
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "cloneCommand": "git clone https://github.com/racoten/Self-Taught-Course",
+    "lastUpdated": "2026-02-19",
+    "loc": 982,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "hocbigg-philosophy",
+    "name": "Philosophy",
+    "description": "Path to a free self-taught education in Philosophy! ",
+    "spark": "Path to a free self-taught education in Philosophy! ",
+    "githubUrl": "https://github.com/hocbigg/philosophy",
+    "stars": 7,
+    "license": "CC-BY-SA-4.0",
+    "category": "degree",
+    "tags": [
+      "courses",
+      "curriculum",
+      "philosophy"
+    ],
+    "stack": [],
+    "demoUrl": "https://hocbigg.github.io/philosophy/",
+    "cloneCommand": "git clone https://github.com/hocbigg/philosophy",
+    "lastUpdated": "2026-01-29",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "pharo-contributions-ossubprocess",
+    "name": "Ossubprocess",
+    "description": "Forking Operating System Processes from within Pharo Language",
+    "spark": "Forking Operating System Processes from within Pharo Language",
+    "githubUrl": "https://github.com/pharo-contributions/OSSubprocess",
+    "stars": 37,
+    "license": "MIT",
+    "category": "degree",
+    "tags": [
+      "pharo",
+      "smalltalk"
+    ],
+    "stack": [
+      "Smalltalk"
+    ],
+    "cloneCommand": "git clone https://github.com/pharo-contributions/OSSubprocess",
+    "lastUpdated": "2025-12-19",
+    "loc": 874,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "luluwux-30daysofcpp",
+    "name": "30Daysofcpp",
+    "description": "A Self-Taught Project To Learn C++.",
+    "spark": "A Self-Taught Project To Learn C++.",
+    "githubUrl": "https://github.com/luluwux/30DaysofCpp",
+    "stars": 9,
+    "license": "MIT",
+    "category": "degree",
+    "tags": [
+      "30days",
+      "30dayscodechallenge",
+      "30daysofcode",
+      "cpp",
+      "c++"
+    ],
+    "stack": [
+      "C++",
+      "cpp"
+    ],
+    "cloneCommand": "git clone https://github.com/luluwux/30DaysofCpp",
+    "lastUpdated": "2025-11-27",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
     "id": "webhook-tester",
     "name": "Webhook Tester",
     "description": "Powerful tool for testing WebHooks and more. Self-hosted webhook debugging with a live-updating UI to inspect requests.",
@@ -12003,6 +13875,154 @@
     }
   },
   {
+    "id": "hmx222-jscanner2",
+    "name": "Jscanner2",
+    "description": "JScanner2 is an AI-driven JS security tool for hardcoded secret detection and API parameter mining.",
+    "spark": "JScanner2 is an AI-driven JS security tool for hardcoded secret detection and API parameter mining.",
+    "githubUrl": "https://github.com/hmx222/JScanner2",
+    "stars": 10,
+    "license": "Apache-2.0",
+    "category": "cybersecurity",
+    "tags": [
+      "algorithm",
+      "clawler",
+      "scanner",
+      "security-tools",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/hmx222/JScanner2",
+    "lastUpdated": "2026-06-26",
+    "loc": 8886,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 33
+    }
+  },
+  {
+    "id": "mlabonne-llm-course",
+    "name": "Llm Course",
+    "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "spark": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "githubUrl": "https://github.com/mlabonne/llm-course",
+    "stars": 80460,
+    "license": "Apache-2.0",
+    "category": "papers",
+    "tags": [
+      "course",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "roadmap"
+    ],
+    "stack": [],
+    "demoUrl": "https://mlabonne.github.io/blog/",
+    "cloneCommand": "git clone https://github.com/mlabonne/llm-course",
+    "lastUpdated": "2026-02-05",
+    "loc": 6110,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 33
+    }
+  },
+  {
+    "id": "ossu-computer-science",
+    "name": "Computer Science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "spark": "🎓 Path to a free self-taught education in Computer Science!",
+    "githubUrl": "https://github.com/ossu/computer-science",
+    "stars": 205406,
+    "license": "MIT",
+    "category": "degree",
+    "tags": [
+      "awesome-list",
+      "computer-science",
+      "courses",
+      "curriculum",
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "demoUrl": "https://cs.ossu.dev",
+    "cloneCommand": "git clone https://github.com/ossu/computer-science",
+    "lastUpdated": "2026-06-26",
+    "loc": 1427,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 33
+    }
+  },
+  {
+    "id": "luanmattos-ethical-hacking",
+    "name": "Ethical Hacking",
+    "description": "Knowledge that I have been acquiring in a completely self-taught way",
+    "spark": "Knowledge that I have been acquiring in a completely self-taught way",
+    "githubUrl": "https://github.com/LuanMattos/ethical-hacking",
+    "stars": 53,
+    "license": "Unknown",
+    "category": "degree",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/LuanMattos/ethical-hacking",
+    "lastUpdated": "2026-03-09",
+    "loc": 8195,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 33
+    }
+  },
+  {
     "id": "nevermore23274-aethertune",
     "name": "Aethertune",
     "description": "A terminal-based internet radio player with real-time audio visualization, built in Rust.",
@@ -12365,6 +14385,145 @@
     "cloneCommand": "git clone https://github.com/piratecash/corsa",
     "lastUpdated": "2026-06-20",
     "loc": 9631,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 32
+    }
+  },
+  {
+    "id": "p1xt-p1xt-guides",
+    "name": "P1Xt Guides",
+    "description": "Programming curricula",
+    "spark": "Programming curricula",
+    "githubUrl": "https://github.com/P1xt/p1xt-guides",
+    "stars": 7194,
+    "license": "MIT",
+    "category": "degree",
+    "tags": [
+      "computer-science",
+      "game-development",
+      "programming",
+      "software-engineering",
+      "web-development"
+    ],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/P1xt/p1xt-guides",
+    "lastUpdated": "2026-01-03",
+    "loc": 463,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 32
+    }
+  },
+  {
+    "id": "mlampros-my.cvitae",
+    "name": "My.Cvitae",
+    "description": "automatic generate the Curriculum Vitae",
+    "spark": "automatic generate the Curriculum Vitae",
+    "githubUrl": "https://github.com/mlampros/My.CVitae",
+    "stars": 19,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "dockerfile"
+    ],
+    "stack": [
+      "Dockerfile"
+    ],
+    "demoUrl": "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/mlampros/My.CVitae/master/docs/cv.pdf",
+    "cloneCommand": "git clone https://github.com/mlampros/My.CVitae",
+    "lastUpdated": "2026-06-28",
+    "loc": 9523,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 32
+    }
+  },
+  {
+    "id": "zhuyingjessica-cv-daily",
+    "name": "Cv Daily",
+    "description": "This is an Arxiv paper collection",
+    "spark": "This is an Arxiv paper collection",
+    "githubUrl": "https://github.com/ZhuYingJessica/cv-daily",
+    "stars": 47,
+    "license": "Unknown",
+    "category": "papers",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/ZhuYingJessica/cv-daily",
+    "lastUpdated": "2026-06-28",
+    "loc": 10588,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 32
+    }
+  },
+  {
+    "id": "packtpublishing-the-self-taught-cloud-computing-engineer",
+    "name": "The Self Taught Cloud Computing Engineer",
+    "description": "The Self-Taught Cloud Computing Engineer, published by Packt",
+    "spark": "The Self-Taught Cloud Computing Engineer, published by Packt",
+    "githubUrl": "https://github.com/PacktPublishing/The-Self-Taught-Cloud-Computing-Engineer",
+    "stars": 50,
+    "license": "MIT",
+    "category": "degree",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/PacktPublishing/The-Self-Taught-Cloud-Computing-Engineer",
+    "lastUpdated": "2025-12-15",
+    "loc": 9508,
     "authorCount": 1,
     "dormant": false,
     "singleFile": false,
@@ -20319,6 +22478,929 @@
     }
   },
   {
+    "id": "rix4uni-xssrecon",
+    "name": "Xssrecon",
+    "description": "XSSRecon automates the process of testing URL parameters for reflection of a test payload rix4uni and further checks how special characters are handled (allowed, blocked, or converted).",
+    "spark": "XSSRecon automates the process of testing URL parameters for reflection of a test payload rix4uni and further checks how special characters are handled (allowed, blocked, or converted).",
+    "githubUrl": "https://github.com/rix4uni/xssrecon",
+    "stars": 54,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "bug-bounty",
+      "bugbounty",
+      "bugbountytips",
+      "hacking",
+      "infosec",
+      "go"
+    ],
+    "stack": [
+      "Go"
+    ],
+    "cloneCommand": "git clone https://github.com/rix4uni/xssrecon",
+    "lastUpdated": "2026-06-26",
+    "loc": 170,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "gigioneggiando-argo",
+    "name": "Argo",
+    "description": "👁️ LLM-native static vulnerability detection. An LLM reads your source like a human auditor, point it at any local folder or repo and get a reviewable vuln report. Auto-enriched prompts, adversarial validation, opt-in fix-verify. Runs on Claude Code / Codex / local OSS. Bug-bounty triage is one mode. Detection-only, read-only.",
+    "spark": "👁️ LLM-native static vulnerability detection. An LLM reads your source like a human auditor, point it at any local folder or repo and get a reviewable vuln report. Auto-enriched prompts, adversarial validation, opt-in fix-verify. Runs on Claude Code / Codex / local OSS. Bug-bounty triage is one mode. Detection-only, read-only.",
+    "githubUrl": "https://github.com/gigioneggiando/argo",
+    "stars": 7,
+    "license": "Apache-2.0",
+    "category": "cybersecurity",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-security",
+      "appsec",
+      "bug-bounty",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/gigioneggiando/argo",
+    "lastUpdated": "2026-06-26",
+    "loc": 966,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "macmod-sopa",
+    "name": "Sopa",
+    "description": "A practical client for ADWS in Golang.",
+    "spark": "A practical client for ADWS in Golang.",
+    "githubUrl": "https://github.com/Macmod/sopa",
+    "stars": 54,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "active-directory",
+      "adws",
+      "blue-team",
+      "cybersecurity",
+      "enumeration",
+      "go"
+    ],
+    "stack": [
+      "Go"
+    ],
+    "cloneCommand": "git clone https://github.com/Macmod/sopa",
+    "lastUpdated": "2026-06-26",
+    "loc": 102,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "nmoncho-sbt-osv",
+    "name": "Sbt Osv",
+    "description": "SBT Plugin for OSV API. Monitor your dependencies and report if there are any publicly known vulnerabilities (e.g. CVEs).",
+    "spark": "SBT Plugin for OSV API. Monitor your dependencies and report if there are any publicly known vulnerabilities (e.g. CVEs).",
+    "githubUrl": "https://github.com/nMoncho/sbt-osv",
+    "stars": 5,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "cve",
+      "cve-scanning",
+      "devops",
+      "infosec",
+      "sbt",
+      "scala"
+    ],
+    "stack": [
+      "Scala"
+    ],
+    "cloneCommand": "git clone https://github.com/nMoncho/sbt-osv",
+    "lastUpdated": "2026-06-26",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "triconinfotech-shai-hulud-malicious-packages",
+    "name": "Shai Hulud Malicious Packages",
+    "description": "Autonomous “Shai-Hulud” engine that ingests malicious NPM package advisories from OSV, tracks versions and metadata, and maintains a continuously updated threat intelligence database.",
+    "spark": "Autonomous “Shai-Hulud” engine that ingests malicious NPM package advisories from OSV, tracks versions and metadata, and maintains a continuously updated threat intelligence database.",
+    "githubUrl": "https://github.com/triconinfotech/shai-hulud-malicious-packages",
+    "stars": 9,
+    "license": "Apache-2.0",
+    "category": "cybersecurity",
+    "tags": [
+      "automation",
+      "devsecops",
+      "github-actions",
+      "infosec",
+      "malicious-packages-db",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "cloneCommand": "git clone https://github.com/triconinfotech/shai-hulud-malicious-packages",
+    "lastUpdated": "2026-06-26",
+    "loc": 5186,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "ruwgxo-ai-security-mastery",
+    "name": "Ai Security Mastery",
+    "description": "90-day learning path from ML fundamentals to production AI security systems",
+    "spark": "90-day learning path from ML fundamentals to production AI security systems",
+    "githubUrl": "https://github.com/ruwgxo/ai-security-mastery",
+    "stars": 8,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "adversarial-ml",
+      "ai-red-team",
+      "ai-security",
+      "cybersecurity",
+      "deep-learning",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/ruwgxo/ai-security-mastery",
+    "lastUpdated": "2026-06-26",
+    "loc": 2525,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "vyntral-awesome-killchain",
+    "name": "Awesome Killchain",
+    "description": "MITRE ATT&CK-aligned offensive + defensive security toolkit. 140+ tools organized by tactic × target with live health signals refreshed daily.",
+    "spark": "MITRE ATT&CK-aligned offensive + defensive security toolkit. 140+ tools organized by tactic × target with live health signals refreshed daily.",
+    "githubUrl": "https://github.com/Vyntral/awesome-killchain",
+    "stars": 5,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "awesome",
+      "awesome-list",
+      "blue-team",
+      "bug-bounty",
+      "ctf",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/Vyntral/awesome-killchain",
+    "lastUpdated": "2026-06-26",
+    "loc": 1358,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "thomasleplus-java-sql-inspector",
+    "name": "Java Sql Inspector",
+    "description": "Utility to test Java code for SQL injection vulnerabilities.",
+    "spark": "Utility to test Java code for SQL injection vulnerabilities.",
+    "githubUrl": "https://github.com/thomasleplus/java-sql-inspector",
+    "stars": 10,
+    "license": "Apache-2.0",
+    "category": "cybersecurity",
+    "tags": [
+      "antlr",
+      "antlr-4",
+      "antlr-grammar",
+      "antlr4",
+      "antlr4-grammar"
+    ],
+    "stack": [
+      "ANTLR"
+    ],
+    "cloneCommand": "git clone https://github.com/thomasleplus/java-sql-inspector",
+    "lastUpdated": "2026-06-26",
+    "loc": 882,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "strongwind1-kerberos",
+    "name": "Kerberos",
+    "description": "Comprehensive reference for Kerberos authentication in Microsoft Active Directory — protocol internals, security configuration, and attack techniques.",
+    "spark": "Comprehensive reference for Kerberos authentication in Microsoft Active Directory — protocol internals, security configuration, and attack techniques.",
+    "githubUrl": "https://github.com/StrongWind1/Kerberos",
+    "stars": 7,
+    "license": "Apache-2.0",
+    "category": "cybersecurity",
+    "tags": [
+      "active-directory",
+      "authentication",
+      "blue-team",
+      "cybersecurity",
+      "kerberos",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "https://strongwind1.github.io/Kerberos/",
+    "cloneCommand": "git clone https://github.com/StrongWind1/Kerberos",
+    "lastUpdated": "2026-06-26",
+    "loc": 558,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "omonien-dx.comply",
+    "name": "Dx.Comply",
+    "description": "Generate CycloneDX SBOMs for Delphi projects — EU Cyber Resilience Act compliance in one click",
+    "spark": "Generate CycloneDX SBOMs for Delphi projects — EU Cyber Resilience Act compliance in one click",
+    "githubUrl": "https://github.com/omonien/DX.Comply",
+    "stars": 51,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "compliance",
+      "cybersecurity",
+      "cyclonedx",
+      "delphi",
+      "delphi-component",
+      "pascal"
+    ],
+    "stack": [
+      "Pascal"
+    ],
+    "cloneCommand": "git clone https://github.com/omonien/DX.Comply",
+    "lastUpdated": "2026-06-25",
+    "loc": 660,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "pablolec-neoss",
+    "name": "Neoss",
+    "description": ":heavy_check_mark: User-friendly and detailed socket statistics with a Terminal UI.",
+    "spark": ":heavy_check_mark: User-friendly and detailed socket statistics with a Terminal UI.",
+    "githubUrl": "https://github.com/PabloLec/neoss",
+    "stars": 225,
+    "license": "BSD-3-Clause",
+    "category": "cybersecurity",
+    "tags": [
+      "blessed",
+      "command-line",
+      "connection",
+      "cybersecurity",
+      "educational",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/PabloLec/neoss",
+    "lastUpdated": "2026-06-25",
+    "loc": 1391,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "frangelbarrera-ics-cybersecurity-audit",
+    "name": "Ics Cybersecurity Audit",
+    "description": "ICS/OT cybersecurity audit framework — IEC 62443, NIST 800-82, MITRE ATT&CK",
+    "spark": "ICS/OT cybersecurity audit framework — IEC 62443, NIST 800-82, MITRE ATT&CK",
+    "githubUrl": "https://github.com/frangelbarrera/ICS-Cybersecurity-Audit",
+    "stars": 14,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "critical-infrastructure",
+      "cybersecurity-audit",
+      "cybersecurity-framework",
+      "ics",
+      "ics-security"
+    ],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/frangelbarrera/ICS-Cybersecurity-Audit",
+    "lastUpdated": "2026-06-25",
+    "loc": 4199,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "sanmaxdev-sentineldeck",
+    "name": "Sentineldeck",
+    "description": "Passive attack-surface scanner: turn a domain into a risk grade, copy-paste fixes, and a client-ready report. Safe DNS, HTTP, TLS, email, and certificate-transparency checks.",
+    "spark": "Passive attack-surface scanner: turn a domain into a risk grade, copy-paste fixes, and a client-ready report. Safe DNS, HTTP, TLS, email, and certificate-transparency checks.",
+    "githubUrl": "https://github.com/sanmaxdev/SentinelDeck",
+    "stars": 27,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "attack-surface",
+      "certificate-transparency",
+      "cli",
+      "dane",
+      "devsecops",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://pypi.org/project/sentineldeck/",
+    "cloneCommand": "git clone https://github.com/sanmaxdev/SentinelDeck",
+    "lastUpdated": "2026-06-25",
+    "loc": 124,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "smortezah-awesome-cv",
+    "name": "Awesome Cv",
+    "description": "A curated list of awesome resources to create and customize your Curriculum Vitae",
+    "spark": "A curated list of awesome resources to create and customize your Curriculum Vitae",
+    "githubUrl": "https://github.com/smortezah/awesome-cv",
+    "stars": 30,
+    "license": "CC0-1.0",
+    "category": "curriculum",
+    "tags": [
+      "curriculum-vitae",
+      "cv",
+      "jekyll",
+      "latex",
+      "markdown"
+    ],
+    "stack": [
+      "typescript",
+      "vue"
+    ],
+    "cloneCommand": "git clone https://github.com/smortezah/awesome-cv",
+    "lastUpdated": "2026-06-28",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "seehiong-eduvis",
+    "name": "Eduvis",
+    "description": "An open, curriculum-aware schema and reference SVG renderer for educational content.",
+    "spark": "An open, curriculum-aware schema and reference SVG renderer for educational content.",
+    "githubUrl": "https://github.com/seehiong/eduvis",
+    "stars": 17,
+    "license": "NOASSERTION",
+    "category": "curriculum",
+    "tags": [
+      "adaptive-learning",
+      "curriculum",
+      "edtech",
+      "education",
+      "instructional-design",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://seehiong.github.io/eduvis/showcase/",
+    "cloneCommand": "git clone https://github.com/seehiong/eduvis",
+    "lastUpdated": "2026-06-28",
+    "loc": 1899,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "tasnem-tech-skillmap",
+    "name": "Skillmap",
+    "description": "AI-powered interactive learning path visualizer that transforms any skill into a dynamic knowledge graph and personalized learning roadmap.",
+    "spark": "AI-powered interactive learning path visualizer that transforms any skill into a dynamic knowledge graph and personalized learning roadmap.",
+    "githubUrl": "https://github.com/tasnem-tech/skillmap",
+    "stars": 17,
+    "license": "MIT",
+    "category": "curriculum",
+    "tags": [
+      "ai-learning-path",
+      "edtech",
+      "education-visualization",
+      "javascript",
+      "knowledge-graph",
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "demoUrl": "https://tasnem-tech.github.io/skillmap/",
+    "cloneCommand": "git clone https://github.com/tasnem-tech/skillmap",
+    "lastUpdated": "2026-06-27",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "azizkode-arxiv-agent",
+    "name": "Arxiv Agent",
+    "description": "🤖 Discover the latest research papers on ArXiv tailored to your interests using AI-powered analysis and smart search features.",
+    "spark": "🤖 Discover the latest research papers on ArXiv tailored to your interests using AI-powered analysis and smart search features.",
+    "githubUrl": "https://github.com/azizkode/ArXiv-Agent",
+    "stars": 5,
+    "license": "MIT",
+    "category": "papers",
+    "tags": [
+      "active-perception",
+      "arxiv",
+      "gym-environment",
+      "llamaparse",
+      "llm",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://azizkode.github.io",
+    "cloneCommand": "git clone https://github.com/azizkode/ArXiv-Agent",
+    "lastUpdated": "2026-06-28",
+    "loc": 1530,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "kodustech-awesome-ai-code-review",
+    "name": "Awesome Ai Code Review",
+    "description": "Awesome list of AI Code Review agents, copilots, and research papers.",
+    "spark": "Awesome list of AI Code Review agents, copilots, and research papers.",
+    "githubUrl": "https://github.com/kodustech/awesome-ai-code-review",
+    "stars": 32,
+    "license": "Unknown",
+    "category": "papers",
+    "tags": [
+      "ai-agents",
+      "ai-code-review",
+      "ai-pull-request-review",
+      "automated-code-review",
+      "awesome-list"
+    ],
+    "stack": [],
+    "demoUrl": "https://aicodereviews.io",
+    "cloneCommand": "git clone https://github.com/kodustech/awesome-ai-code-review",
+    "lastUpdated": "2026-06-28",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "garylee1210-garylee1210",
+    "name": "Garylee1210",
+    "description": "AI / Embodied AI / Robot Navigation knowledge map, with a curated Image-Goal Navigation paper list (EN / 中文)",
+    "spark": "AI / Embodied AI / Robot Navigation knowledge map, with a curated Image-Goal Navigation paper list (EN / 中文)",
+    "githubUrl": "https://github.com/GaryLee1210/GaryLee1210",
+    "stars": 11,
+    "license": "Unknown",
+    "category": "papers",
+    "tags": [
+      "deep-learning",
+      "embodied-ai",
+      "image-goal-navigation",
+      "paper-list",
+      "reinforcement-learning"
+    ],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/GaryLee1210/GaryLee1210",
+    "lastUpdated": "2026-06-28",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "polyidoit-arxiv-quantum",
+    "name": "Arxiv Quantum",
+    "description": "updating research papers on quantum information and quantum computation  | the original version is based on code by Vincentqyw",
+    "spark": "updating research papers on quantum information and quantum computation  | the original version is based on code by Vincentqyw",
+    "githubUrl": "https://github.com/polyidoit/Arxiv-Quantum",
+    "stars": 23,
+    "license": "Unknown",
+    "category": "papers",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/polyidoit/Arxiv-Quantum",
+    "lastUpdated": "2026-06-28",
+    "loc": 11657,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "alaliqing-alphaad",
+    "name": "Alphaad",
+    "description": "🚗 Automatically curated collection of the latest autonomous driving research papers from arXiv. Updated daily with   categorized papers on perception, planning, control, and more.",
+    "spark": "🚗 Automatically curated collection of the latest autonomous driving research papers from arXiv. Updated daily with   categorized papers on perception, planning, control, and more.",
+    "githubUrl": "https://github.com/alaliqing/AlphaAD",
+    "stars": 18,
+    "license": "MIT",
+    "category": "papers",
+    "tags": [
+      "arxiv",
+      "autonomous-driving",
+      "deep-learning",
+      "machine-learning",
+      "paper-collection",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/alaliqing/AlphaAD",
+    "lastUpdated": "2026-06-28",
+    "loc": 1786,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "mr-sxr-mr-sxr",
+    "name": "Mr Sxr",
+    "description": "👨‍💻 Python Developer & Automation Engineer | Mr-SxR — Speciality & Reliability",
+    "spark": "👨‍💻 Python Developer & Automation Engineer | Mr-SxR — Speciality & Reliability",
+    "githubUrl": "https://github.com/Mr-SxR/Mr-SxR",
+    "stars": 11,
+    "license": "MIT",
+    "category": "degree",
+    "tags": [
+      "apk-analysis",
+      "automation",
+      "desktop-software",
+      "mr-sxr",
+      "python"
+    ],
+    "stack": [
+      "python"
+    ],
+    "cloneCommand": "git clone https://github.com/Mr-SxR/Mr-SxR",
+    "lastUpdated": "2026-06-21",
+    "loc": 1131,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "arindam-codes-systems-learning-log",
+    "name": "Systems Learning Log",
+    "description": "A structured learning portfolio covering systems, computational physics, mathematics, and programming through projects and simulations.",
+    "spark": "A structured learning portfolio covering systems, computational physics, mathematics, and programming through projects and simulations.",
+    "githubUrl": "https://github.com/arindam-codes/systems-learning-log",
+    "stars": 6,
+    "license": "Unknown",
+    "category": "degree",
+    "tags": [
+      "computational-physics",
+      "engineering-portfolio",
+      "first-principles",
+      "learning-in-public",
+      "mathematics"
+    ],
+    "stack": [
+      "python"
+    ],
+    "cloneCommand": "git clone https://github.com/arindam-codes/systems-learning-log",
+    "lastUpdated": "2026-04-13",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "daihocmo-tu-hoc-dai-hoc",
+    "name": "Tu Hoc Dai Hoc",
+    "description": "Hướng dẫn tự học chương trình đại học cho rất nhiều ngành ngay tại nhà",
+    "spark": "Hướng dẫn tự học chương trình đại học cho rất nhiều ngành ngay tại nhà",
+    "githubUrl": "https://github.com/daihocmo/tu-hoc-dai-hoc",
+    "stars": 12,
+    "license": "Unknown",
+    "category": "degree",
+    "tags": [
+      "dai-hoc",
+      "phat-trien-ky-nang",
+      "self-learning",
+      "self-taught",
+      "tu-hoc"
+    ],
+    "stack": [],
+    "demoUrl": "https://daihocmo.github.io/tu-hoc-dai-hoc/",
+    "cloneCommand": "git clone https://github.com/daihocmo/tu-hoc-dai-hoc",
+    "lastUpdated": "2026-02-01",
+    "loc": 2734,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
     "id": "noisefactorllc-noisemaker",
     "name": "Noisemaker",
     "description": "A collection of creative coding effects for Python or JavaScript",
@@ -22180,6 +25262,305 @@
     }
   },
   {
+    "id": "vmfunc-sif",
+    "name": "Sif",
+    "description": "the blazing-fast pentesting suite.",
+    "spark": "the blazing-fast pentesting suite.",
+    "githubUrl": "https://github.com/vmfunc/sif",
+    "stars": 435,
+    "license": "BSD-3-Clause",
+    "category": "cybersecurity",
+    "tags": [
+      "attack-surface",
+      "cve-scanner",
+      "cve-scanning",
+      "cybersecurity",
+      "directory-enumeration",
+      "go"
+    ],
+    "stack": [
+      "Go"
+    ],
+    "cloneCommand": "git clone https://github.com/vmfunc/sif",
+    "lastUpdated": "2026-06-26",
+    "loc": 2981,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 30
+    }
+  },
+  {
+    "id": "killertcell428-aigis",
+    "name": "Aigis",
+    "description": "Deterministic, zero-dependency Python firewall for AI agents — MCP rug-pull, memory poisoning, indirect injection, exfil channels. 44 compliance templates (US/CN/JP/EU).",
+    "spark": "Deterministic, zero-dependency Python firewall for AI agents — MCP rug-pull, memory poisoning, indirect injection, exfil channels. 44 compliance templates (US/CN/JP/EU).",
+    "githubUrl": "https://github.com/killertcell428/aigis",
+    "stars": 49,
+    "license": "Apache-2.0",
+    "category": "cybersecurity",
+    "tags": [
+      "ai-agent",
+      "ai-security",
+      "compliance",
+      "cybersecurity",
+      "firewall",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://pypi.org/project/pyaigis/",
+    "cloneCommand": "git clone https://github.com/killertcell428/aigis",
+    "lastUpdated": "2026-06-25",
+    "loc": 8258,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "katyhuff-cv",
+    "name": "Cv",
+    "description": "Curriculum Vitae",
+    "spark": "Curriculum Vitae",
+    "githubUrl": "https://github.com/katyhuff/CV",
+    "stars": 12,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "tex"
+    ],
+    "stack": [
+      "TeX"
+    ],
+    "cloneCommand": "git clone https://github.com/katyhuff/CV",
+    "lastUpdated": "2026-06-28",
+    "loc": 834,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "sharjeelsayed-learn.sharjeelsayed.com",
+    "name": "Learn.Sharjeelsayed.Com",
+    "description": "Curated Self Study Guide for Computer Science, DevOps, SRE, Platform Engineering & SysAdmin",
+    "spark": "Curated Self Study Guide for Computer Science, DevOps, SRE, Platform Engineering & SysAdmin",
+    "githubUrl": "https://github.com/sharjeelsayed/learn.sharjeelsayed.com",
+    "stars": 61,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "algorithms",
+      "aws",
+      "cicd",
+      "computer-science",
+      "database"
+    ],
+    "stack": [],
+    "demoUrl": "https://Learn.SharjeelSayed.com",
+    "cloneCommand": "git clone https://github.com/sharjeelsayed/learn.sharjeelsayed.com",
+    "lastUpdated": "2026-06-28",
+    "loc": 7391,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "nft-maker-one-claude_course",
+    "name": "Claude Course",
+    "description": "Claude Code course materials",
+    "spark": "Claude Code course materials",
+    "githubUrl": "https://github.com/nft-maker-one/claude_course",
+    "stars": 10,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/nft-maker-one/claude_course",
+    "lastUpdated": "2026-06-28",
+    "loc": 1464,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "beficent-surriculum",
+    "name": "Surriculum",
+    "description": "A curriculum planner for Sabancı University students",
+    "spark": "A curriculum planner for Sabancı University students",
+    "githubUrl": "https://github.com/BEFICENT/surriculum",
+    "stars": 7,
+    "license": "GPL-3.0",
+    "category": "curriculum",
+    "tags": [
+      "curriculum",
+      "ders",
+      "graduation",
+      "planning",
+      "requirements",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "https://beficent.github.io/surriculum/",
+    "cloneCommand": "git clone https://github.com/BEFICENT/surriculum",
+    "lastUpdated": "2026-06-28",
+    "loc": 7450,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "vinson-lee01-ops-engineering-roadmap",
+    "name": "Ops Engineering Roadmap",
+    "description": "🔧 DevOps/SRE 工程师从零基础到架构师完整学习路线图 | Linux · Docker · K8s · CI/CD · Prometheus · 云原生 | CN+EN Bilingual | 500+ Resources | Zero to Architect — Complete learning path for DevOps & SRE engineers",
+    "spark": "🔧 DevOps/SRE 工程师从零基础到架构师完整学习路线图 | Linux · Docker · K8s · CI/CD · Prometheus · 云原生 | CN+EN Bilingual | 500+ Resources | Zero to Architect — Complete learning path for DevOps & SRE engineers",
+    "githubUrl": "https://github.com/vinson-lee01/ops-engineering-roadmap",
+    "stars": 376,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "ansible",
+      "automation",
+      "bash-scripting",
+      "ci-cd",
+      "cloud-native",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/vinson-lee01/ops-engineering-roadmap",
+    "lastUpdated": "2026-06-28",
+    "loc": 1697,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -0.5,
+      "total": 30
+    }
+  },
+  {
+    "id": "mahmoudrabie-agentic-ai",
+    "name": "Agentic Ai",
+    "description": "Agentic AI research papers, benchmarks, frameworks, and tools curated across 24 domains.",
+    "spark": "Agentic AI research papers, benchmarks, frameworks, and tools curated across 24 domains.",
+    "githubUrl": "https://github.com/mahmoudrabie/agentic-ai",
+    "stars": 153,
+    "license": "MIT",
+    "category": "papers",
+    "tags": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-benchmarks",
+      "ai-evaluation",
+      "ai-research"
+    ],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/mahmoudrabie/agentic-ai",
+    "lastUpdated": "2026-06-28",
+    "loc": 8697,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
     "id": "jsoncrack",
     "name": "JSON Crack",
     "description": "Innovative and open-source visualization application that transforms various data formats such as JSON, YAML, XML and CSV into interactive graphs.",
@@ -23166,6 +26547,123 @@
       "ideaNovelty": 6,
       "sizeFit": 4,
       "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 29
+    }
+  },
+  {
+    "id": "whitzardagent-qitos",
+    "name": "Qitos",
+    "description": "Let's Qitos! A torch-like agent-native framework for researchers. ",
+    "spark": "Let's Qitos! A torch-like agent-native framework for researchers. ",
+    "githubUrl": "https://github.com/WhitzardAgent/qitos",
+    "stars": 15,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "agent-framework",
+      "agent-harness",
+      "agent-research",
+      "ai-agents",
+      "benchmark",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://qitor.mintlify.app/tutorials",
+    "cloneCommand": "git clone https://github.com/WhitzardAgent/qitos",
+    "lastUpdated": "2026-06-26",
+    "loc": 10176,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 29
+    }
+  },
+  {
+    "id": "nxctf-nxctf",
+    "name": "Nxctf",
+    "description": "https://ctf.ariaf.my.id, dan https://demo.nxctf.my.id/",
+    "spark": "https://ctf.ariaf.my.id, dan https://demo.nxctf.my.id/",
+    "githubUrl": "https://github.com/nxctf/nxctf",
+    "stars": 133,
+    "license": "Apache-2.0",
+    "category": "cybersecurity",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://ctf.ariaf.my.id",
+    "cloneCommand": "git clone https://github.com/nxctf/nxctf",
+    "lastUpdated": "2026-06-25",
+    "loc": 15038,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 4,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 29
+    }
+  },
+  {
+    "id": "nasimstg-skilltreeoss",
+    "name": "Skilltreeoss",
+    "description": "An open-source, gamified learning platform and interactive roadmap builder. We map complex skills into visual, RPG-style skill trees to guide self-taught learners with community-curated resources.",
+    "spark": "An open-source, gamified learning platform and interactive roadmap builder. We map complex skills into visual, RPG-style skill trees to guide self-taught learners with community-curated resources.",
+    "githubUrl": "https://github.com/nasimstg/SkillTreeOSS",
+    "stars": 5,
+    "license": "MIT",
+    "category": "degree",
+    "tags": [
+      "curriculum",
+      "developer-roadmap",
+      "edtech",
+      "education",
+      "gamification",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript",
+      "nextjs",
+      "react"
+    ],
+    "demoUrl": "https://skilltreeoss.softexforge.io",
+    "cloneCommand": "git clone https://github.com/nasimstg/SkillTreeOSS",
+    "lastUpdated": "2026-03-03",
+    "loc": 10215,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 5,
       "readmeClarity": 8,
       "singleAuthorBonus": 3,
       "dormancyBonus": 0,
@@ -26736,6 +30234,855 @@
     }
   },
   {
+    "id": "armorerlabs-armorer",
+    "name": "Armorer",
+    "description": "Local control plane for running AI agents with sandboxes, approvals, guardrails, credentials, and runtime health.",
+    "spark": "Local control plane for running AI agents with sandboxes, approvals, guardrails, credentials, and runtime health.",
+    "githubUrl": "https://github.com/ArmorerLabs/Armorer",
+    "stars": 58,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "agent-runtime",
+      "agent-security",
+      "ai-agents",
+      "ai-security",
+      "cybersecurity",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://armorerlabs.com",
+    "cloneCommand": "git clone https://github.com/ArmorerLabs/Armorer",
+    "lastUpdated": "2026-06-26",
+    "loc": 12242,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "klarna-incubator-gram",
+    "name": "Gram",
+    "description": "Gram is Klarna's own threat model diagramming tool",
+    "spark": "Gram is Klarna's own threat model diagramming tool",
+    "githubUrl": "https://github.com/klarna-incubator/gram",
+    "stars": 334,
+    "license": "Apache-2.0",
+    "category": "cybersecurity",
+    "tags": [
+      "appsec",
+      "cybersecurity",
+      "infosec",
+      "threat-modeling",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/klarna-incubator/gram",
+    "lastUpdated": "2026-06-26",
+    "loc": 16133,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 4,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -0.5,
+      "total": 28
+    }
+  },
+  {
+    "id": "entkenntnis-htw",
+    "name": "Htw",
+    "description": "Hack The Web - source code and build instructions",
+    "spark": "Hack The Web - source code and build instructions",
+    "githubUrl": "https://github.com/Entkenntnis/htw",
+    "stars": 16,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "ctf",
+      "fun",
+      "game",
+      "hacking",
+      "learning",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "https://hack.arrrg.de",
+    "cloneCommand": "git clone https://github.com/Entkenntnis/htw",
+    "lastUpdated": "2026-06-26",
+    "loc": 109413,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "cocomelonc-cocomelonc.github.io",
+    "name": "Cocomelonc.Github.Io",
+    "description": "Cybersecurity blog. Red Team, pentest, malware analysis and dev",
+    "spark": "Cybersecurity blog. Red Team, pentest, malware analysis and dev",
+    "githubUrl": "https://github.com/cocomelonc/cocomelonc.github.io",
+    "stars": 102,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "cybersecurity",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "https://cocomelonc.github.io",
+    "cloneCommand": "git clone https://github.com/cocomelonc/cocomelonc.github.io",
+    "lastUpdated": "2026-06-26",
+    "loc": 484468,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "f6-dfir-ransomware",
+    "name": "Ransomware",
+    "description": "A structured, continuously updated threat-intelligence repository focused on ransomware families and threat actors.",
+    "spark": "A structured, continuously updated threat-intelligence repository focused on ransomware families and threat actors.",
+    "githubUrl": "https://github.com/f6-dfir/Ransomware",
+    "stars": 42,
+    "license": "Apache-2.0",
+    "category": "cybersecurity",
+    "tags": [
+      "cybersecurity",
+      "ransomware",
+      "threat-intelligence",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/f6-dfir/Ransomware",
+    "lastUpdated": "2026-06-25",
+    "loc": 51106,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "cyberflood-switchtoopen",
+    "name": "Switchtoopen",
+    "description": "SwitchToOpen - The open source shift",
+    "spark": "SwitchToOpen - The open source shift",
+    "githubUrl": "https://github.com/CyberFlooD/SwitchToOpen",
+    "stars": 308,
+    "license": "Unlicense",
+    "category": "cybersecurity",
+    "tags": [
+      "awesome-list",
+      "awesome-lists",
+      "cybersecurity",
+      "opensource",
+      "tools"
+    ],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/CyberFlooD/SwitchToOpen",
+    "lastUpdated": "2026-06-25",
+    "loc": 22283,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -0.5,
+      "total": 28
+    }
+  },
+  {
+    "id": "cateds-dynamics-control.md",
+    "name": "Dynamics Control.Md",
+    "description": "Lecture notes for Dynamics & Control (DC) course @ 2025-2026 Spring, Glasgow College, UESTC.",
+    "spark": "Lecture notes for Dynamics & Control (DC) course @ 2025-2026 Spring, Glasgow College, UESTC.",
+    "githubUrl": "https://github.com/Cateds/Dynamics-Control.md",
+    "stars": 6,
+    "license": "NOASSERTION",
+    "category": "curriculum",
+    "tags": [
+      "css"
+    ],
+    "stack": [
+      "CSS"
+    ],
+    "cloneCommand": "git clone https://github.com/Cateds/Dynamics-Control.md",
+    "lastUpdated": "2026-06-28",
+    "loc": 41742,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "iic2343-syllabus-2026-1",
+    "name": "Syllabus 2026 1",
+    "description": "Material utilizado para el curso Arquitectura de Computadores durante el 2026-1 💻",
+    "spark": "Material utilizado para el curso Arquitectura de Computadores durante el 2026-1 💻",
+    "githubUrl": "https://github.com/IIC2343/Syllabus-2026-1",
+    "stars": 34,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "assembly"
+    ],
+    "stack": [
+      "Assembly"
+    ],
+    "cloneCommand": "git clone https://github.com/IIC2343/Syllabus-2026-1",
+    "lastUpdated": "2026-06-28",
+    "loc": 64948,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "stellardevhub-web3-student-lab",
+    "name": "Web3 Student Lab",
+    "description": "Web3 Student Lab is an open-source educational platform that helps students learn blockchain, smart contracts, open-source collaboration, and hackathon project development in one place. The platform provides interactive tools, coding environments, and guided learning paths designed for beginners and university students.",
+    "spark": "Web3 Student Lab is an open-source educational platform that helps students learn blockchain, smart contracts, open-source collaboration, and hackathon project development in one place. The platform provides interactive tools, coding environments, and guided learning paths designed for beginners and university students.",
+    "githubUrl": "https://github.com/StellarDevHub/Web3-Student-Lab",
+    "stars": 9,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://web3-student-lab.vercel.app/",
+    "cloneCommand": "git clone https://github.com/StellarDevHub/Web3-Student-Lab",
+    "lastUpdated": "2026-06-28",
+    "loc": 30558,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "takakhoo-automatic-music-mastering-using-deep-learning",
+    "name": "Automatic Music Mastering Using Deep Learning",
+    "description": "Tokenized Curriculum Learning for Multi-Effect Neural Retoration of Music",
+    "spark": "Tokenized Curriculum Learning for Multi-Effect Neural Retoration of Music",
+    "githubUrl": "https://github.com/takakhoo/Automatic-Music-Mastering-Using-Deep-Learning",
+    "stars": 8,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/takakhoo/Automatic-Music-Mastering-Using-Deep-Learning",
+    "lastUpdated": "2026-06-28",
+    "loc": 143354,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "karlstroetmann-formal-languages",
+    "name": "Formal Languages",
+    "description": "Lecture notes and examples for my class on formal languages and compilers.",
+    "spark": "Lecture notes and examples for my class on formal languages and compilers.",
+    "githubUrl": "https://github.com/karlstroetmann/Formal-Languages",
+    "stars": 42,
+    "license": "GPL-2.0",
+    "category": "curriculum",
+    "tags": [
+      "tex"
+    ],
+    "stack": [
+      "TeX"
+    ],
+    "cloneCommand": "git clone https://github.com/karlstroetmann/Formal-Languages",
+    "lastUpdated": "2026-06-28",
+    "loc": 365087,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "bowers-illinois-edu-bowershansen-ci-course",
+    "name": "Bowershansen Ci Course",
+    "description": "Source files for Jake and Ben and Tom's causal inference course materials",
+    "spark": "Source files for Jake and Ben and Tom's causal inference course materials",
+    "githubUrl": "https://github.com/bowers-illinois-edu/bowershansen-CI-course",
+    "stars": 6,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "causal-inference",
+      "course-materials",
+      "icpsr",
+      "tex"
+    ],
+    "stack": [
+      "TeX"
+    ],
+    "cloneCommand": "git clone https://github.com/bowers-illinois-edu/bowershansen-CI-course",
+    "lastUpdated": "2026-06-28",
+    "loc": 70184,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "romainsacchi-barcelona-regionalized-lcia",
+    "name": "Barcelona Regionalized Lcia",
+    "description": "Course materials for the three-day course on Brightway and impacts regionalization.",
+    "spark": "Course materials for the three-day course on Brightway and impacts regionalization.",
+    "githubUrl": "https://github.com/romainsacchi/barcelona-regionalized-lcia",
+    "stars": 6,
+    "license": "BSD-3-Clause",
+    "category": "curriculum",
+    "tags": [
+      "jupyter notebook"
+    ],
+    "stack": [
+      "Jupyter Notebook"
+    ],
+    "cloneCommand": "git clone https://github.com/romainsacchi/barcelona-regionalized-lcia",
+    "lastUpdated": "2026-06-28",
+    "loc": 100806,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "python-big-data-science-nyc-pythondatasciencebootcampnyc",
+    "name": "Pythondatasciencebootcampnyc",
+    "description": "Python Data Science Bootcamp NYC Affordable Cost-Effective Best Weekend Classes Python SQL 101 Class Bootcamp Big Data Sciene Tutor NYC, New York  Developed various passive course for bootcamps in Data Analytics, took classes at USA (New York) and  India. Training theme centered around projects, for example, your portfolio or even themes you  are doing at work in Manhattan, New York City. Very different from the repetitive courses  given by other tutors with a fixed syllabus. The outcome of such  engagement is a product you can use.  And am focused to build your github portfolio. Also worked at New York Python SQL Bootcamp Coding Classes (Affordable &  Cost-effective Machine Learning).  Running the Best Free classes in NYC / India. Experience in creating and delivered for difference bootcamp: SQL 101  & Python 101 Classes, Big Data Science Classes for beginners in  Analytics & Data Science, Weekend part time full time classes in  Manhattan & Queens, 1 on 1 Tutoring, Free weekend  2hrs class, New York Python SQL Bootcamp for Non Programmers (Affordable  Machine Learning). ",
+    "spark": "Python Data Science Bootcamp NYC Affordable Cost-Effective Best Weekend Classes Python SQL 101 Class Bootcamp Big Data Sciene Tutor NYC, New York  Developed various passive course for bootcamps in Data Analytics, took classes at USA (New York) and  India. Training theme centered around projects, for example, your portfolio or even themes you  are doing at work in Manhattan, New York City. Very different from the repetitive courses  given by other tutors with a fixed syllabus. The outcome of such  engagement is a product you can use.  And am focused to build your github portfolio. Also worked at New York Python SQL Bootcamp Coding Classes (Affordable &  Cost-effective Machine Learning).  Running the Best Free classes in NYC / India. Experience in creating and delivered for difference bootcamp: SQL 101  & Python 101 Classes, Big Data Science Classes for beginners in  Analytics & Data Science, Weekend part time full time classes in  Manhattan & Queens, 1 on 1 Tutoring, Free weekend  2hrs class, New York Python SQL Bootcamp for Non Programmers (Affordable  Machine Learning). ",
+    "githubUrl": "https://github.com/Python-Big-Data-Science-NYC/PythonDataScienceBootcampNYC",
+    "stars": 21,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "jupyter notebook"
+    ],
+    "stack": [
+      "Jupyter Notebook"
+    ],
+    "cloneCommand": "git clone https://github.com/Python-Big-Data-Science-NYC/PythonDataScienceBootcampNYC",
+    "lastUpdated": "2026-06-28",
+    "loc": 36618,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "xinase-ase",
+    "name": "Ase",
+    "description": "Advanced Software Engineering course materials",
+    "spark": "Advanced Software Engineering course materials",
+    "githubUrl": "https://github.com/xinase/ASE",
+    "stars": 69,
+    "license": "MIT",
+    "category": "curriculum",
+    "tags": [],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/xinase/ASE",
+    "lastUpdated": "2026-06-27",
+    "loc": 246330,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "evaleval-every_eval_ever",
+    "name": "Every Eval Ever",
+    "description": "Every Eval Ever is a shared schema and crowdsourced eval database. It defines a standardized metadata format for storing AI evaluation results — from leaderboard scrapes and research papers to local evaluation runs — so that results from different frameworks can be compared, reproduced, and reused.",
+    "spark": "Every Eval Ever is a shared schema and crowdsourced eval database. It defines a standardized metadata format for storing AI evaluation results — from leaderboard scrapes and research papers to local evaluation runs — so that results from different frameworks can be compared, reproduced, and reused.",
+    "githubUrl": "https://github.com/evaleval/every_eval_ever",
+    "stars": 83,
+    "license": "MIT",
+    "category": "papers",
+    "tags": [
+      "agent-evaluation",
+      "ai-evaluation",
+      "evaluations",
+      "infra",
+      "llm-evaluation",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://evalevalai.com/projects/every-eval-ever/",
+    "cloneCommand": "git clone https://github.com/evaleval/every_eval_ever",
+    "lastUpdated": "2026-06-28",
+    "loc": 20617,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "learningbydoingnow-ai-hub",
+    "name": "Ai Hub",
+    "description": "一个AI驱动的可扩展的资讯fetch工具，一站式浏览 AI 公司产品、最新资讯与前沿论文。An AI-powered, extensible news fetching tool — a one-stop hub for browsing AI company products, latest news, and cutting-edge research papers.",
+    "spark": "一个AI驱动的可扩展的资讯fetch工具，一站式浏览 AI 公司产品、最新资讯与前沿论文。An AI-powered, extensible news fetching tool — a one-stop hub for browsing AI company products, latest news, and cutting-edge research papers.",
+    "githubUrl": "https://github.com/LearningByDoingNow/ai-hub",
+    "stars": 8,
+    "license": "MIT",
+    "category": "papers",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/LearningByDoingNow/ai-hub",
+    "lastUpdated": "2026-06-28",
+    "loc": 100251,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "nutdnuy-quant-investment-papers",
+    "name": "Quant Investment Papers",
+    "description": "Personal quant & investment research papers library — alpha, factor, algo trading, portfolio management",
+    "spark": "Personal quant & investment research papers library — alpha, factor, algo trading, portfolio management",
+    "githubUrl": "https://github.com/nutdnuy/quant-investment-papers",
+    "stars": 51,
+    "license": "Unknown",
+    "category": "papers",
+    "tags": [],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/nutdnuy/quant-investment-papers",
+    "lastUpdated": "2026-06-28",
+    "loc": 1225179,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "jasmineaigc-arxiv_cv_papers_daily",
+    "name": "Arxiv Cv Papers Daily",
+    "description": "Daily feed of the latest Computer Vision research papers from https://arxiv.org.",
+    "spark": "Daily feed of the latest Computer Vision research papers from https://arxiv.org.",
+    "githubUrl": "https://github.com/JasmineAIGC/ArXiv_CV_Papers_Daily",
+    "stars": 245,
+    "license": "Unknown",
+    "category": "papers",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/JasmineAIGC/ArXiv_CV_Papers_Daily",
+    "lastUpdated": "2026-06-28",
+    "loc": 22252,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "devsoc-unsw-circles",
+    "name": "Circles",
+    "description": "The open-source degree planner for UNSW students. Features an interactive drag-and-drop interface for easy term planning and automatic progression checking to help you stay on track for graduation. ",
+    "spark": "The open-source degree planner for UNSW students. Features an interactive drag-and-drop interface for easy term planning and automatic progression checking to help you stay on track for graduation. ",
+    "githubUrl": "https://github.com/devsoc-unsw/circles",
+    "stars": 69,
+    "license": "NOASSERTION",
+    "category": "degree",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://circles.devsoc.app",
+    "cloneCommand": "git clone https://github.com/devsoc-unsw/circles",
+    "lastUpdated": "2026-06-28",
+    "loc": 162810,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "m0rjique-hse-nlp-avito",
+    "name": "Hse Nlp Avito",
+    "description": "Natural Language Processing course at HSE x Avito Master's Degree Program",
+    "spark": "Natural Language Processing course at HSE x Avito Master's Degree Program",
+    "githubUrl": "https://github.com/M0RJIQUE/hse-nlp-avito",
+    "stars": 6,
+    "license": "Unknown",
+    "category": "degree",
+    "tags": [
+      "jupyter notebook"
+    ],
+    "stack": [
+      "Jupyter Notebook"
+    ],
+    "cloneCommand": "git clone https://github.com/M0RJIQUE/hse-nlp-avito",
+    "lastUpdated": "2026-05-01",
+    "loc": 41244,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "lynnette177-iossubwaysurfers",
+    "name": "Iossubwaysurfers",
+    "description": "iOS地铁跑酷菜单。支持越狱/非越狱环境，自带static inline hook",
+    "spark": "iOS地铁跑酷菜单。支持越狱/非越狱环境，自带static inline hook",
+    "githubUrl": "https://github.com/Lynnette177/iOSSubwaySurfers",
+    "stars": 30,
+    "license": "Unknown",
+    "category": "degree",
+    "tags": [
+      "c"
+    ],
+    "stack": [
+      "C"
+    ],
+    "cloneCommand": "git clone https://github.com/Lynnette177/iOSSubwaySurfers",
+    "lastUpdated": "2025-12-31",
+    "loc": 45984,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "reiss-koh-adastar",
+    "name": "Adastar",
+    "description": "[NeurIPS 2025] AdaSTaR Adaptive Data Sampling for Training Self-Taught Reasoners",
+    "spark": "[NeurIPS 2025] AdaSTaR Adaptive Data Sampling for Training Self-Taught Reasoners",
+    "githubUrl": "https://github.com/reiss-koh/AdaSTaR",
+    "stars": 9,
+    "license": "Apache-2.0",
+    "category": "degree",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://arxiv.org/pdf/2505.16322",
+    "cloneCommand": "git clone https://github.com/reiss-koh/AdaSTaR",
+    "lastUpdated": "2025-12-24",
+    "loc": 23877,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "grufoony-open_physics",
+    "name": "Open Physics",
+    "description": "Repository for notes/resumes/formularies pertaining to bachelor's and master's degree programs in physics at the University of Bologna.",
+    "spark": "Repository for notes/resumes/formularies pertaining to bachelor's and master's degree programs in physics at the University of Bologna.",
+    "githubUrl": "https://github.com/Grufoony/Open_Physics",
+    "stars": 17,
+    "license": "BSD-3-Clause",
+    "category": "degree",
+    "tags": [
+      "appunti-universitari",
+      "latex",
+      "pdf",
+      "python3",
+      "unibo",
+      "tex"
+    ],
+    "stack": [
+      "TeX"
+    ],
+    "demoUrl": "https://grufoony.github.io/Open_Physics/",
+    "cloneCommand": "git clone https://github.com/Grufoony/Open_Physics",
+    "lastUpdated": "2025-12-17",
+    "loc": 20053,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
     "id": "okerew-larkos",
     "name": "Larkos",
     "description": "This repository shows an alternative neural network structure to modern ones, inspiring from the brain and it's creativity, workings.",
@@ -27258,6 +31605,46 @@
     }
   },
   {
+    "id": "kdn251-interviews",
+    "name": "Interviews",
+    "description": "Everything you need to know to get the job.",
+    "spark": "Everything you need to know to get the job.",
+    "githubUrl": "https://github.com/kdn251/interviews",
+    "stars": 65035,
+    "license": "MIT",
+    "category": "degree",
+    "tags": [
+      "algorithm",
+      "algorithm-challenges",
+      "algorithm-competitions",
+      "algorithms",
+      "coding-challenge",
+      "java"
+    ],
+    "stack": [
+      "Java"
+    ],
+    "demoUrl": "https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g?view_as=subscriber",
+    "cloneCommand": "git clone https://github.com/kdn251/interviews",
+    "lastUpdated": "2025-05-12",
+    "loc": 19570,
+    "authorCount": 1,
+    "dormant": true,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 3,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 27
+    }
+  },
+  {
     "id": "jsoulier-voxel_raytracer",
     "name": "Voxel Raytracer",
     "description": "Simple Voxel Raytracer using SDL3 GPU with compute shaders",
@@ -27683,6 +32070,46 @@
       "singleFileBonus": 0,
       "genericClonePenalty": 0,
       "popularityRamp": -0.5,
+      "total": 26
+    }
+  },
+  {
+    "id": "alexanderfarhan-omniclaw",
+    "name": "Omniclaw",
+    "description": "Build and manage intelligent hybrid AI agent systems that combine multiple models to enhance automation and decision-making.",
+    "spark": "Build and manage intelligent hybrid AI agent systems that combine multiple models to enhance automation and decision-making.",
+    "githubUrl": "https://github.com/AlexanderFarhan/omniclaw",
+    "stars": 5,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-assistant",
+      "automation",
+      "python"
+    ],
+    "stack": [
+      "Python",
+      "rust"
+    ],
+    "cloneCommand": "git clone https://github.com/AlexanderFarhan/omniclaw",
+    "lastUpdated": "2026-06-26",
+    "loc": 16304,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 4,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
       "total": 26
     }
   },
@@ -33470,6 +37897,802 @@
     }
   },
   {
+    "id": "hack23-cia-compliance-manager",
+    "name": "Cia Compliance Manager",
+    "description": "The CIA Compliance Manager is an application that helps organizations assess and manage the availability, integrity, and confidentiality of their systems and data based on customizable security levels, providing real-time cost estimates, business impact assessments, and technical implementation details.",
+    "spark": "The CIA Compliance Manager is an application that helps organizations assess and manage the availability, integrity, and confidentiality of their systems and data based on customizable security levels, providing real-time cost estimates, business impact assessments, and technical implementation details.",
+    "githubUrl": "https://github.com/Hack23/cia-compliance-manager",
+    "stars": 20,
+    "license": "Apache-2.0",
+    "category": "cybersecurity",
+    "tags": [
+      "ai",
+      "availability",
+      "business-impact",
+      "capex",
+      "cia",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript",
+      "react"
+    ],
+    "demoUrl": "https://ciacompliancemanager.com/",
+    "cloneCommand": "git clone https://github.com/Hack23/cia-compliance-manager",
+    "lastUpdated": "2026-06-26",
+    "loc": 1136403,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "rderaison-bromure",
+    "name": "Bromure",
+    "description": "Proper sandboxing for agentic coding and web browsing",
+    "spark": "Proper sandboxing for agentic coding and web browsing",
+    "githubUrl": "https://github.com/rderaison/bromure",
+    "stars": 268,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "agentic",
+      "browser",
+      "developer-tools",
+      "development",
+      "infosec",
+      "swift"
+    ],
+    "stack": [
+      "Swift"
+    ],
+    "demoUrl": "https://bromure.io",
+    "cloneCommand": "git clone https://github.com/rderaison/bromure",
+    "lastUpdated": "2026-06-26",
+    "loc": 103714,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "sekoia-io-automation-library",
+    "name": "Automation Library",
+    "description": "Automate your SOC with SEKOIA.IO's Automation Library. Pull Requests are always welcome and highly appreciated! ",
+    "spark": "Automate your SOC with SEKOIA.IO's Automation Library. Pull Requests are always welcome and highly appreciated! ",
+    "githubUrl": "https://github.com/SEKOIA-IO/automation-library",
+    "stars": 22,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "automation",
+      "cti",
+      "cybersecurity",
+      "intelligence",
+      "soar",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://www.sekoia.io",
+    "cloneCommand": "git clone https://github.com/SEKOIA-IO/automation-library",
+    "lastUpdated": "2026-06-26",
+    "loc": 45044,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "ersilh0x-bitrixprobe",
+    "name": "Bitrixprobe",
+    "description": "Open-source vulnerability assessment toolkit for 1C-Bitrix and Bitrix24 CMS audit, external pentest checks, and module/version analysis.",
+    "spark": "Open-source vulnerability assessment toolkit for 1C-Bitrix and Bitrix24 CMS audit, external pentest checks, and module/version analysis.",
+    "githubUrl": "https://github.com/ErSilh0x/bitrixprobe",
+    "stars": 7,
+    "license": "Apache-2.0",
+    "category": "cybersecurity",
+    "tags": [
+      "1c-bitrix",
+      "bitrix",
+      "bitrix-cms",
+      "bitrix24",
+      "cybersecurity",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/ErSilh0x/bitrixprobe",
+    "lastUpdated": "2026-06-26",
+    "loc": 70149,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "pensarai-apex",
+    "name": "Apex",
+    "description": "AI-powered offensive security testing using autonomous agents, directly in your terminal.",
+    "spark": "AI-powered offensive security testing using autonomous agents, directly in your terminal.",
+    "githubUrl": "https://github.com/pensarai/apex",
+    "stars": 293,
+    "license": "Apache-2.0",
+    "category": "cybersecurity",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-sdk",
+      "anthropic",
+      "cybersecurity",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://pensar.dev",
+    "cloneCommand": "git clone https://github.com/pensarai/apex",
+    "lastUpdated": "2026-06-26",
+    "loc": 28842,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "katrielmoses-voidaccess",
+    "name": "Voidaccess",
+    "description": "Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future, DarkOwl, and Flare.",
+    "spark": "Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future, DarkOwl, and Flare.",
+    "githubUrl": "https://github.com/KatrielMoses/voidaccess",
+    "stars": 258,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "ai",
+      "cybersecurity",
+      "dark-web",
+      "darknet",
+      "opensource",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/KatrielMoses/voidaccess",
+    "lastUpdated": "2026-06-26",
+    "loc": 30411,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "deeptig9138-cybersecurity101---thm",
+    "name": "Cybersecurity101   Thm",
+    "description": "This will be covering the Cybersecurity101 learning path from THM. Sharing my learnings here",
+    "spark": "This will be covering the Cybersecurity101 learning path from THM. Sharing my learnings here",
+    "githubUrl": "https://github.com/Deeptig9138/CyberSecurity101---THM",
+    "stars": 6,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "cli",
+      "cryptography",
+      "cyber-career",
+      "cybersecurity",
+      "cybersecurity-education"
+    ],
+    "stack": [],
+    "demoUrl": "https://tryhackme.com/paths",
+    "cloneCommand": "git clone https://github.com/Deeptig9138/CyberSecurity101---THM",
+    "lastUpdated": "2026-06-26",
+    "loc": 26464,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "rolandpg-zettelforge",
+    "name": "Zettelforge",
+    "description": "Agentic memory for CTI in Python — STIX knowledge graphs, threat-actor alias resolution, offline-first RAG, MCP server for Claude Code and LangChain agents",
+    "spark": "Agentic memory for CTI in Python — STIX knowledge graphs, threat-actor alias resolution, offline-first RAG, MCP server for Claude Code and LangChain agents",
+    "githubUrl": "https://github.com/rolandpg/zettelforge",
+    "stars": 50,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "agentic-memory",
+      "ai-agent",
+      "claude-code",
+      "cti",
+      "cybersecurity",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://docs.threatrecall.ai/",
+    "cloneCommand": "git clone https://github.com/rolandpg/zettelforge",
+    "lastUpdated": "2026-06-26",
+    "loc": 18638,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "xenocoregiger31-local-model",
+    "name": "Local Model",
+    "description": "Autonomous security agent on Kali Linux using Qwen 2.5-14b with LM Studio",
+    "spark": "Autonomous security agent on Kali Linux using Qwen 2.5-14b with LM Studio",
+    "githubUrl": "https://github.com/XenoCoreGiger31/Local-Model",
+    "stars": 5,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "ai-agents",
+      "autonomous-agents",
+      "bug-bounty",
+      "bug-bounty-recon",
+      "bug-bounty-tools",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://huggingface.co/automajicly/Local-Model",
+    "cloneCommand": "git clone https://github.com/XenoCoreGiger31/Local-Model",
+    "lastUpdated": "2026-06-25",
+    "loc": 89365,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "petritbahtiri123-leakguard",
+    "name": "Leakguard",
+    "description": "Local-only Chrome extension that detects and redacts secrets before prompts are sent to AI chat tools.",
+    "spark": "Local-only Chrome extension that detects and redacts secrets before prompts are sent to AI chat tools.",
+    "githubUrl": "https://github.com/petritbahtiri123/LeakGuard",
+    "stars": 5,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "ai",
+      "browser-extension",
+      "chatgpt",
+      "chrome-extension",
+      "dlp",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "cloneCommand": "git clone https://github.com/petritbahtiri123/LeakGuard",
+    "lastUpdated": "2026-06-25",
+    "loc": 27270,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "saccofrancesco-lock",
+    "name": "Lock",
+    "description": "Local-first password manager with a clean CustomTkinter desktop UI. Lock encrypts credentials with your master password and stores them locally for private, cross-platform use on Windows, macOS, and Linux",
+    "spark": "Local-first password manager with a clean CustomTkinter desktop UI. Lock encrypts credentials with your master password and stores them locally for private, cross-platform use on Windows, macOS, and Linux",
+    "githubUrl": "https://github.com/saccofrancesco/lock",
+    "stars": 8,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "credential-manager",
+      "cross-platform",
+      "cryptography",
+      "customtkinter",
+      "cybersecurity",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/saccofrancesco/lock",
+    "lastUpdated": "2026-06-25",
+    "loc": 29282,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "netwrix-aihound",
+    "name": "Aihound",
+    "description": "Credential Scanner for Popular Desktop AI Platforms",
+    "spark": "Credential Scanner for Popular Desktop AI Platforms",
+    "githubUrl": "https://github.com/netwrix/AIHound",
+    "stars": 13,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "ai-security",
+      "ai-tools",
+      "bloodhound",
+      "credentials",
+      "cybersecurity",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/netwrix/AIHound",
+    "lastUpdated": "2026-06-25",
+    "loc": 116909,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "derandr-machine_learning_course_basics",
+    "name": "Machine Learning Course Basics",
+    "description": "Lecture notes, slides, and example notebooks for an introductory machine learning course.",
+    "spark": "Lecture notes, slides, and example notebooks for an introductory machine learning course.",
+    "githubUrl": "https://github.com/DerAndr/machine_learning_course_basics",
+    "stars": 13,
+    "license": "MIT",
+    "category": "curriculum",
+    "tags": [
+      "course-materials",
+      "data-science",
+      "education",
+      "jupyter-notebook",
+      "lecture-notes",
+      "jupyter notebook"
+    ],
+    "stack": [
+      "Jupyter Notebook",
+      "python"
+    ],
+    "cloneCommand": "git clone https://github.com/DerAndr/machine_learning_course_basics",
+    "lastUpdated": "2026-06-28",
+    "loc": 51060,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "readplace-readplace.com",
+    "name": "Readplace.Com",
+    "description": "Readplace - Read the Web not the Slop. Save articles, read them later. No 3rd party tracking/analytics. Built by the creator of js-cookie for the purpose of sharing their AI integrated learning system used in the last 10 years.",
+    "spark": "Readplace - Read the Web not the Slop. Save articles, read them later. No 3rd party tracking/analytics. Built by the creator of js-cookie for the purpose of sharing their AI integrated learning system used in the last 10 years.",
+    "githubUrl": "https://github.com/Readplace/readplace.com",
+    "stars": 21,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "careers",
+      "community",
+      "curriculum",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript",
+      "react"
+    ],
+    "demoUrl": "https://readplace.com/",
+    "cloneCommand": "git clone https://github.com/Readplace/readplace.com",
+    "lastUpdated": "2026-06-28",
+    "loc": 29056,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "premshaw23-learnova",
+    "name": "Learnova",
+    "description": "The most advanced platform for curriculum planning and attendance management, designed for smooth academic management.",
+    "spark": "The most advanced platform for curriculum planning and attendance management, designed for smooth academic management.",
+    "githubUrl": "https://github.com/Premshaw23/Learnova",
+    "stars": 109,
+    "license": "MIT",
+    "category": "curriculum",
+    "tags": [
+      "aichatbot",
+      "emailjs-com",
+      "faceapi-js",
+      "firebase",
+      "framer-motion",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript",
+      "nextjs",
+      "react"
+    ],
+    "demoUrl": "https://learnova-web.vercel.app",
+    "cloneCommand": "git clone https://github.com/Premshaw23/Learnova",
+    "lastUpdated": "2026-06-28",
+    "loc": 42340,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "golanlevin-drawingwithmachines",
+    "name": "Drawingwithmachines",
+    "description": "Resources for the CMU Drawing with Machines Course",
+    "spark": "Resources for the CMU Drawing with Machines Course",
+    "githubUrl": "https://github.com/golanlevin/DrawingWithMachines",
+    "stars": 146,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "axidraw",
+      "cmu",
+      "course-website",
+      "creative-coding",
+      "curriculum",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "cloneCommand": "git clone https://github.com/golanlevin/DrawingWithMachines",
+    "lastUpdated": "2026-06-28",
+    "loc": 969189,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "nakafaai-nakafa.com",
+    "name": "Nakafa.Com",
+    "description": "AI Native Free High-Quality Learning Platform (K-12 to University)",
+    "spark": "AI Native Free High-Quality Learning Platform (K-12 to University)",
+    "githubUrl": "https://github.com/nakafaai/nakafa.com",
+    "stars": 78,
+    "license": "NOASSERTION",
+    "category": "curriculum",
+    "tags": [
+      "agent",
+      "ai",
+      "community",
+      "curriculum",
+      "education",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://nakafa.com",
+    "cloneCommand": "git clone https://github.com/nakafaai/nakafa.com",
+    "lastUpdated": "2026-06-28",
+    "loc": 88934,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "kacper-ksiazek-portfolio",
+    "name": "Portfolio",
+    "description": "🚀 Comprehensive introduction of myself, covering my work experience, competencies, and motives",
+    "spark": "🚀 Comprehensive introduction of myself, covering my work experience, competencies, and motives",
+    "githubUrl": "https://github.com/Kacper-Ksiazek/portfolio",
+    "stars": 7,
+    "license": "Unknown",
+    "category": "degree",
+    "tags": [
+      "css-in-js",
+      "figma",
+      "fullstack-developer",
+      "material-ui",
+      "nextjs",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript",
+      "nextjs",
+      "react"
+    ],
+    "demoUrl": "https://kacper-ksiazek-portfolio.vercel.app/",
+    "cloneCommand": "git clone https://github.com/Kacper-Ksiazek/portfolio",
+    "lastUpdated": "2026-06-24",
+    "loc": 52540,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "lycheetah-lycheetah-framework",
+    "name": "Lycheetah Framework",
+    "description": " AI alignment framework. Nine interdependent theories — CASCADE, AURA, LAMAGUE and six more — each mathematically   proven, each converging on the same constants. Banach fixed points. Constitutional invariants. MCP extension for   Claude Code. Built by one self-taught researcher. Open. Testable. Human.",
+    "spark": " AI alignment framework. Nine interdependent theories — CASCADE, AURA, LAMAGUE and six more — each mathematically   proven, each converging on the same constants. Banach fixed points. Constitutional invariants. MCP extension for   Claude Code. Built by one self-taught researcher. Open. Testable. Human.",
+    "githubUrl": "https://github.com/Lycheetah/Lycheetah-Framework",
+    "stars": 5,
+    "license": "MIT",
+    "category": "degree",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-safety",
+      "aiethics",
+      "claude-code",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://lycheetah.github.io/Lycheetah-Framework/",
+    "cloneCommand": "git clone https://github.com/Lycheetah/Lycheetah-Framework",
+    "lastUpdated": "2026-06-23",
+    "loc": 24090,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "subhansh-dev-friday-autonomous-cognitive-ai-operating-system",
+    "name": "Friday Autonomous Cognitive Ai Operating System",
+    "description": "FRIDAY is an autonomous cognitive AI operating system for memory, reasoning, voice, cybersecurity, and self-improvement. It runs locally and is designed to move toward general intelligence. Built by a self-taught 17-year-old developer.",
+    "spark": "FRIDAY is an autonomous cognitive AI operating system for memory, reasoning, voice, cybersecurity, and self-improvement. It runs locally and is designed to move toward general intelligence. Built by a self-taught 17-year-old developer.",
+    "githubUrl": "https://github.com/subhansh-dev/Friday-Autonomous-Cognitive-AI-Operating-System",
+    "stars": 10,
+    "license": "NOASSERTION",
+    "category": "degree",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "assistant",
+      "augmented-reality",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/subhansh-dev/Friday-Autonomous-Cognitive-AI-Operating-System",
+    "lastUpdated": "2026-06-11",
+    "loc": 17717,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
     "id": "reyamira-models",
     "name": "Models",
     "description": "TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers.",
@@ -34651,6 +39874,356 @@
     }
   },
   {
+    "id": "shadd0wtaka-zen-ai-pentest",
+    "name": "Zen Ai Pentest",
+    "description": "🛡⚔️AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting🛡⚔️",
+    "spark": "🛡⚔️AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting🛡⚔️",
+    "githubUrl": "https://github.com/SHAdd0WTAka/Zen-Ai-Pentest",
+    "stars": 406,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "ai",
+      "automation",
+      "compliance",
+      "cybersecurity",
+      "ethical-hacking",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://shadd0wtaka.github.io/Zen-Ai-Pentest/",
+    "cloneCommand": "git clone https://github.com/SHAdd0WTAka/Zen-Ai-Pentest",
+    "lastUpdated": "2026-06-26",
+    "loc": 77333,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 24
+    }
+  },
+  {
+    "id": "microsoft-ml-for-beginners",
+    "name": "Ml For Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "spark": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "githubUrl": "https://github.com/microsoft/ML-For-Beginners",
+    "stars": 87477,
+    "license": "MIT",
+    "category": "curriculum",
+    "tags": [
+      "data-science",
+      "education",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "machinelearning",
+      "jupyter notebook"
+    ],
+    "stack": [
+      "Jupyter Notebook",
+      "python"
+    ],
+    "cloneCommand": "git clone https://github.com/microsoft/ML-For-Beginners",
+    "lastUpdated": "2026-06-23",
+    "loc": 1783465,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 24
+    }
+  },
+  {
+    "id": "microsoft-ai-for-beginners",
+    "name": "Ai For Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "spark": "12 Weeks, 24 Lessons, AI for All!",
+    "githubUrl": "https://github.com/microsoft/AI-For-Beginners",
+    "stars": 48503,
+    "license": "MIT",
+    "category": "curriculum",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "jupyter notebook"
+    ],
+    "stack": [
+      "Jupyter Notebook"
+    ],
+    "cloneCommand": "git clone https://github.com/microsoft/AI-For-Beginners",
+    "lastUpdated": "2026-06-11",
+    "loc": 1133132,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 24
+    }
+  },
+  {
+    "id": "microsoft-web-dev-for-beginners",
+    "name": "Web Dev For Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "spark": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "githubUrl": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "stars": 95926,
+    "license": "MIT",
+    "category": "curriculum",
+    "tags": [
+      "css",
+      "curriculum",
+      "education",
+      "html",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "cloneCommand": "git clone https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lastUpdated": "2026-06-28",
+    "loc": 1763693,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 24
+    }
+  },
+  {
+    "id": "microsoft-data-science-for-beginners",
+    "name": "Data Science For Beginners",
+    "description": "10 Weeks, 20 Lessons, Data Science for All!",
+    "spark": "10 Weeks, 20 Lessons, Data Science for All!",
+    "githubUrl": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "stars": 35848,
+    "license": "MIT",
+    "category": "curriculum",
+    "tags": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "microsoft-for-beginners",
+      "pandas",
+      "jupyter notebook"
+    ],
+    "stack": [
+      "Jupyter Notebook",
+      "python"
+    ],
+    "cloneCommand": "git clone https://github.com/microsoft/Data-Science-For-Beginners",
+    "lastUpdated": "2026-06-28",
+    "loc": 1498978,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 24
+    }
+  },
+  {
+    "id": "microsoft-generative-ai-for-beginners",
+    "name": "Generative Ai For Beginners",
+    "description": "21 Lessons, Get Started Building with Generative AI ",
+    "spark": "21 Lessons, Get Started Building with Generative AI ",
+    "githubUrl": "https://github.com/microsoft/generative-ai-for-beginners",
+    "stars": 112365,
+    "license": "MIT",
+    "category": "curriculum",
+    "tags": [
+      "ai",
+      "azure",
+      "chatgpt",
+      "dall-e",
+      "generative-ai",
+      "jupyter notebook"
+    ],
+    "stack": [
+      "Jupyter Notebook"
+    ],
+    "cloneCommand": "git clone https://github.com/microsoft/generative-ai-for-beginners",
+    "lastUpdated": "2026-06-25",
+    "loc": 5277319,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 24
+    }
+  },
+  {
+    "id": "labmlai-annotated_deep_learning_paper_implementations",
+    "name": "Annotated Deep Learning Paper Implementations",
+    "description": "🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+    "spark": "🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+    "githubUrl": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "stars": 67006,
+    "license": "MIT",
+    "category": "papers",
+    "tags": [
+      "attention",
+      "deep-learning",
+      "deep-learning-tutorial",
+      "gan",
+      "literate-programming",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://nn.labml.ai",
+    "cloneCommand": "git clone https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "lastUpdated": "2026-01-22",
+    "loc": 125096,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 24
+    }
+  },
+  {
+    "id": "dair-ai-prompt-engineering-guide",
+    "name": "Prompt Engineering Guide",
+    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+    "spark": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+    "githubUrl": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "stars": 76052,
+    "license": "MIT",
+    "category": "papers",
+    "tags": [
+      "agent",
+      "agents",
+      "ai-agents",
+      "chatgpt",
+      "deep-learning",
+      "mdx"
+    ],
+    "stack": [
+      "MDX"
+    ],
+    "demoUrl": "https://www.promptingguide.ai/",
+    "cloneCommand": "git clone https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "lastUpdated": "2026-03-11",
+    "loc": 66222,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 24
+    }
+  },
+  {
+    "id": "wx672-lecture-notes",
+    "name": "Lecture Notes",
+    "description": "My lecture notes and slides",
+    "spark": "My lecture notes and slides",
+    "githubUrl": "https://github.com/wx672/lecture-notes",
+    "stars": 46,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "tex"
+    ],
+    "stack": [
+      "TeX"
+    ],
+    "cloneCommand": "git clone https://github.com/wx672/lecture-notes",
+    "lastUpdated": "2026-06-28",
+    "loc": 163175,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 24
+    }
+  },
+  {
     "id": "sjoerdev-concrete",
     "name": "Concrete",
     "description": "Modern .NET based game engine",
@@ -34792,6 +40365,85 @@
     "cloneCommand": "git clone https://github.com/Anonym0usWork1221/Free-Proxies",
     "lastUpdated": "2026-06-22",
     "loc": 1264540,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 21
+    }
+  },
+  {
+    "id": "islinxu-paper-list",
+    "name": "Paper List",
+    "description": "autoupdate paper list",
+    "spark": "autoupdate paper list",
+    "githubUrl": "https://github.com/isLinXu/paper-list",
+    "stars": 144,
+    "license": "Apache-2.0",
+    "category": "papers",
+    "tags": [
+      "action-recognition",
+      "anomaly-detection",
+      "audio-processing",
+      "classification",
+      "depth-estimation",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://islinxu.github.io/paper-list/",
+    "cloneCommand": "git clone https://github.com/isLinXu/paper-list",
+    "lastUpdated": "2026-06-28",
+    "loc": 210328,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 21
+    }
+  },
+  {
+    "id": "kilerhg-python-studies",
+    "name": "Python Studies",
+    "description": "All studies about python",
+    "spark": "All studies about python",
+    "githubUrl": "https://github.com/kilerhg/Python-Studies",
+    "stars": 60,
+    "license": "Unknown",
+    "category": "degree",
+    "tags": [
+      "development",
+      "django",
+      "fastapi",
+      "flask",
+      "flask-application",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/kilerhg/Python-Studies",
+    "lastUpdated": "2026-06-20",
+    "loc": 19384,
     "authorCount": 1,
     "dormant": false,
     "singleFile": false,

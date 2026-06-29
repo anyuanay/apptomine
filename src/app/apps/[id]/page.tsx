@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { Star, ArrowLeft, ExternalLink, Github, Zap, Copy, Flame, Moon, FileCode, Scale } from 'lucide-react';
 import appsData from '@/data/apps.json';
 import { getCategoryBadgeClass } from '@/lib/categories';
+import { getLicenseInfo } from '@/lib/licenses';
 import TutorialSteps from '@/components/TutorialSteps';
 import type { App, TutorialStep } from '@/types/app';
 import { formatDistanceToNow } from 'date-fns';
@@ -98,6 +99,7 @@ export default async function AppDetailPage({ params }: PageProps) {
   }
 
   const claudeSteps = getClaudeCodeSteps(app);
+  const license = getLicenseInfo(app.license);
 
   const timeAgo = (() => {
     try {
@@ -222,6 +224,14 @@ export default async function AppDetailPage({ params }: PageProps) {
               <h2 className="mb-3 text-sm font-semibold uppercase tracking-wider text-slate-500">
                 Clone Command
               </h2>
+              {license.tier !== 'permissive' && (
+                <div
+                  className={`mb-3 flex items-start gap-2 rounded-lg p-3 text-xs ${license.badgeClass}`}
+                >
+                  <Scale className="mt-0.5 h-3.5 w-3.5 shrink-0" />
+                  <span>{license.tooltip}</span>
+                </div>
+              )}
               <CloneBox command={app.cloneCommand} />
             </div>
 
@@ -308,9 +318,12 @@ export default async function AppDetailPage({ params }: PageProps) {
                 </div>
                 <div className="flex items-center justify-between">
                   <span className="text-sm text-slate-500">License</span>
-                  <span className="flex items-center gap-1 text-sm font-medium text-emerald-400">
+                  <span
+                    className={`flex items-center gap-1.5 rounded-md px-2 py-0.5 text-xs font-medium ${license.badgeClass}`}
+                    title={license.tooltip}
+                  >
                     <Scale className="h-3.5 w-3.5" />
-                    {app.license}
+                    {license.label}
                   </span>
                 </div>
                 <div className="flex items-center justify-between">

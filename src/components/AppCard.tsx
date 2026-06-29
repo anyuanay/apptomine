@@ -5,6 +5,7 @@ import { Star, ExternalLink, Copy, Check, Flame, Moon, FileCode } from 'lucide-r
 import { useState } from 'react';
 import type { App } from '@/types/app';
 import { getCategoryBadgeClass } from '@/lib/categories';
+import { getLicenseInfo } from '@/lib/licenses';
 
 interface AppCardProps {
   app: App;
@@ -14,6 +15,7 @@ interface AppCardProps {
 export default function AppCard({ app, externalLink = false }: AppCardProps) {
   const router = useRouter();
   const [copied, setCopied] = useState(false);
+  const license = getLicenseInfo(app.license);
 
   const handleCopy = async (e: React.MouseEvent) => {
     e.preventDefault();
@@ -69,8 +71,12 @@ export default function AppCard({ app, externalLink = false }: AppCardProps) {
           <span className="rounded-md bg-slate-800 px-1.5 py-0.5 text-xs text-slate-400">
             {app.loc.toLocaleString()} LOC
           </span>
-          <span className="rounded-md bg-slate-800 px-1.5 py-0.5 text-xs text-slate-400">
-            {app.license}
+          <span
+            className={`flex items-center gap-1 rounded-md px-1.5 py-0.5 text-xs ${license.badgeClass}`}
+            title={license.tooltip}
+          >
+            <span className={`h-1.5 w-1.5 rounded-full ${license.dotClass}`} />
+            {license.label}
           </span>
         </div>
 

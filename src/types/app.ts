@@ -1,8 +1,10 @@
-export type Category = 'creative' | 'tools' | 'data' | 'games' | 'learning' | 'automation' | 'web' | 'agents' | 'cybersecurity' | 'privacy' | 'all';
+export type Category = 'creative' | 'tools' | 'data' | 'games' | 'learning' | 'automation' | 'web' | 'agents' | 'cybersecurity' | 'privacy' | 'curriculum' | 'papers' | 'degree' | 'all';
 
 export type DiscoveryMode = 'all' | 'dormant-gems' | 'single-file' | 'jam-survivors' | 'tiny-and-complete';
 
-export type License = 'MIT' | 'Apache-2.0' | 'BSD-2-Clause' | 'BSD-3-Clause' | '0BSD' | 'Unlicense';
+// Any SPDX license id (or 'Unknown' for repos with no detected license).
+// The crawler no longer filters by license, so this is an open string.
+export type License = string;
 
 export interface SeedScore {
   ideaNovelty: number;

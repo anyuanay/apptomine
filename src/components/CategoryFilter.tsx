@@ -1,6 +1,6 @@
 'use client';
 
-import { Palette, Wrench, Database, Gamepad2, GraduationCap, Bot, Globe, Grid3X3, Brain, Shield, EyeOff } from 'lucide-react';
+import { Palette, Wrench, Database, Gamepad2, GraduationCap, Bot, Globe, Grid3X3, Brain, Shield, EyeOff, BookOpen, FileText, Award } from 'lucide-react';
 import type { Category } from '@/types/app';
 
 interface CategoryFilterProps {
@@ -25,6 +25,9 @@ const CATEGORY_CONFIG: Array<{
   { id: 'agents',     label: 'Agents',      Icon: Brain },
   { id: 'cybersecurity', label: 'Cybersecurity', Icon: Shield },
   { id: 'privacy',    label: 'Privacy',     Icon: EyeOff },
+  { id: 'curriculum', label: 'Curriculum',  Icon: BookOpen },
+  { id: 'papers',     label: 'Research Papers', Icon: FileText },
+  { id: 'degree',     label: 'Degree Programs', Icon: Award },
 ];
 
 export default function CategoryFilter({ active, onChange, counts }: CategoryFilterProps) {

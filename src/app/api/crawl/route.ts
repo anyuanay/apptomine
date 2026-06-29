@@ -13,7 +13,7 @@ export async function GET(req: NextRequest) {
   const maxStars = Math.min(parseInt(searchParams.get('maxStars') ?? '500', 10), 500);
   const query = searchParams.get('query') ?? '';
 
-  const validCategories: Array<Exclude<Category, 'all'>> = ['creative', 'tools', 'data', 'games', 'learning', 'automation', 'web', 'agents', 'cybersecurity', 'privacy'];
+  const validCategories: Array<Exclude<Category, 'all'>> = ['creative', 'tools', 'data', 'games', 'learning', 'automation', 'web', 'agents', 'cybersecurity', 'privacy', 'curriculum', 'papers', 'degree'];
   if (!validCategories.includes(category)) {
     return NextResponse.json(
       { error: `Invalid category. Must be one of: ${validCategories.join(', ')}` },

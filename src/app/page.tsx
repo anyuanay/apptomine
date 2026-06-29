@@ -72,6 +72,9 @@ export default function HomePage() {
       agents:     count('agents'),
       cybersecurity: count('cybersecurity'),
       privacy:    count('privacy'),
+      curriculum: count('curriculum'),
+      papers:     count('papers'),
+      degree:     count('degree'),
     };
   }, [search, discoveryMode]);
 

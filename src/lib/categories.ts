@@ -92,6 +92,27 @@ export const CATEGORIES: CategoryDefinition[] = [
     keywords: ['privacy', 'encryption', 'anonymity', 'tor', 'e2ee', 'tracker', 'gdpr', 'self-hosted'],
     color: 'bg-indigo-600',
   },
+  {
+    id: 'curriculum',
+    label: 'Curriculum',
+    description: 'Open source course materials, syllabi, learning paths, and self-study guides',
+    keywords: ['curriculum', 'course', 'syllabus', 'learning-path', 'self-study', 'course-materials', 'lecture-notes', 'mooc'],
+    color: 'bg-rose-600',
+  },
+  {
+    id: 'papers',
+    label: 'Research Papers',
+    description: 'Curated research-paper collections, reading lists, and paper implementations',
+    keywords: ['papers', 'research-paper', 'awesome-papers', 'paper-list', 'reading-list', 'paper-implementation', 'arxiv', 'survey'],
+    color: 'bg-lime-600',
+  },
+  {
+    id: 'degree',
+    label: 'Degree Programs',
+    description: 'Open source degree programs and full self-taught CS/AI curricula (OSSU-style)',
+    keywords: ['degree', 'open-source-degree', 'cs-curriculum', 'self-taught', 'computer-science', 'ossu', 'roadmap', 'study-plan'],
+    color: 'bg-purple-600',
+  },
 ];
 
 export const DISCOVERY_MODES: DiscoveryModeDefinition[] = [
@@ -162,6 +183,9 @@ export function getCategoryBadgeClass(category: Exclude<Category, 'all'>): strin
     agents:     'bg-teal-500/20 text-teal-400 border border-teal-500/30',
     cybersecurity: 'bg-cyan-500/20 text-cyan-400 border border-cyan-500/30',
     privacy:    'bg-indigo-500/20 text-indigo-400 border border-indigo-500/30',
+    curriculum: 'bg-rose-500/20 text-rose-400 border border-rose-500/30',
+    papers:     'bg-lime-500/20 text-lime-400 border border-lime-500/30',
+    degree:     'bg-purple-500/20 text-purple-400 border border-purple-500/30',
   };
   return map[category] ?? 'bg-blue-500/20 text-blue-400 border border-blue-500/30';
 }
