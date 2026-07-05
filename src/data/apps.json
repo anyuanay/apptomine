@@ -1886,6 +1886,40 @@
     }
   },
   {
+    "id": "xiaozhangup-octopus",
+    "name": "Octopus",
+    "description": "A Minecraft server branch of Paper, implementing PWT and several HAPPYLAND-specific features.",
+    "spark": "A Minecraft server branch of Paper, implementing PWT and several HAPPYLAND-specific features.",
+    "githubUrl": "https://github.com/xiaozhangup/Octopus",
+    "stars": 5,
+    "license": "Unknown",
+    "category": "papers",
+    "tags": [
+      "java"
+    ],
+    "stack": [
+      "Java"
+    ],
+    "cloneCommand": "git clone https://github.com/xiaozhangup/Octopus",
+    "lastUpdated": "2026-07-05",
+    "loc": 429,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 37
+    }
+  },
+  {
     "id": "dotting",
     "name": "Dotting",
     "description": "Dotting is a pixel art editor component library for React. Build pixel editors, sprite tools, or any grid-based drawing interface.",
@@ -13169,6 +13203,585 @@
     }
   },
   {
+    "id": "crypdick-pynchy",
+    "name": "Pynchy",
+    "description": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+    "spark": "OpenClaw alternative with strict container isolation for security measures. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+    "githubUrl": "https://github.com/crypdick/pynchy",
+    "stars": 10,
+    "license": "MIT",
+    "category": "agents",
+    "tags": [
+      "ai-agents",
+      "ai-assistant",
+      "claude-code",
+      "claude-skills",
+      "openclaw",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://pynchy.ricardodecal.com/",
+    "cloneCommand": "git clone https://github.com/crypdick/pynchy",
+    "lastUpdated": "2026-07-05",
+    "loc": 5742,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "rueclaw-public-data",
+    "name": "Public Data",
+    "description": "Curated GenAI patterns, prompts, and agent architectures extracted from open-source projects",
+    "spark": "Curated GenAI patterns, prompts, and agent architectures extracted from open-source projects",
+    "githubUrl": "https://github.com/RueClaw/public-data",
+    "stars": 7,
+    "license": "Unknown",
+    "category": "agents",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/RueClaw/public-data",
+    "lastUpdated": "2026-07-05",
+    "loc": 1262,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "franccesco-getaltname",
+    "name": "Getaltname",
+    "description": "Extract subdomains from SSL certificates in HTTPS sites.",
+    "spark": "Extract subdomains from SSL certificates in HTTPS sites.",
+    "githubUrl": "https://github.com/franccesco/getaltname",
+    "stars": 391,
+    "license": "MIT",
+    "category": "cybersecurity",
+    "tags": [
+      "certificates",
+      "discovery",
+      "dns",
+      "extract-subdomains",
+      "https",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://franccesco.github.io/getaltname/",
+    "cloneCommand": "git clone https://github.com/franccesco/getaltname",
+    "lastUpdated": "2026-07-05",
+    "loc": 467,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": -0.5,
+      "total": 34
+    }
+  },
+  {
+    "id": "bd-mutant7-wifi-hacking",
+    "name": "Wifi Hacking",
+    "description": "Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)",
+    "spark": "Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)",
+    "githubUrl": "https://github.com/Bd-Mutant7/Wifi-Hacking",
+    "stars": 9,
+    "license": "GPL-3.0",
+    "category": "cybersecurity",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://ankit0183.github.io/Wifi-Hacking/",
+    "cloneCommand": "git clone https://github.com/Bd-Mutant7/Wifi-Hacking",
+    "lastUpdated": "2026-07-05",
+    "loc": 1572,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "mojo96666-hack-crypto-wallets",
+    "name": "Hack Crypto Wallets",
+    "description": "A software tool created to circumvent security mechanisms and gain unauthorized access to encrypted cryptocurrency wallets. It employs sophisticated hacking methods and algorithms to exploit weaknesses in wallet encryption protocols.",
+    "spark": "A software tool created to circumvent security mechanisms and gain unauthorized access to encrypted cryptocurrency wallets. It employs sophisticated hacking methods and algorithms to exploit weaknesses in wallet encryption protocols.",
+    "githubUrl": "https://github.com/Mojo96666/hack-crypto-wallets",
+    "stars": 8,
+    "license": "Unknown",
+    "category": "cybersecurity",
+    "tags": [
+      "bitcoin",
+      "bitcoin-api",
+      "blockchain-technology",
+      "ctf-challenges",
+      "cybersecurity",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/Mojo96666/hack-crypto-wallets",
+    "lastUpdated": "2026-07-05",
+    "loc": 470,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "lferreira457-threejs-psx-shader",
+    "name": "Threejs Psx Shader",
+    "description": "psx style shader and effects for threeJs",
+    "spark": "psx style shader and effects for threeJs",
+    "githubUrl": "https://github.com/lferreira457/threejs-psx-shader",
+    "stars": 20,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "cloneCommand": "git clone https://github.com/lferreira457/threejs-psx-shader",
+    "lastUpdated": "2026-07-05",
+    "loc": 6652,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "xsrazy-tiktok-batch-downloader",
+    "name": "Tiktok Batch Downloader",
+    "description": "A simple Node.js CLI tool to download multiple TikTok videos without watermarks, complete with metadata export and automatic error handling.",
+    "spark": "A simple Node.js CLI tool to download multiple TikTok videos without watermarks, complete with metadata export and automatic error handling.",
+    "githubUrl": "https://github.com/xsrazy/TikTok-Batch-Downloader",
+    "stars": 45,
+    "license": "NOASSERTION",
+    "category": "tools",
+    "tags": [
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "cloneCommand": "git clone https://github.com/xsrazy/TikTok-Batch-Downloader",
+    "lastUpdated": "2026-07-05",
+    "loc": 5872,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "imjyotiraditya-dmt",
+    "name": "Dmt",
+    "description": "a tui-inspired local music player for android. dear music, thanks.",
+    "spark": "a tui-inspired local music player for android. dear music, thanks.",
+    "githubUrl": "https://github.com/imjyotiraditya/dmt",
+    "stars": 21,
+    "license": "GPL-3.0",
+    "category": "tools",
+    "tags": [
+      "android",
+      "jetpack-compose",
+      "kotlin",
+      "media3",
+      "music-player"
+    ],
+    "stack": [
+      "Kotlin"
+    ],
+    "demoUrl": "https://github.com/imjyotiraditya/dmt",
+    "cloneCommand": "git clone https://github.com/imjyotiraditya/dmt",
+    "lastUpdated": "2026-07-05",
+    "loc": 384,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "ruixli-scicolormap",
+    "name": "Scicolormap",
+    "description": "MATLAB colormaps for scientific data visualization",
+    "spark": "MATLAB colormaps for scientific data visualization",
+    "githubUrl": "https://github.com/RuixLi/sciColorMap",
+    "stars": 15,
+    "license": "MIT",
+    "category": "data",
+    "tags": [
+      "matlab"
+    ],
+    "stack": [
+      "MATLAB"
+    ],
+    "cloneCommand": "git clone https://github.com/RuixLi/sciColorMap",
+    "lastUpdated": "2026-07-05",
+    "loc": 3521,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "mc-none-vn-discord-quests",
+    "name": "Discord Quests",
+    "description": "Automaticly tracking Discord Quests then send notification to webhook only when it see new quest - Made by Mc's Team • Vietnam",
+    "spark": "Automaticly tracking Discord Quests then send notification to webhook only when it see new quest - Made by Mc's Team • Vietnam",
+    "githubUrl": "https://github.com/mc-none-vn/discord-quests",
+    "stars": 5,
+    "license": "AGPL-3.0",
+    "category": "automation",
+    "tags": [
+      "discord",
+      "quests",
+      "tracker",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "cloneCommand": "git clone https://github.com/mc-none-vn/discord-quests",
+    "lastUpdated": "2026-07-05",
+    "loc": 1736,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "bank-vaults-secrets-webhook",
+    "name": "Secrets Webhook",
+    "description": "A Kubernetes mutating webhook that makes direct secret injection into Pods possible.",
+    "spark": "A Kubernetes mutating webhook that makes direct secret injection into Pods possible.",
+    "githubUrl": "https://github.com/bank-vaults/secrets-webhook",
+    "stars": 35,
+    "license": "Apache-2.0",
+    "category": "automation",
+    "tags": [
+      "kubernetes-webhook",
+      "vault",
+      "go"
+    ],
+    "stack": [
+      "Go"
+    ],
+    "cloneCommand": "git clone https://github.com/bank-vaults/secrets-webhook",
+    "lastUpdated": "2026-07-05",
+    "loc": 1390,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "dovebedi-ux-rl-bumper-tactics",
+    "name": "Rl Bumper Tactics",
+    "description": "Ultimate Rocket League AI Bot Framework 2026 – RLBot Python SDK & Optimization Suite",
+    "spark": "Ultimate Rocket League AI Bot Framework 2026 – RLBot Python SDK & Optimization Suite",
+    "githubUrl": "https://github.com/dovebedi-ux/rl-bumper-tactics",
+    "stars": 51,
+    "license": "Unknown",
+    "category": "automation",
+    "tags": [
+      "bumper",
+      "e-sports",
+      "rlbot",
+      "rllogging",
+      "rocket-league",
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "cloneCommand": "git clone https://github.com/dovebedi-ux/rl-bumper-tactics",
+    "lastUpdated": "2026-07-05",
+    "loc": 248,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "alaikar-discord-webhook-orchestrator",
+    "name": "Discord Webhook Orchestrator",
+    "description": "Ultimate Discord Webhook Manager & Automation Tool 2026",
+    "spark": "Ultimate Discord Webhook Manager & Automation Tool 2026",
+    "githubUrl": "https://github.com/alaikar/discord-webhook-orchestrator",
+    "stars": 88,
+    "license": "Unknown",
+    "category": "automation",
+    "tags": [
+      "discord",
+      "discord-massreport",
+      "discord-server",
+      "discord-webhook",
+      "discord-webhook-spammer",
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "cloneCommand": "git clone https://github.com/alaikar/discord-webhook-orchestrator",
+    "lastUpdated": "2026-07-05",
+    "loc": 214,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "opendatabox-awesome-agent-memory",
+    "name": "Awesome Agent Memory",
+    "description": "Paper List of Agent Memory Systems along Four Axes",
+    "spark": "Paper List of Agent Memory Systems along Four Axes",
+    "githubUrl": "https://github.com/OpenDataBox/awesome-agent-memory",
+    "stars": 29,
+    "license": "Unknown",
+    "category": "papers",
+    "tags": [
+      "agent",
+      "llm",
+      "memory"
+    ],
+    "stack": [],
+    "demoUrl": "https://arxiv.org/abs/2606.24775",
+    "cloneCommand": "git clone https://github.com/OpenDataBox/awesome-agent-memory",
+    "lastUpdated": "2026-07-05",
+    "loc": 1106,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "arturoornelasb-tibia-bonelord-469-cipher",
+    "name": "Tibia Bonelord 469 Cipher",
+    "description": "First candidate solution to Tibia's 25-year-old Bonelord 469 cipher. Hellgate Library 70 books decoded with 94.6% word coverage. Includes research papers, decoded narratives, novel cryptanalytic techniques (BoLWP, CAAR, CADST), and full analysis pipeline.",
+    "spark": "First candidate solution to Tibia's 25-year-old Bonelord 469 cipher. Hellgate Library 70 books decoded with 94.6% word coverage. Includes research papers, decoded narratives, novel cryptanalytic techniques (BoLWP, CAAR, CADST), and full analysis pipeline.",
+    "githubUrl": "https://github.com/arturoornelasb/tibia-bonelord-469-cipher",
+    "stars": 5,
+    "license": "NOASSERTION",
+    "category": "papers",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/arturoornelasb/tibia-bonelord-469-cipher",
+    "lastUpdated": "2026-07-04",
+    "loc": 2654,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "armorhtk-awesome-mmwave-radar-perception",
+    "name": "Awesome Mmwave Radar Perception",
+    "description": "A curated list of awesome papers, datasets, and resources for millimeter-wave (mmWave) radar perception, with a focus on deep learning methods.",
+    "spark": "A curated list of awesome papers, datasets, and resources for millimeter-wave (mmWave) radar perception, with a focus on deep learning methods.",
+    "githubUrl": "https://github.com/Armorhtk/awesome-mmwave-radar-perception",
+    "stars": 60,
+    "license": "CC0-1.0",
+    "category": "papers",
+    "tags": [],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/Armorhtk/awesome-mmwave-radar-perception",
+    "lastUpdated": "2026-07-04",
+    "loc": 554,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
     "id": "webhook-tester",
     "name": "Webhook Tester",
     "description": "Powerful tool for testing WebHooks and more. Self-hosted webhook debugging with a live-updating UI to inspect requests.",
@@ -14164,6 +14777,41 @@
     }
   },
   {
+    "id": "mk-runner-awesome-radiology-report-generation",
+    "name": "Awesome Radiology Report Generation",
+    "description": "paper list, dataset, and tools for radiology report generation",
+    "spark": "paper list, dataset, and tools for radiology report generation",
+    "githubUrl": "https://github.com/mk-runner/Awesome-Radiology-Report-Generation",
+    "stars": 459,
+    "license": "MIT",
+    "category": "papers",
+    "tags": [
+      "medical-dataset",
+      "medical-vision-language-model",
+      "metrics",
+      "radiology-report-generation"
+    ],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/mk-runner/Awesome-Radiology-Report-Generation",
+    "lastUpdated": "2026-07-05",
+    "loc": 1299,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 33
+    }
+  },
+  {
     "id": "nevermore23274-aethertune",
     "name": "Aethertune",
     "description": "A terminal-based internet radio player with real-time audio visualization, built in Rust.",
@@ -14665,6 +15313,79 @@
     "cloneCommand": "git clone https://github.com/PacktPublishing/The-Self-Taught-Cloud-Computing-Engineer",
     "lastUpdated": "2025-12-15",
     "loc": 9508,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 32
+    }
+  },
+  {
+    "id": "jacokyle01-chessrepeat",
+    "name": "Chessrepeat",
+    "description": "Website to train chess openings with spaced repetition",
+    "spark": "Website to train chess openings with spaced repetition",
+    "githubUrl": "https://github.com/jacokyle01/chessrepeat",
+    "stars": 7,
+    "license": "Unknown",
+    "category": "learning",
+    "tags": [
+      "chess",
+      "chess-openings",
+      "chess-training",
+      "spaced-repetition",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "http://www.chessrepeat.com",
+    "cloneCommand": "git clone https://github.com/jacokyle01/chessrepeat",
+    "lastUpdated": "2026-07-04",
+    "loc": 9568,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 32
+    }
+  },
+  {
+    "id": "farisxiong-hs-star",
+    "name": "Hs Star",
+    "description": "[EMNLP’ 25] Official code for \"HS-STaR: Hierarchical Sampling for Self-Taught Reasoners via Difficulty Estimation and Budget Reallocation\"",
+    "spark": "[EMNLP’ 25] Official code for \"HS-STaR: Hierarchical Sampling for Self-Taught Reasoners via Difficulty Estimation and Budget Reallocation\"",
+    "githubUrl": "https://github.com/farisxiong/HS-STaR",
+    "stars": 37,
+    "license": "Unknown",
+    "category": "degree",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/farisxiong/HS-STaR",
+    "lastUpdated": "2025-11-03",
+    "loc": 9095,
     "authorCount": 1,
     "dormant": false,
     "singleFile": false,
@@ -23702,6 +24423,871 @@
     }
   },
   {
+    "id": "nobretakeshi-claude-code-magento-agents",
+    "name": "Claude Code Magento Agents",
+    "description": "🔧 Optimize Magento 2 development with 30+ specialized agents that enhance workflows through expert collaboration and efficient task delegation.",
+    "spark": "🔧 Optimize Magento 2 development with 30+ specialized agents that enhance workflows through expert collaboration and efficient task delegation.",
+    "githubUrl": "https://github.com/NobreTakeshi/claude-code-magento-agents",
+    "stars": 6,
+    "license": "Unknown",
+    "category": "agents",
+    "tags": [
+      "ai-agents",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-subagents",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "cloneCommand": "git clone https://github.com/NobreTakeshi/claude-code-magento-agents",
+    "lastUpdated": "2026-07-05",
+    "loc": 1604,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "zizka-ai-zizkadb",
+    "name": "Zizkadb",
+    "description": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript SDK. Self-host or use db.zizka.ai.",
+    "spark": "Operational database for AI agents , causal lineage (why()), semantic memory, live dashboards, MCP + Python/TypeScript SDK. Self-host or use db.zizka.ai.",
+    "githubUrl": "https://github.com/Zizka-ai/ZizkaDB",
+    "stars": 17,
+    "license": "NOASSERTION",
+    "category": "agents",
+    "tags": [
+      "agentic-database",
+      "causal-inference",
+      "causal-lineage-tracking-for-ai-agent",
+      "data-analysis",
+      "data-engineering",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://db.zizka.ai",
+    "cloneCommand": "git clone https://github.com/Zizka-ai/ZizkaDB",
+    "lastUpdated": "2026-07-05",
+    "loc": 1281,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "jp-220738-osintinteractive",
+    "name": "Osintinteractive",
+    "description": "A global OSINT Interactive CLI for any platform and language you desire",
+    "spark": "A global OSINT Interactive CLI for any platform and language you desire",
+    "githubUrl": "https://github.com/jp-220738/OsintInteractive",
+    "stars": 9,
+    "license": "GPL-3.0",
+    "category": "cybersecurity",
+    "tags": [
+      "cli",
+      "cpp",
+      "cybersecurity",
+      "hacking-tool",
+      "interactive-shell",
+      "cmake"
+    ],
+    "stack": [
+      "CMake",
+      "cpp",
+      "python"
+    ],
+    "cloneCommand": "git clone https://github.com/jp-220738/OsintInteractive",
+    "lastUpdated": "2026-07-05",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "lanchuske-local-mcp-releases",
+    "name": "Local Mcp Releases",
+    "description": "183 local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS, 100% local, no API keys.",
+    "spark": "183 local tools for Claude, ChatGPT, Cursor & Grok — Mail, iMessage, Teams, Slack, WhatsApp, OneDrive, Google Drive, Zoom, Outlook, Office. Native macOS, 100% local, no API keys.",
+    "githubUrl": "https://github.com/lanchuske/local-mcp-releases",
+    "stars": 28,
+    "license": "NOASSERTION",
+    "category": "privacy",
+    "tags": [
+      "ai-tools",
+      "anthropic",
+      "apple-silicon",
+      "calendar",
+      "chatgpt",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "https://local-mcp.com?ref=github",
+    "cloneCommand": "git clone https://github.com/lanchuske/local-mcp-releases",
+    "lastUpdated": "2026-07-05",
+    "loc": 875,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "johnsideserf-siggy",
+    "name": "Siggy",
+    "description": "Terminal-based Signal messenger client with vim keybindings",
+    "spark": "Terminal-based Signal messenger client with vim keybindings",
+    "githubUrl": "https://github.com/johnsideserf/siggy",
+    "stars": 159,
+    "license": "GPL-3.0",
+    "category": "tools",
+    "tags": [
+      "cli",
+      "messenger",
+      "ratatui",
+      "rust",
+      "signal"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "demoUrl": "http://siggy.chat",
+    "cloneCommand": "git clone https://github.com/johnsideserf/siggy",
+    "lastUpdated": "2026-07-05",
+    "loc": 6678,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "apiad-aegis",
+    "name": "Aegis",
+    "description": "The meta-harness that brings real agentic collaboration as a first-class citizen",
+    "spark": "The meta-harness that brings real agentic collaboration as a first-class citizen",
+    "githubUrl": "https://github.com/apiad/aegis",
+    "stars": 19,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "agentic-ai",
+      "harness",
+      "mcp",
+      "python3",
+      "textual",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://apiad.github.io/aegis/",
+    "cloneCommand": "git clone https://github.com/apiad/aegis",
+    "lastUpdated": "2026-07-05",
+    "loc": 2643,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "dchainapp2021-cosmetics-retail-finance-optimizer",
+    "name": "Cosmetics Retail Finance Optimizer",
+    "description": "Power BI Cosmetics Revenue Analytics Dashboard 2026: Sales Quality & Asset Performance",
+    "spark": "Power BI Cosmetics Revenue Analytics Dashboard 2026: Sales Quality & Asset Performance",
+    "githubUrl": "https://github.com/dchainapp2021/cosmetics-retail-finance-optimizer",
+    "stars": 152,
+    "license": "Unknown",
+    "category": "data",
+    "tags": [
+      "analysis",
+      "analytics-dashboard",
+      "data",
+      "kpi-dashboard",
+      "metrics-visualization",
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "cloneCommand": "git clone https://github.com/dchainapp2021/cosmetics-retail-finance-optimizer",
+    "lastUpdated": "2026-07-05",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "mudas100-swiggy-instamart-metrics-dashboard-power-bi",
+    "name": "Swiggy Instamart Metrics Dashboard Power Bi",
+    "description": "Interactive Logistics & Delivery Analytics Dashboard for Quick Commerce 2026",
+    "spark": "Interactive Logistics & Delivery Analytics Dashboard for Quick Commerce 2026",
+    "githubUrl": "https://github.com/MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI",
+    "stars": 152,
+    "license": "Unknown",
+    "category": "data",
+    "tags": [
+      "business-intelligence",
+      "powerbi",
+      "powerbi-dashboards",
+      "powerbi-report",
+      "powerbi-reports",
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "cloneCommand": "git clone https://github.com/MUDAS100/Swiggy-Instamart-Metrics-Dashboard-Power-BI",
+    "lastUpdated": "2026-07-05",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "goodmorningbeautyful-lab-phonepe-pulse-analyzer",
+    "name": "Phonepe Pulse Analyzer",
+    "description": "PhonePe Transaction Trends & User Analytics Dashboard 2026 – Power BI Guide",
+    "spark": "PhonePe Transaction Trends & User Analytics Dashboard 2026 – Power BI Guide",
+    "githubUrl": "https://github.com/goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer",
+    "stars": 151,
+    "license": "Unknown",
+    "category": "data",
+    "tags": [
+      "busniess-intelligence",
+      "dashboard",
+      "data-visualization",
+      "dax",
+      "phonepe",
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "cloneCommand": "git clone https://github.com/goodmorningbeautyful-lab/PhonePe-Pulse-Analyzer",
+    "lastUpdated": "2026-07-05",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "paranoidgrinch-roguedeck-core",
+    "name": "Roguedeck Core",
+    "description": "Deterministic, modular C# combat engine for roguelike deckbuilders — UI-independent, event-driven and built for extensible mechanics.",
+    "spark": "Deterministic, modular C# combat engine for roguelike deckbuilders — UI-independent, event-driven and built for extensible mechanics.",
+    "githubUrl": "https://github.com/Paranoidgrinch/RogueDeck-Core",
+    "stars": 9,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "card-game",
+      "csharp",
+      "deckbuilder",
+      "deterministic",
+      "dotnet",
+      "c#"
+    ],
+    "stack": [
+      "C#"
+    ],
+    "demoUrl": "https://moonvineforge.com",
+    "cloneCommand": "git clone https://github.com/Paranoidgrinch/RogueDeck-Core",
+    "lastUpdated": "2026-07-05",
+    "loc": 1317,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "sidhantabarik37-strawverse-orbit",
+    "name": "Strawverse Orbit",
+    "description": "StrawVerse AI: Next Gen Interactive Fiction Engine 2026",
+    "spark": "StrawVerse AI: Next Gen Interactive Fiction Engine 2026",
+    "githubUrl": "https://github.com/sidhantabarik37/StrawVerse-Orbit",
+    "stars": 151,
+    "license": "Unknown",
+    "category": "games",
+    "tags": [
+      "anime-batch-downloader",
+      "anime-download",
+      "anime-downloader",
+      "anime-downloading",
+      "anime-downloads",
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "cloneCommand": "git clone https://github.com/sidhantabarik37/StrawVerse-Orbit",
+    "lastUpdated": "2026-07-05",
+    "loc": 104,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "sajee05-echo-recall",
+    "name": "Echo Recall",
+    "description": "Memorize your notes and paragraphs actively with spaced repetition and retrospective deadlines.",
+    "spark": "Memorize your notes and paragraphs actively with spaced repetition and retrospective deadlines.",
+    "githubUrl": "https://github.com/sajee05/echo-recall",
+    "stars": 6,
+    "license": "MIT",
+    "category": "learning",
+    "tags": [
+      "anki",
+      "anki-alternative",
+      "obsidian",
+      "obsidian-community",
+      "obsidian-plugin",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://community.obsidian.md/plugins/echo-recall",
+    "cloneCommand": "git clone https://github.com/sajee05/echo-recall",
+    "lastUpdated": "2026-07-05",
+    "loc": 4220,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "yoanhuke-laravel-n8n",
+    "name": "Laravel N8N",
+    "description": "Complete Laravel client for n8n REST API and webhooks. Seamlessly manage workflows, executions, and more. 🚀🤖",
+    "spark": "Complete Laravel client for n8n REST API and webhooks. Seamlessly manage workflows, executions, and more. 🚀🤖",
+    "githubUrl": "https://github.com/yoanhuke/laravel-n8n",
+    "stars": 10,
+    "license": "MIT",
+    "category": "automation",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "automation",
+      "laravel",
+      "n8n",
+      "php"
+    ],
+    "stack": [
+      "PHP",
+      "typescript"
+    ],
+    "cloneCommand": "git clone https://github.com/yoanhuke/laravel-n8n",
+    "lastUpdated": "2026-07-05",
+    "loc": 506,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "sireeshs14-discord-nitro-sniper-automation-framework",
+    "name": "Discord Nitro Sniper Automation Framework",
+    "description": "Ultimate Discord Giveaway Auto-Enter & Nitro Sniper Tool 2026",
+    "spark": "Ultimate Discord Giveaway Auto-Enter & Nitro Sniper Tool 2026",
+    "githubUrl": "https://github.com/sireeshs14/Discord-Nitro-Sniper-Automation-Framework",
+    "stars": 151,
+    "license": "Unknown",
+    "category": "automation",
+    "tags": [
+      "automation",
+      "bot",
+      "button-reactions",
+      "discord",
+      "discord-bot",
+      "html"
+    ],
+    "stack": [
+      "HTML",
+      "python"
+    ],
+    "cloneCommand": "git clone https://github.com/sireeshs14/Discord-Nitro-Sniper-Automation-Framework",
+    "lastUpdated": "2026-07-05",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "goofyda-zorara-executor",
+    "name": "Zorara Executor",
+    "description": "Zorara-Executor is a powerful automation tool designed to streamline and simplify complex tasks within software development projects. It offers a customizable and intuitive interface for developers to efficiently manage their workflow and increase productivity.",
+    "spark": "Zorara-Executor is a powerful automation tool designed to streamline and simplify complex tasks within software development projects. It offers a customizable and intuitive interface for developers to efficiently manage their workflow and increase productivity.",
+    "githubUrl": "https://github.com/goofyda/Zorara-Executor",
+    "stars": 21,
+    "license": "Unknown",
+    "category": "automation",
+    "tags": [
+      "how-to-use-zorara-executor",
+      "is-zorara-executor-safe",
+      "zorara-executor",
+      "zorara-executor-discord",
+      "zorara-executor-level"
+    ],
+    "stack": [],
+    "demoUrl": "https://zoraraexecutor.org",
+    "cloneCommand": "git clone https://github.com/goofyda/Zorara-Executor",
+    "lastUpdated": "2026-07-05",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "ulil2013-gillmeister-pdf-automation-toolkits",
+    "name": "Gillmeister Pdf Automation Toolkits",
+    "description": "Gillmeister Automatic PDF Processor 2026: Updated Automation Tool",
+    "spark": "Gillmeister Automatic PDF Processor 2026: Updated Automation Tool",
+    "githubUrl": "https://github.com/ulil2013/Gillmeister-PDF-Automation-Toolkits",
+    "stars": 39,
+    "license": "Unknown",
+    "category": "automation",
+    "tags": [
+      "gillmeister",
+      "gillmeister-automatic-pdf-processor",
+      "gillmeister-automatic-pdf-processor-download",
+      "gillmeister-automatic-pdf-processor-install",
+      "gillmeister-automatic-pdf-processor-key",
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "cloneCommand": "git clone https://github.com/ulil2013/Gillmeister-PDF-Automation-Toolkits",
+    "lastUpdated": "2026-07-05",
+    "loc": 176,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "charlesrocket-halve-z",
+    "name": "Halve Z",
+    "description": "Retro two-column theme for Zola",
+    "spark": "Retro two-column theme for Zola",
+    "githubUrl": "https://github.com/charlesrocket/halve-z",
+    "stars": 23,
+    "license": "MIT",
+    "category": "web",
+    "tags": [
+      "8bit",
+      "giscus",
+      "lastfm",
+      "mastodon",
+      "pwa",
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "demoUrl": "https://codeberg.org/charlesrocket/halve-z",
+    "cloneCommand": "git clone https://github.com/charlesrocket/halve-z",
+    "lastUpdated": "2026-07-05",
+    "loc": 4261,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "zeynepyavuzsf-loom-video-extractor",
+    "name": "Loom Video Extractor",
+    "description": "How to Save Loom Videos Offline in 2026 Using a Browser Extension",
+    "spark": "How to Save Loom Videos Offline in 2026 Using a Browser Extension",
+    "githubUrl": "https://github.com/zeynepyavuzsf/loom-video-extractor",
+    "stars": 151,
+    "license": "Unknown",
+    "category": "web",
+    "tags": [
+      "download-loom-videos",
+      "how-to-download-from-loom",
+      "how-to-download-loom-videos",
+      "how-to-download-loom-videos-free",
+      "how-to-download-loom-videos-mac",
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "cloneCommand": "git clone https://github.com/zeynepyavuzsf/loom-video-extractor",
+    "lastUpdated": "2026-07-05",
+    "loc": 100,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "leexsean-sfslab-local-handout",
+    "name": "Sfslab Local Handout",
+    "description": "Independent offline self-study handout and local tester for the CS:APP SFS Lab.",
+    "spark": "Independent offline self-study handout and local tester for the CS:APP SFS Lab.",
+    "githubUrl": "https://github.com/LeeXSean/sfslab-local-handout",
+    "stars": 5,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "15-213",
+      "autograder",
+      "csapp",
+      "csapp-concurrency",
+      "csapp-lab",
+      "c"
+    ],
+    "stack": [
+      "C"
+    ],
+    "cloneCommand": "git clone https://github.com/LeeXSean/sfslab-local-handout",
+    "lastUpdated": "2026-07-05",
+    "loc": 1051,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "sizwinz-skillwise",
+    "name": "Skillwise",
+    "description": "SkillWise is an AI-powered learning path generator that transforms your resume into a personalized 6-month roadmap; complete with curated courses, project ideas, and tech stack recommendations.",
+    "spark": "SkillWise is an AI-powered learning path generator that transforms your resume into a personalized 6-month roadmap; complete with curated courses, project ideas, and tech stack recommendations.",
+    "githubUrl": "https://github.com/sizwinz/SkillWise",
+    "stars": 5,
+    "license": "MIT",
+    "category": "curriculum",
+    "tags": [
+      "ai",
+      "career-coach",
+      "edtech",
+      "gemini",
+      "gpt-alternative",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://skillwise-sahaj33.streamlit.app/",
+    "cloneCommand": "git clone https://github.com/sizwinz/SkillWise",
+    "lastUpdated": "2026-07-05",
+    "loc": 3135,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "hummat-paperpipe",
+    "name": "Paperpipe",
+    "description": "Extract equations and context from research papers for LLM coding assistants (arXiv, LaTeX, RAG)",
+    "spark": "Extract equations and context from research papers for LLM coding assistants (arXiv, LaTeX, RAG)",
+    "githubUrl": "https://github.com/hummat/paperpipe",
+    "stars": 22,
+    "license": "MIT",
+    "category": "papers",
+    "tags": [
+      "ai-coding-assistant",
+      "arxiv",
+      "cli",
+      "developer-tools",
+      "equation-extraction",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://hummat.github.io/paperpipe/",
+    "cloneCommand": "git clone https://github.com/hummat/paperpipe",
+    "lastUpdated": "2026-07-05",
+    "loc": 956,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "aloth-awesome-ai-agents",
+    "name": "Awesome Ai Agents",
+    "description": "A curated list of AI agent frameworks, tools, platforms, research papers, and resources",
+    "spark": "A curated list of AI agent frameworks, tools, platforms, research papers, and resources",
+    "githubUrl": "https://github.com/aloth/awesome-ai-agents",
+    "stars": 6,
+    "license": "CC0-1.0",
+    "category": "papers",
+    "tags": [
+      "agent-framework",
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-safety"
+    ],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/aloth/awesome-ai-agents",
+    "lastUpdated": "2026-07-05",
+    "loc": 124,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
     "id": "noisefactorllc-noisemaker",
     "name": "Noisemaker",
     "description": "A collection of creative coding effects for Python or JavaScript",
@@ -25938,6 +27524,120 @@
     }
   },
   {
+    "id": "hadoooooouken-qimgv-plus",
+    "name": "Qimgv Plus",
+    "description": "Fast, lightweight, and beautiful image viewer for Windows. Features FidelityFX CAS, real-time AI upscaling (Upscayl), shader color adjustments, 360° spherical panorama, and native support for AVIF, JXL, HEIF, PSD, DDS, and RAW.",
+    "spark": "Fast, lightweight, and beautiful image viewer for Windows. Features FidelityFX CAS, real-time AI upscaling (Upscayl), shader color adjustments, 360° spherical panorama, and native support for AVIF, JXL, HEIF, PSD, DDS, and RAW.",
+    "githubUrl": "https://github.com/hadoooooouken/qimgv-plus",
+    "stars": 7,
+    "license": "GPL-3.0",
+    "category": "creative",
+    "tags": [
+      "360",
+      "ai-upscaling",
+      "avif",
+      "cpp",
+      "fast",
+      "c++"
+    ],
+    "stack": [
+      "C++",
+      "cpp"
+    ],
+    "demoUrl": "https://github.com/hadoooooouken/qimgv-plus/releases",
+    "cloneCommand": "git clone https://github.com/hadoooooouken/qimgv-plus",
+    "lastUpdated": "2026-07-05",
+    "loc": 8059,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "sonyamoisset-team-treehouse_training",
+    "name": "Team Treehouse Training",
+    "description": "Team Treehouse Curriculum",
+    "spark": "Team Treehouse Curriculum",
+    "githubUrl": "https://github.com/SonyaMoisset/Team-Treehouse_Training",
+    "stars": 12,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/SonyaMoisset/Team-Treehouse_Training",
+    "lastUpdated": "2026-07-05",
+    "loc": 1556,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "naemazam-naemazam",
+    "name": "Naemazam",
+    "description": "Naem Azam is  a passionate self-taught Programmer And an open-source enthusiast and maintainer.",
+    "spark": "Naem Azam is  a passionate self-taught Programmer And an open-source enthusiast and maintainer.",
+    "githubUrl": "https://github.com/naemazam/naemazam",
+    "stars": 10,
+    "license": "Unknown",
+    "category": "degree",
+    "tags": [
+      "cybersecurity",
+      "database",
+      "front-end-development",
+      "game-development",
+      "github"
+    ],
+    "stack": [
+      "react"
+    ],
+    "demoUrl": "https://github.com/naemazam",
+    "cloneCommand": "git clone https://github.com/naemazam/naemazam",
+    "lastUpdated": "2026-07-02",
+    "loc": 7934,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
     "id": "jsoncrack",
     "name": "JSON Crack",
     "description": "Innovative and open-source visualization application that transforms various data formats such as JSON, YAML, XML and CSV into interactive graphs.",
@@ -27075,6 +28775,272 @@
     "cloneCommand": "git clone https://github.com/galihru/facemind",
     "lastUpdated": "2026-06-29",
     "loc": 10956,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 29
+    }
+  },
+  {
+    "id": "deftai-directive",
+    "name": "Directive",
+    "description": "Best practices and guidelines for AI agents in software development",
+    "spark": "Best practices and guidelines for AI agents in software development",
+    "githubUrl": "https://github.com/deftai/directive",
+    "stars": 28,
+    "license": "Unknown",
+    "category": "agents",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/deftai/directive",
+    "lastUpdated": "2026-07-05",
+    "loc": 16321,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 4,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 29
+    }
+  },
+  {
+    "id": "corvinlabs-corvinos",
+    "name": "Corvinos",
+    "description": "Self-hosted agentic OS — connects Claude Code, Codex or Hermes Agent to Discord, Telegram, WhatsApp, Slack & Email. EU AI Act 2026 & GDPR compliance by architecture.",
+    "spark": "Self-hosted agentic OS — connects Claude Code, Codex or Hermes Agent to Discord, Telegram, WhatsApp, Slack & Email. EU AI Act 2026 & GDPR compliance by architecture.",
+    "githubUrl": "https://github.com/CorvinLabs/CorvinOS",
+    "stars": 5,
+    "license": "Apache-2.0",
+    "category": "privacy",
+    "tags": [
+      "agentic",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-os",
+      "agentic-workflows",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://corvin-labs.com",
+    "cloneCommand": "git clone https://github.com/CorvinLabs/CorvinOS",
+    "lastUpdated": "2026-07-05",
+    "loc": 9927,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 29
+    }
+  },
+  {
+    "id": "martossien-transcria",
+    "name": "Transcria",
+    "description": "Self-hosted meeting transcription portal — speech-to-text, speaker diarization, LLM-corrected transcripts, structured summaries and Word minutes, on your own GPUs. Flask + PostgreSQL, GDPR audit trail, distributed GPU topologies, docker",
+    "spark": "Self-hosted meeting transcription portal — speech-to-text, speaker diarization, LLM-corrected transcripts, structured summaries and Word minutes, on your own GPUs. Flask + PostgreSQL, GDPR audit trail, distributed GPU topologies, docker",
+    "githubUrl": "https://github.com/Martossien/transcria",
+    "stars": 10,
+    "license": "Apache-2.0",
+    "category": "privacy",
+    "tags": [
+      "asr",
+      "docker",
+      "docker-image",
+      "flask",
+      "gdrp",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/Martossien/transcria",
+    "lastUpdated": "2026-07-05",
+    "loc": 9975,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 29
+    }
+  },
+  {
+    "id": "blas1n-bsengine",
+    "name": "Bsengine",
+    "description": "My own game engine project.",
+    "spark": "My own game engine project.",
+    "githubUrl": "https://github.com/blas1n/BSEngine",
+    "stars": 13,
+    "license": "MIT",
+    "category": "games",
+    "tags": [
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "cloneCommand": "git clone https://github.com/blas1n/BSEngine",
+    "lastUpdated": "2026-07-05",
+    "loc": 7246,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 29
+    }
+  },
+  {
+    "id": "ovumcy-ovumcy-web",
+    "name": "Ovumcy Web",
+    "description": "Self-hosted menstrual cycle tracker. Privacy-first, Docker-ready, beautiful. Track periods, predict cycles, own your health data.",
+    "spark": "Self-hosted menstrual cycle tracker. Privacy-first, Docker-ready, beautiful. Track periods, predict cycles, own your health data.",
+    "githubUrl": "https://github.com/ovumcy/ovumcy-web",
+    "stars": 65,
+    "license": "NOASSERTION",
+    "category": "web",
+    "tags": [
+      "docker",
+      "foss",
+      "go",
+      "health",
+      "htmx"
+    ],
+    "stack": [
+      "Go"
+    ],
+    "demoUrl": "https://ovumcy.com",
+    "cloneCommand": "git clone https://github.com/ovumcy/ovumcy-web",
+    "lastUpdated": "2026-07-05",
+    "loc": 9718,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 29
+    }
+  },
+  {
+    "id": "nk2552003-big-data-survival-guide",
+    "name": "Big Data Survival Guide",
+    "description": "A Complete Big Data Analytics course materials for CST-043 with theory, practicals, Hadoop, Spark, and student-friendly explanations. University curriculum aligned + industry ready",
+    "spark": "A Complete Big Data Analytics course materials for CST-043 with theory, practicals, Hadoop, Spark, and student-friendly explanations. University curriculum aligned + industry ready",
+    "githubUrl": "https://github.com/NK2552003/Big-Data-Survival-Guide",
+    "stars": 9,
+    "license": "MIT",
+    "category": "curriculum",
+    "tags": [
+      "apache-spark",
+      "aws-s3",
+      "big-data",
+      "course-notes",
+      "data-engineering",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://nk2552003.github.io/Big-Data-Survival-Guide/",
+    "cloneCommand": "git clone https://github.com/NK2552003/Big-Data-Survival-Guide",
+    "lastUpdated": "2026-07-05",
+    "loc": 10725,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 29
+    }
+  },
+  {
+    "id": "janbaykara-zotero-syllabus",
+    "name": "Zotero Syllabus",
+    "description": "A plugin to organise your reference collections into ordered syllabi.",
+    "spark": "A plugin to organise your reference collections into ordered syllabi.",
+    "githubUrl": "https://github.com/janbaykara/zotero-syllabus",
+    "stars": 37,
+    "license": "AGPL-3.0",
+    "category": "curriculum",
+    "tags": [
+      "academia",
+      "reading-list",
+      "study",
+      "syllabus",
+      "university",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://forums.zotero.org/discussion/128688/zotero-syllabus-a-plugin-for-managing-your-uni-course-reading-lists",
+    "cloneCommand": "git clone https://github.com/janbaykara/zotero-syllabus",
+    "lastUpdated": "2026-07-05",
+    "loc": 9550,
     "authorCount": 1,
     "dormant": false,
     "singleFile": false,
@@ -31679,6 +33645,635 @@
     }
   },
   {
+    "id": "sitehostnz-ip-ua-data",
+    "name": "Ip Ua Data",
+    "description": "A repository with interesting IP addresses and User Agents",
+    "spark": "A repository with interesting IP addresses and User Agents",
+    "githubUrl": "https://github.com/sitehostnz/ip-ua-data",
+    "stars": 13,
+    "license": "Unknown",
+    "category": "agents",
+    "tags": [
+      "digital command language"
+    ],
+    "stack": [
+      "DIGITAL Command Language"
+    ],
+    "cloneCommand": "git clone https://github.com/sitehostnz/ip-ua-data",
+    "lastUpdated": "2026-07-05",
+    "loc": 3147526,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "l3montree-dev-devguard-web",
+    "name": "Devguard Web",
+    "description": "DevGuard Web Frontend  - Secure your Software Supply Chain - Attestation-based compliance as Code, manage your CVEs seamlessly, Integrate your Vulnerability Scanners, Security Framework Documentation made easy - OWASP Incubating Project",
+    "spark": "DevGuard Web Frontend  - Secure your Software Supply Chain - Attestation-based compliance as Code, manage your CVEs seamlessly, Integrate your Vulnerability Scanners, Security Framework Documentation made easy - OWASP Incubating Project",
+    "githubUrl": "https://github.com/l3montree-dev/devguard-web",
+    "stars": 23,
+    "license": "NOASSERTION",
+    "category": "cybersecurity",
+    "tags": [
+      "cve",
+      "cve-management",
+      "it-security",
+      "vulnerability",
+      "vulnerability-management",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://devguard.org",
+    "cloneCommand": "git clone https://github.com/l3montree-dev/devguard-web",
+    "lastUpdated": "2026-07-05",
+    "loc": 44506,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "yadavnikhil17102004-cve-intel",
+    "name": "Cve Intel",
+    "description": "Native Go engine for automated aggregation, sanitization, and JSON-exporting of global CVE exploit Proof-of-Concepts. Continuously mirrored from the wild",
+    "spark": "Native Go engine for automated aggregation, sanitization, and JSON-exporting of global CVE exploit Proof-of-Concepts. Continuously mirrored from the wild",
+    "githubUrl": "https://github.com/yadavnikhil17102004/CVE-Intel",
+    "stars": 69,
+    "license": "Unknown",
+    "category": "cybersecurity",
+    "tags": [
+      "automation",
+      "cve",
+      "cybersecurity",
+      "exploit",
+      "golang",
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "demoUrl": "https://yadavnikhil17102004.github.io/CVE-Intel/",
+    "cloneCommand": "git clone https://github.com/yadavnikhil17102004/CVE-Intel",
+    "lastUpdated": "2026-07-05",
+    "loc": 243508,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "madschristensen99-wrapsynth",
+    "name": "Wrapsynth",
+    "description": "Wrapsynth is bringing Monero's anonymity set to DeFi and DeFi liquidity to Monero",
+    "spark": "Wrapsynth is bringing Monero's anonymity set to DeFi and DeFi liquidity to Monero",
+    "githubUrl": "https://github.com/madschristensen99/wrapsynth",
+    "stars": 6,
+    "license": "Unknown",
+    "category": "privacy",
+    "tags": [
+      "ethereum",
+      "monero",
+      "solana",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "https://wrapsynth.com",
+    "cloneCommand": "git clone https://github.com/madschristensen99/wrapsynth",
+    "lastUpdated": "2026-07-05",
+    "loc": 41141,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "prtamil-asciicreativecoding",
+    "name": "Asciicreativecoding",
+    "description": "Creative Coding using only Terminal graphics using NCurses in pure C in Linux",
+    "spark": "Creative Coding using only Terminal graphics using NCurses in pure C in Linux",
+    "githubUrl": "https://github.com/prtamil/AsciiCreativeCoding",
+    "stars": 93,
+    "license": "NOASSERTION",
+    "category": "creative",
+    "tags": [
+      "c"
+    ],
+    "stack": [
+      "C"
+    ],
+    "cloneCommand": "git clone https://github.com/prtamil/AsciiCreativeCoding",
+    "lastUpdated": "2026-07-05",
+    "loc": 23287,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "tomasburkett-banana-sprite",
+    "name": "Banana Sprite",
+    "description": "🍌 Generate 16-frame pixel art sprite sheets from reference images using AI for seamless animation and unique character design.",
+    "spark": "🍌 Generate 16-frame pixel art sprite sheets from reference images using AI for seamless animation and unique character design.",
+    "githubUrl": "https://github.com/tomasburkett/banana-sprite",
+    "stars": 7,
+    "license": "NOASSERTION",
+    "category": "creative",
+    "tags": [
+      "animation",
+      "banana",
+      "canvas",
+      "community",
+      "frontend",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/tomasburkett/banana-sprite",
+    "lastUpdated": "2026-07-05",
+    "loc": 11820,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "dicklesworthstone-frankentui",
+    "name": "Frankentui",
+    "description": "Minimal, high-performance terminal UI kernel with diff-based rendering, inline mode, and RAII terminal cleanup",
+    "spark": "Minimal, high-performance terminal UI kernel with diff-based rendering, inline mode, and RAII terminal cleanup",
+    "githubUrl": "https://github.com/Dicklesworthstone/frankentui",
+    "stars": 247,
+    "license": "NOASSERTION",
+    "category": "tools",
+    "tags": [
+      "rendering",
+      "rust",
+      "terminal",
+      "tui",
+      "ui-framework"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "cloneCommand": "git clone https://github.com/Dicklesworthstone/frankentui",
+    "lastUpdated": "2026-07-05",
+    "loc": 71286,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "lingojack-jcli",
+    "name": "Jcli",
+    "description": "jcli 是一款 Rust 构建的命令行效率工具，融合别名管理、日报系统、AI 对话与 Agent 能力。支持注册应用和 URL 为简短别名一键打开，内置日报写入与 Git 同步，TUI 待办管理可联动日报，AI 对话支持多模型切换、流式输出和 Markdown 渲染。Agent 模式让 AI 自主调用工具完成复杂任务，支持多步推理、上下文自动压缩和后台任务执行。移动端扫码即可远程控制 AI 对话界面，随时继续工作。浏览器自动化提供 Lite 模式（无依赖）和 CDP 模式（完整控制），Skill 技能系统按需加载专业能力，Hook 系统支持三级配置灵活扩展 AI 行为。",
+    "spark": "jcli 是一款 Rust 构建的命令行效率工具，融合别名管理、日报系统、AI 对话与 Agent 能力。支持注册应用和 URL 为简短别名一键打开，内置日报写入与 Git 同步，TUI 待办管理可联动日报，AI 对话支持多模型切换、流式输出和 Markdown 渲染。Agent 模式让 AI 自主调用工具完成复杂任务，支持多步推理、上下文自动压缩和后台任务执行。移动端扫码即可远程控制 AI 对话界面，随时继续工作。浏览器自动化提供 Lite 模式（无依赖）和 CDP 模式（完整控制），Skill 技能系统按需加载专业能力，Hook 系统支持三级配置灵活扩展 AI 行为。",
+    "githubUrl": "https://github.com/LingoJack/jcli",
+    "stars": 6,
+    "license": "Unknown",
+    "category": "tools",
+    "tags": [
+      "commandline",
+      "jcli",
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "demoUrl": "https://lingojack.github.io/jcli/",
+    "cloneCommand": "git clone https://github.com/LingoJack/jcli",
+    "lastUpdated": "2026-07-05",
+    "loc": 188901,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "angoikon-byd-trip-stats",
+    "name": "Byd Trip Stats",
+    "description": "App for BYD EV cars for statistics and data visualization",
+    "spark": "App for BYD EV cars for statistics and data visualization",
+    "githubUrl": "https://github.com/angoikon/byd-trip-stats",
+    "stars": 42,
+    "license": "NOASSERTION",
+    "category": "data",
+    "tags": [
+      "kotlin"
+    ],
+    "stack": [
+      "Kotlin"
+    ],
+    "cloneCommand": "git clone https://github.com/angoikon/byd-trip-stats",
+    "lastUpdated": "2026-07-05",
+    "loc": 21509,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "cos301-se-2026-umtas",
+    "name": "Umtas",
+    "description": "UMTAS (University-agnostic Core-and-Adapter platform) is designed to fix scheduling and venue allocation at universities. It provides preference-driven student schedules, an anonymised real-time analytics dashboard, and a reusable simulation service.",
+    "spark": "UMTAS (University-agnostic Core-and-Adapter platform) is designed to fix scheduling and venue allocation at universities. It provides preference-driven student schedules, an anonymised real-time analytics dashboard, and a reusable simulation service.",
+    "githubUrl": "https://github.com/COS301-SE-2026/UMTAS",
+    "stars": 12,
+    "license": "Unknown",
+    "category": "data",
+    "tags": [
+      "analytics",
+      "calender-generator",
+      "core-adapter",
+      "simulation",
+      "university-schedule",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/COS301-SE-2026/UMTAS",
+    "lastUpdated": "2026-07-05",
+    "loc": 34866,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "nouron-nouron",
+    "name": "Nouron",
+    "description": "Nouron is a free space strategy browser and mobile game with roguelike elements. Code is using Laravel, PicoCSS and Alpine.js as tech stack.",
+    "spark": "Nouron is a free space strategy browser and mobile game with roguelike elements. Code is using Laravel, PicoCSS and Alpine.js as tech stack.",
+    "githubUrl": "https://github.com/nouron/nouron",
+    "stars": 12,
+    "license": "Unknown",
+    "category": "games",
+    "tags": [
+      "alpinejs",
+      "browsergame",
+      "laravel",
+      "php",
+      "picocss"
+    ],
+    "stack": [
+      "PHP"
+    ],
+    "demoUrl": "http://nouron.de",
+    "cloneCommand": "git clone https://github.com/nouron/nouron",
+    "lastUpdated": "2026-07-05",
+    "loc": 90455,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "melpomenex-incrementum",
+    "name": "Incrementum",
+    "description": "Desktop app for incremental reading and spaced repetition. FSRS-6, SM-18/20, AI flashcards, PDF/EPUB/audio/video import. Tauri 2 + React 19 + Rust.",
+    "spark": "Desktop app for incremental reading and spaced repetition. FSRS-6, SM-18/20, AI flashcards, PDF/EPUB/audio/video import. Tauri 2 + React 19 + Rust.",
+    "githubUrl": "https://github.com/melpomenex/Incrementum",
+    "stars": 56,
+    "license": "Apache-2.0",
+    "category": "learning",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/melpomenex/Incrementum",
+    "lastUpdated": "2026-07-05",
+    "loc": 199058,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "hernandoabella-js-apps",
+    "name": "Js Apps",
+    "description": "This is a collection of JavaScript projects designed to help beginners learn by building.",
+    "spark": "This is a collection of JavaScript projects designed to help beginners learn by building.",
+    "githubUrl": "https://github.com/hernandoabella/js-apps",
+    "stars": 14,
+    "license": "MIT",
+    "category": "learning",
+    "tags": [
+      "aplicaciones",
+      "apps",
+      "javascript",
+      "js",
+      "js-apps",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://js-apps-three.vercel.app/",
+    "cloneCommand": "git clone https://github.com/hernandoabella/js-apps",
+    "lastUpdated": "2026-07-04",
+    "loc": 232766,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "codewithtanim-learning-path",
+    "name": "Learning Path",
+    "description": "This is my learning path of every Programmign language",
+    "spark": "This is my learning path of every Programmign language",
+    "githubUrl": "https://github.com/CodeWithTanim/Learning-Path",
+    "stars": 5,
+    "license": "MIT",
+    "category": "curriculum",
+    "tags": [
+      "learning-journey",
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "demoUrl": "http://codewithtanim.is-a.dev/",
+    "cloneCommand": "git clone https://github.com/CodeWithTanim/Learning-Path",
+    "lastUpdated": "2026-07-05",
+    "loc": 77930,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "manybodyphysics-fys4480",
+    "name": "Fys4480",
+    "description": "Course at the graduate level on Quantum mechanics for many-particle systems.  The link to lecture notes in the form of a jupyter-book is at https://manybodyphysics.github.io/FYS4480/doc/LectureNotes/_build/html/index.html",
+    "spark": "Course at the graduate level on Quantum mechanics for many-particle systems.  The link to lecture notes in the form of a jupyter-book is at https://manybodyphysics.github.io/FYS4480/doc/LectureNotes/_build/html/index.html",
+    "githubUrl": "https://github.com/ManyBodyPhysics/FYS4480",
+    "stars": 63,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [],
+    "stack": [],
+    "demoUrl": "https://github.com/ManyBodyPhysics/FYS4480",
+    "cloneCommand": "git clone https://github.com/ManyBodyPhysics/FYS4480",
+    "lastUpdated": "2026-07-05",
+    "loc": 860109,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "jikongabc-cogdoc",
+    "name": "Cogdoc",
+    "description": "Local RAG knowledge base for research papers — LangGraph multi-agent QA, structured summaries, multi-paper comparison, with verified citations and a Rust-native hybrid search engine.",
+    "spark": "Local RAG knowledge base for research papers — LangGraph multi-agent QA, structured summaries, multi-paper comparison, with verified citations and a Rust-native hybrid search engine.",
+    "githubUrl": "https://github.com/jikongabc/CogDoc",
+    "stars": 5,
+    "license": "MIT",
+    "category": "papers",
+    "tags": [
+      "ai-agents",
+      "cli",
+      "document-qa",
+      "hybrid-search",
+      "knowledge-base",
+      "python"
+    ],
+    "stack": [
+      "Python",
+      "rust"
+    ],
+    "cloneCommand": "git clone https://github.com/jikongabc/CogDoc",
+    "lastUpdated": "2026-07-05",
+    "loc": 12626,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "huijing-personal-website-v2",
+    "name": "Personal Website V2",
+    "description": ":rabbit: The chronicles of a self-taught designer and developer v2",
+    "spark": ":rabbit: The chronicles of a self-taught designer and developer v2",
+    "githubUrl": "https://github.com/huijing/personal-website-v2",
+    "stars": 28,
+    "license": "Unknown",
+    "category": "degree",
+    "tags": [
+      "hugo",
+      "personal-website",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "cloneCommand": "git clone https://github.com/huijing/personal-website-v2",
+    "lastUpdated": "2025-10-06",
+    "loc": 178218,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
     "id": "okerew-larkos",
     "name": "Larkos",
     "description": "This repository shows an alternative neural network structure to modern ones, inspiring from the brain and it's creativity, workings.",
@@ -32316,6 +34911,116 @@
     }
   },
   {
+    "id": "matrixrex-uber-stylized-water",
+    "name": "Uber Stylized Water",
+    "description": "An highly customizable stylized water shader for Unity 6",
+    "spark": "An highly customizable stylized water shader for Unity 6",
+    "githubUrl": "https://github.com/MatrixRex/Uber-Stylized-Water",
+    "stars": 435,
+    "license": "MIT",
+    "category": "creative",
+    "tags": [
+      "shaderlab"
+    ],
+    "stack": [
+      "ShaderLab"
+    ],
+    "cloneCommand": "git clone https://github.com/MatrixRex/Uber-Stylized-Water",
+    "lastUpdated": "2026-07-05",
+    "loc": 205731,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 27
+    }
+  },
+  {
+    "id": "bimbok-fyzenor",
+    "name": "Fyzenor",
+    "description": "Fyzenor - C++ Based Filemanager",
+    "spark": "Fyzenor - C++ Based Filemanager",
+    "githubUrl": "https://github.com/Bimbok/fyzenor",
+    "stars": 8,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "cpp",
+      "cpp17",
+      "file-manager",
+      "filesystem",
+      "ncurses",
+      "c++"
+    ],
+    "stack": [
+      "C++",
+      "cpp"
+    ],
+    "demoUrl": "https://fyzenor.vercel.app",
+    "cloneCommand": "git clone https://github.com/Bimbok/fyzenor",
+    "lastUpdated": "2026-07-05",
+    "loc": 13553,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 5,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 27
+    }
+  },
+  {
+    "id": "foru17-make-x-great-again",
+    "name": "Make X Great Again",
+    "description": "Make X Great Again — passive ambient browser extension that makes X usable: spam shield, KOL signal score, profile digest, social graph hints. Public-good, open source.",
+    "spark": "Make X Great Again — passive ambient browser extension that makes X usable: spam shield, KOL signal score, profile digest, social graph hints. Public-good, open source.",
+    "githubUrl": "https://github.com/foru17/make-x-great-again",
+    "stars": 454,
+    "license": "AGPL-3.0",
+    "category": "web",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://x.zuoluo.tv",
+    "cloneCommand": "git clone https://github.com/foru17/make-x-great-again",
+    "lastUpdated": "2026-07-05",
+    "loc": 131646,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 27
+    }
+  },
+  {
     "id": "jsoulier-voxel_raytracer",
     "name": "Voxel Raytracer",
     "description": "Simple Voxel Raytracer using SDL3 GPU with compute shaders",
@@ -32808,6 +35513,85 @@
     "cloneCommand": "git clone https://github.com/Abhash-Chakraborty/Find",
     "lastUpdated": "2026-06-28",
     "loc": 15623,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 4,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 26
+    }
+  },
+  {
+    "id": "tarunlnmiit-autopilot-jobhunt",
+    "name": "Autopilot Jobhunt",
+    "description": "AI job agent: scans 130+ careers pages nightly, scores every role against your resume with an LLM (0–100), alerts you on Telegram, and drafts tailored cover letters + resumes. Free & open source.",
+    "spark": "AI job agent: scans 130+ careers pages nightly, scores every role against your resume with an LLM (0–100), alerts you on Telegram, and drafts tailored cover letters + resumes. Free & open source.",
+    "githubUrl": "https://github.com/tarunlnmiit/autopilot-jobhunt",
+    "stars": 107,
+    "license": "MIT",
+    "category": "agents",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "career",
+      "claude",
+      "job-search",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://pypi.org/project/autopilot-jobhunt/",
+    "cloneCommand": "git clone https://github.com/tarunlnmiit/autopilot-jobhunt",
+    "lastUpdated": "2026-07-05",
+    "loc": 15970,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 4,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 26
+    }
+  },
+  {
+    "id": "houmain-gpupad",
+    "name": "Gpupad",
+    "description": "A flexible GLSL and HLSL shader editor and IDE.",
+    "spark": "A flexible GLSL and HLSL shader editor and IDE.",
+    "githubUrl": "https://github.com/houmain/gpupad",
+    "stars": 209,
+    "license": "GPL-3.0",
+    "category": "creative",
+    "tags": [
+      "compute",
+      "cross-platform",
+      "editor",
+      "glsl",
+      "glsl-shaders",
+      "c++"
+    ],
+    "stack": [
+      "C++"
+    ],
+    "cloneCommand": "git clone https://github.com/houmain/gpupad",
+    "lastUpdated": "2026-07-05",
+    "loc": 15122,
     "authorCount": 1,
     "dormant": false,
     "singleFile": false,
@@ -39641,6 +42425,799 @@
     }
   },
   {
+    "id": "rix4uni-cvemapping",
+    "name": "Cvemapping",
+    "description": "This repo Gathers all available cve exploits from github.⚠️ Be careful Malware.",
+    "spark": "This repo Gathers all available cve exploits from github.⚠️ Be careful Malware.",
+    "githubUrl": "https://github.com/rix4uni/cvemapping",
+    "stars": 133,
+    "license": "Unknown",
+    "category": "cybersecurity",
+    "tags": [
+      "bug-bounty",
+      "bugbounty",
+      "bugbountytips",
+      "cve",
+      "exploits",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://cvemapping.krazeplanet.com",
+    "cloneCommand": "git clone https://github.com/rix4uni/cvemapping",
+    "lastUpdated": "2026-07-05",
+    "loc": 444008,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "timgerstel-suspicious_ips",
+    "name": "Suspicious Ips",
+    "description": "Suspicious IP addresses collected from my SSH honeypot running on a cloud VPS. Honeypot randomly accepts 1% of auth reqests and sends a fake Linux shell to the client. Repo updates every 30 minutes (unless there is no new activity). ",
+    "spark": "Suspicious IP addresses collected from my SSH honeypot running on a cloud VPS. Honeypot randomly accepts 1% of auth reqests and sends a fake Linux shell to the client. Repo updates every 30 minutes (unless there is no new activity). ",
+    "githubUrl": "https://github.com/timgerstel/suspicious_IPs",
+    "stars": 14,
+    "license": "Unknown",
+    "category": "cybersecurity",
+    "tags": [
+      "cloud-security",
+      "cybersecurity",
+      "dns",
+      "firewall",
+      "hacking"
+    ],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/timgerstel/suspicious_IPs",
+    "lastUpdated": "2026-07-05",
+    "loc": 64369,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "hproxy-com-free-proxy-list",
+    "name": "Free Proxy List",
+    "description": "The biggest free proxy list. 780,000+ proxies collected globally and verified around the clock, thousands live & working right now. HTTP, HTTPS, SOCKS4 & SOCKS5 with country, anonymity grade & latency. Powered by HProxy.",
+    "spark": "The biggest free proxy list. 780,000+ proxies collected globally and verified around the clock, thousands live & working right now. HTTP, HTTPS, SOCKS4 & SOCKS5 with country, anonymity grade & latency. Powered by HProxy.",
+    "githubUrl": "https://github.com/hproxy-com/free-proxy-list",
+    "stars": 11,
+    "license": "MIT",
+    "category": "privacy",
+    "tags": [
+      "anonymous-proxy",
+      "free-proxies",
+      "free-proxies-for-web-scraping",
+      "free-proxy",
+      "free-proxy-api"
+    ],
+    "stack": [],
+    "demoUrl": "https://hproxy.com",
+    "cloneCommand": "git clone https://github.com/hproxy-com/free-proxy-list",
+    "lastUpdated": "2026-07-05",
+    "loc": 1638933,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "mbombeck-healthlog",
+    "name": "Healthlog",
+    "description": "Self-hosted, privacy-first health tracking PWA — weight, blood pressure, glucose, sleep, mood, medications, cycle. Withings, WHOOP, Fitbit and Apple Health sync, AI insights you own.",
+    "spark": "Self-hosted, privacy-first health tracking PWA — weight, blood pressure, glucose, sleep, mood, medications, cycle. Withings, WHOOP, Fitbit and Apple Health sync, AI insights you own.",
+    "githubUrl": "https://github.com/MBombeck/HealthLog",
+    "stars": 24,
+    "license": "NOASSERTION",
+    "category": "privacy",
+    "tags": [
+      "ai-insights",
+      "apple-health",
+      "apple-health-import",
+      "docker",
+      "fitbit",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript",
+      "nextjs"
+    ],
+    "demoUrl": "https://healthlog.dev",
+    "cloneCommand": "git clone https://github.com/MBombeck/HealthLog",
+    "lastUpdated": "2026-07-05",
+    "loc": 35867,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "fractonicmind-ternarymorallogic",
+    "name": "Ternarymorallogic",
+    "description": "I've always believed that the hardest problems in AI aren't technical; they're architectural. We keep building systems that can't explain themselves, can't prove their own integrity, can't handle uncertainty without either freezing or lying. And then we act surprised when we don't trust them.",
+    "spark": "I've always believed that the hardest problems in AI aren't technical; they're architectural. We keep building systems that can't explain themselves, can't prove their own integrity, can't handle uncertainty without either freezing or lying. And then we act surprised when we don't trust them.",
+    "githubUrl": "https://github.com/FractonicMind/TernaryMoralLogic",
+    "stars": 8,
+    "license": "NOASSERTION",
+    "category": "privacy",
+    "tags": [
+      "advanced-ai",
+      "ai-ethics",
+      "auditable-ai",
+      "bitcoin",
+      "earth-projection",
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "demoUrl": "https://fractonicmind.github.io/TernaryMoralLogic/",
+    "cloneCommand": "git clone https://github.com/FractonicMind/TernaryMoralLogic",
+    "lastUpdated": "2026-07-05",
+    "loc": 371447,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "moto-nrw-project-phoenix",
+    "name": "Project Phoenix",
+    "description": "A German all day school supervision software",
+    "spark": "A German all day school supervision software",
+    "githubUrl": "https://github.com/moto-nrw/project-phoenix",
+    "stars": 9,
+    "license": "NOASSERTION",
+    "category": "privacy",
+    "tags": [
+      "attendance",
+      "education",
+      "gdpr",
+      "golang",
+      "nextjs",
+      "go"
+    ],
+    "stack": [
+      "Go",
+      "nextjs"
+    ],
+    "cloneCommand": "git clone https://github.com/moto-nrw/project-phoenix",
+    "lastUpdated": "2026-07-05",
+    "loc": 71212,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "nyrds-remixed-dungeon",
+    "name": "Remixed Dungeon",
+    "description": "Traditional roguelike game with pixel-art graphics and simple interface - Remixed Pixel Dungeon",
+    "spark": "Traditional roguelike game with pixel-art graphics and simple interface - Remixed Pixel Dungeon",
+    "githubUrl": "https://github.com/NYRDS/remixed-dungeon",
+    "stars": 276,
+    "license": "GPL-3.0",
+    "category": "creative",
+    "tags": [
+      "android",
+      "dungeon",
+      "dungeon-crawler-game",
+      "game",
+      "pixel-art",
+      "java"
+    ],
+    "stack": [
+      "Java"
+    ],
+    "demoUrl": "http://wiki.nyrds.net",
+    "cloneCommand": "git clone https://github.com/NYRDS/remixed-dungeon",
+    "lastUpdated": "2026-07-05",
+    "loc": 190646,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "belmutm-noble",
+    "name": "Noble",
+    "description": "A Minecraft shader pack that enhances your experience with the help of good-looking visuals and light simulations.",
+    "spark": "A Minecraft shader pack that enhances your experience with the help of good-looking visuals and light simulations.",
+    "githubUrl": "https://github.com/BelmuTM/Noble",
+    "stars": 166,
+    "license": "GPL-3.0",
+    "category": "creative",
+    "tags": [
+      "glsl",
+      "minecraft",
+      "opengl",
+      "pathtracing",
+      "raytracing"
+    ],
+    "stack": [
+      "GLSL"
+    ],
+    "cloneCommand": "git clone https://github.com/BelmuTM/Noble",
+    "lastUpdated": "2026-07-05",
+    "loc": 82888,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "micschr0-claudebar",
+    "name": "Claudebar",
+    "description": "Powerline-style statusline for Claude Code — Rust CLI with a TUI configurator, themes and styles",
+    "spark": "Powerline-style statusline for Claude Code — Rust CLI with a TUI configurator, themes and styles",
+    "githubUrl": "https://github.com/micschr0/claudebar",
+    "stars": 7,
+    "license": "MIT",
+    "category": "tools",
+    "tags": [
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cli",
+      "command-line",
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "cloneCommand": "git clone https://github.com/micschr0/claudebar",
+    "lastUpdated": "2026-07-05",
+    "loc": 19777,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "tele-ai-fluxon",
+    "name": "Fluxon",
+    "description": "Fluxon is a distributed data acceleration plane built in Rust for AI-native systems. It features three standardized interfaces: KV/RPC for inference KV / latent Cache, MQ for state passing in training and data pipelines, and FS for caching and S3-compatible access to model files and checkpoints.",
+    "spark": "Fluxon is a distributed data acceleration plane built in Rust for AI-native systems. It features three standardized interfaces: KV/RPC for inference KV / latent Cache, MQ for state passing in training and data pipelines, and FS for caching and S3-compatible access to model files and checkpoints.",
+    "githubUrl": "https://github.com/Tele-AI/Fluxon",
+    "stars": 69,
+    "license": "NOASSERTION",
+    "category": "data",
+    "tags": [
+      "ai-infra",
+      "ai-native",
+      "alluxio",
+      "cross-cluster",
+      "data-processing",
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "demoUrl": "https://tele-ai.github.io/Fluxon/",
+    "cloneCommand": "git clone https://github.com/Tele-AI/Fluxon",
+    "lastUpdated": "2026-07-05",
+    "loc": 19575,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "tommy-xr-shock2quest",
+    "name": "Shock2Quest",
+    "description": "A game-engine recreation of the Dark engine, focusing on System Shock 2 on Quest",
+    "spark": "A game-engine recreation of the Dark engine, focusing on System Shock 2 on Quest",
+    "githubUrl": "https://github.com/tommy-xr/shock2quest",
+    "stars": 16,
+    "license": "Unknown",
+    "category": "games",
+    "tags": [
+      "3d-engine",
+      "dark-engine",
+      "dark-engine-games",
+      "engine",
+      "fps",
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "cloneCommand": "git clone https://github.com/tommy-xr/shock2quest",
+    "lastUpdated": "2026-07-05",
+    "loc": 35179,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "neoaxis-neoaxisengine",
+    "name": "Neoaxisengine",
+    "description": "A versatile game engine designed for creating video games and real-time apps.",
+    "spark": "A versatile game engine designed for creating video games and real-time apps.",
+    "githubUrl": "https://github.com/NeoAxis/NeoAxisEngine",
+    "stars": 256,
+    "license": "NOASSERTION",
+    "category": "games",
+    "tags": [
+      "3d-graphics",
+      "3d-graphics-engine",
+      "android",
+      "csharp",
+      "engine",
+      "c#"
+    ],
+    "stack": [
+      "C#"
+    ],
+    "demoUrl": "https://www.neoaxis.com/",
+    "cloneCommand": "git clone https://github.com/NeoAxis/NeoAxisEngine",
+    "lastUpdated": "2026-07-05",
+    "loc": 1448182,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "gk646-magique",
+    "name": "Magique",
+    "description": "2D game engine for programmers (or those yet to be!)",
+    "spark": "2D game engine for programmers (or those yet to be!)",
+    "githubUrl": "https://github.com/gk646/magique",
+    "stars": 24,
+    "license": "NOASSERTION",
+    "category": "games",
+    "tags": [
+      "beginner-friendly",
+      "cmake",
+      "cpp",
+      "ecs",
+      "entt",
+      "c++"
+    ],
+    "stack": [
+      "C++",
+      "cpp"
+    ],
+    "cloneCommand": "git clone https://github.com/gk646/magique",
+    "lastUpdated": "2026-07-05",
+    "loc": 17615,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "llmsresearch-llm-flashcards",
+    "name": "Llm Flashcards",
+    "description": "Visual knowledge bank for understanding large language models, with 180 concept cards from tokenization to deployment.",
+    "spark": "Visual knowledge bank for understanding large language models, with 180 concept cards from tokenization to deployment.",
+    "githubUrl": "https://github.com/llmsresearch/llm-flashcards",
+    "stars": 63,
+    "license": "NOASSERTION",
+    "category": "learning",
+    "tags": [
+      "agents",
+      "ai",
+      "anki",
+      "attention",
+      "deep-learning",
+      "mdx"
+    ],
+    "stack": [
+      "MDX"
+    ],
+    "demoUrl": "https://llmsresearch.github.io/llm-flashcards/",
+    "cloneCommand": "git clone https://github.com/llmsresearch/llm-flashcards",
+    "lastUpdated": "2026-07-05",
+    "loc": 128817,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "anthonysgro-geospoof",
+    "name": "Geospoof",
+    "description": "Browser extension that spoofs your geolocation & timezone, and auto-syncs to your VPN. Firefox, Chrome, Edge, Brave & Safari.",
+    "spark": "Browser extension that spoofs your geolocation & timezone, and auto-syncs to your VPN. Firefox, Chrome, Edge, Brave & Safari.",
+    "githubUrl": "https://github.com/anthonysgro/geospoof",
+    "stars": 96,
+    "license": "NOASSERTION",
+    "category": "web",
+    "tags": [
+      "browser",
+      "browser-extension",
+      "chrome",
+      "chrome-extension",
+      "firefox",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://geospoof.com",
+    "cloneCommand": "git clone https://github.com/anthonysgro/geospoof",
+    "lastUpdated": "2026-07-05",
+    "loc": 143514,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "pedal-intelligence-saypi-userscript",
+    "name": "Saypi Userscript",
+    "description": "Enterprise-grade browser extension bringing multilingual voice interaction to AI chatbots (Pi, Claude, ChatGPT). Features real-time speech detection with Silero VAD, accurate transcription via OpenAI Whisper, and ElevenLabs TTS. Built with TypeScript, XState, and modern web standards. Progressive enhancement across Chrome, Firefox, and Safari",
+    "spark": "Enterprise-grade browser extension bringing multilingual voice interaction to AI chatbots (Pi, Claude, ChatGPT). Features real-time speech detection with Silero VAD, accurate transcription via OpenAI Whisper, and ElevenLabs TTS. Built with TypeScript, XState, and modern web standards. Progressive enhancement across Chrome, Firefox, and Safari",
+    "githubUrl": "https://github.com/Pedal-Intelligence/saypi-userscript",
+    "stars": 25,
+    "license": "NOASSERTION",
+    "category": "web",
+    "tags": [
+      "ai",
+      "chat",
+      "chatbot",
+      "chatgpt",
+      "claude",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://www.saypi.ai/",
+    "cloneCommand": "git clone https://github.com/Pedal-Intelligence/saypi-userscript",
+    "lastUpdated": "2026-07-05",
+    "loc": 152860,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "andatoshiki-telecast",
+    "name": "Telecast",
+    "description": "Turn your Telegram channel into a beautiful and fully SSG microblog mirror site with minimal effort under minutes!",
+    "spark": "Turn your Telegram channel into a beautiful and fully SSG microblog mirror site with minimal effort under minutes!",
+    "githubUrl": "https://github.com/andatoshiki/telecast",
+    "stars": 12,
+    "license": "AGPL-3.0",
+    "category": "web",
+    "tags": [
+      "app-router",
+      "blog",
+      "broadcast-channel",
+      "channel",
+      "microblog",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript",
+      "nextjs",
+      "react"
+    ],
+    "demoUrl": "https://tg.toshiki.dev",
+    "cloneCommand": "git clone https://github.com/andatoshiki/telecast",
+    "lastUpdated": "2026-07-05",
+    "loc": 26128,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "ebongard-renfield",
+    "name": "Renfield",
+    "description": "Self-hosted AI assistant with voice satellites, 100+ tool integrations, RAG knowledge base, and full offline capability. Built with FastAPI + React + Ollama.",
+    "spark": "Self-hosted AI assistant with voice satellites, 100+ tool integrations, RAG knowledge base, and full offline capability. Built with FastAPI + React + Ollama.",
+    "githubUrl": "https://github.com/ebongard/renfield",
+    "stars": 6,
+    "license": "MIT",
+    "category": "web",
+    "tags": [
+      "ai-assistant",
+      "docker",
+      "knowledge-base",
+      "knowledge-graph",
+      "mcp",
+      "python"
+    ],
+    "stack": [
+      "Python",
+      "react",
+      "typescript"
+    ],
+    "cloneCommand": "git clone https://github.com/ebongard/renfield",
+    "lastUpdated": "2026-07-05",
+    "loc": 26915,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "himanshu-jadhav108-college_practicals",
+    "name": "College Practicals",
+    "description": "Collection of AI, Data Structures, Data Science, DBMS, and OOP practicals implemented in Python, aligned with the SPPU 2024 curriculum. Includes clear, beginner‑friendly implementations and mini‑projects for learning and portfolio showcase.",
+    "spark": "Collection of AI, Data Structures, Data Science, DBMS, and OOP practicals implemented in Python, aligned with the SPPU 2024 curriculum. Includes clear, beginner‑friendly implementations and mini‑projects for learning and portfolio showcase.",
+    "githubUrl": "https://github.com/himanshu-jadhav108/College_Practicals",
+    "stars": 22,
+    "license": "Unknown",
+    "category": "curriculum",
+    "tags": [
+      "academic-projects",
+      "aids-department",
+      "artificial-intelligence",
+      "data-science",
+      "data-structures-and-algorithms",
+      "jupyter notebook"
+    ],
+    "stack": [
+      "Jupyter Notebook",
+      "python"
+    ],
+    "cloneCommand": "git clone https://github.com/himanshu-jadhav108/College_Practicals",
+    "lastUpdated": "2026-07-05",
+    "loc": 19096,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "gireeshsuresh-self-taught_phd",
+    "name": "Self Taught Phd",
+    "description": "This repository is used to capture my work in the journey of Self Taught PhD. Feel free to look into this and email me if you have any questions (or) concerns.",
+    "spark": "This repository is used to capture my work in the journey of Self Taught PhD. Feel free to look into this and email me if you have any questions (or) concerns.",
+    "githubUrl": "https://github.com/Gireeshsuresh/Self-Taught_PhD",
+    "stars": 7,
+    "license": "AGPL-3.0",
+    "category": "degree",
+    "tags": [
+      "ai",
+      "computervision",
+      "deeplearning",
+      "diy",
+      "phd",
+      "jupyter notebook"
+    ],
+    "stack": [
+      "Jupyter Notebook"
+    ],
+    "demoUrl": "https://github.com/Gireeshsuresh/Self-Taught_PhD",
+    "cloneCommand": "git clone https://github.com/Gireeshsuresh/Self-Taught_PhD",
+    "lastUpdated": "2025-10-14",
+    "loc": 22348,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
     "id": "reyamira-models",
     "name": "Models",
     "description": "TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers.",
@@ -41349,6 +44926,232 @@
     "cloneCommand": "git clone https://github.com/Cilda/UmaUmaChecker",
     "lastUpdated": "2026-06-28",
     "loc": 34284,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 24
+    }
+  },
+  {
+    "id": "vivekchand-clawmetry",
+    "name": "Clawmetry",
+    "description": "See your agent think. Real-time observability for 12 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+    "spark": "See your agent think. Real-time observability for 12 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+    "githubUrl": "https://github.com/vivekchand/clawmetry",
+    "stars": 384,
+    "license": "MIT",
+    "category": "agents",
+    "tags": [
+      "ai-agent",
+      "clawmetry",
+      "dashboard",
+      "monitoring",
+      "observability",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://clawmetry.com",
+    "cloneCommand": "git clone https://github.com/vivekchand/clawmetry",
+    "lastUpdated": "2026-07-05",
+    "loc": 5764102,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -0.5,
+      "total": 24
+    }
+  },
+  {
+    "id": "kde-labplot",
+    "name": "Labplot",
+    "description": "LabPlot is a FREE, open source and cross-platform Data Visualization and Analysis software accessible to everyone.",
+    "spark": "LabPlot is a FREE, open source and cross-platform Data Visualization and Analysis software accessible to everyone.",
+    "githubUrl": "https://github.com/KDE/labplot",
+    "stars": 464,
+    "license": "Unknown",
+    "category": "data",
+    "tags": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "fitting",
+      "graph",
+      "c++"
+    ],
+    "stack": [
+      "C++"
+    ],
+    "demoUrl": "https://invent.kde.org/education/labplot",
+    "cloneCommand": "git clone https://github.com/KDE/labplot",
+    "lastUpdated": "2026-07-05",
+    "loc": 1076065,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
+      "total": 24
+    }
+  },
+  {
+    "id": "drsnuggles8-oloenginebase",
+    "name": "Oloenginebase",
+    "description": "A game engine based on Hazel",
+    "spark": "A game engine based on Hazel",
+    "githubUrl": "https://github.com/drsnuggles8/OloEngineBase",
+    "stars": 17,
+    "license": "NOASSERTION",
+    "category": "games",
+    "tags": [
+      "cmake",
+      "cpp",
+      "game-engine",
+      "c++"
+    ],
+    "stack": [
+      "C++",
+      "cpp"
+    ],
+    "cloneCommand": "git clone https://github.com/drsnuggles8/OloEngineBase",
+    "lastUpdated": "2026-07-05",
+    "loc": 330498,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 24
+    }
+  },
+  {
+    "id": "eudoxia0-flashcards",
+    "name": "Flashcards",
+    "description": "My flashcard collection.",
+    "spark": "My flashcard collection.",
+    "githubUrl": "https://github.com/eudoxia0/flashcards",
+    "stars": 42,
+    "license": "CC-BY-4.0",
+    "category": "learning",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/eudoxia0/flashcards",
+    "lastUpdated": "2026-07-05",
+    "loc": 169921,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 24
+    }
+  },
+  {
+    "id": "laer-smart-2anki.net",
+    "name": "2Anki.Net",
+    "description": "Server to create Anki flashcards faster, easier and better today ⭐️",
+    "spark": "Server to create Anki flashcards faster, easier and better today ⭐️",
+    "githubUrl": "https://github.com/Laer-Smart/2anki.net",
+    "stars": 323,
+    "license": "NOASSERTION",
+    "category": "learning",
+    "tags": [
+      "2anki",
+      "anki",
+      "anki-cards",
+      "cloze-deletions",
+      "convert",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://2anki.net",
+    "cloneCommand": "git clone https://github.com/Laer-Smart/2anki.net",
+    "lastUpdated": "2026-07-05",
+    "loc": 29191,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -0.5,
+      "total": 24
+    }
+  },
+  {
+    "id": "jarviscog-autoanki",
+    "name": "Autoanki",
+    "description": "Auto-Generate Anki Flashcards",
+    "spark": "Auto-Generate Anki Flashcards",
+    "githubUrl": "https://github.com/jarviscog/autoanki",
+    "stars": 7,
+    "license": "MIT",
+    "category": "learning",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/jarviscog/autoanki",
+    "lastUpdated": "2026-07-05",
+    "loc": 53320,
     "authorCount": 1,
     "dormant": false,
     "singleFile": false,
