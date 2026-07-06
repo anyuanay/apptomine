@@ -76,6 +76,8 @@ export default function HomePage() {
       papers:     count('papers'),
       degree:     count('degree'),
       vision:     count('vision'),
+      ontology:   count('ontology'),
+      knowledgegraphs: count('knowledgegraphs'),
     };
   }, [search, discoveryMode]);
 

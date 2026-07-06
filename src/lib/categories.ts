@@ -120,6 +120,20 @@ export const CATEGORIES: CategoryDefinition[] = [
     keywords: ['vision', 'computer-vision', 'object-detection', 'opencv', 'image-processing', 'segmentation', 'tracking', 'yolo', 'deep-learning'],
     color: 'bg-pink-600',
   },
+  {
+    id: 'ontology',
+    label: 'Ontology',
+    description: 'Ontology engineering, semantic web standards, taxonomies, and linked data',
+    keywords: ['ontology', 'owl', 'rdf', 'semantic-web', 'taxonomy', 'protege', 'linked-data', 'ontology-engineering'],
+    color: 'bg-yellow-600',
+  },
+  {
+    id: 'knowledgegraphs',
+    label: 'Knowledge Graphs',
+    description: 'Graph databases, knowledge graph construction, and graph-based retrieval',
+    keywords: ['knowledge-graph', 'graph-database', 'neo4j', 'triple-store', 'sparql', 'entity-linking', 'graph-rag'],
+    color: 'bg-green-600',
+  },
 ];
 
 export const DISCOVERY_MODES: DiscoveryModeDefinition[] = [
@@ -194,6 +208,8 @@ export function getCategoryBadgeClass(category: Exclude<Category, 'all'>): strin
     papers:     'bg-lime-500/20 text-lime-400 border border-lime-500/30',
     degree:     'bg-purple-500/20 text-purple-400 border border-purple-500/30',
     vision:     'bg-pink-500/20 text-pink-400 border border-pink-500/30',
+    ontology:   'bg-yellow-500/20 text-yellow-400 border border-yellow-500/30',
+    knowledgegraphs: 'bg-green-500/20 text-green-400 border border-green-500/30',
   };
   return map[category] ?? 'bg-blue-500/20 text-blue-400 border border-blue-500/30';
 }

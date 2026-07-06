@@ -13782,6 +13782,754 @@
     }
   },
   {
+    "id": "stevehedden-open-knowledge-graphs",
+    "name": "Open Knowledge Graphs",
+    "description": "Open Knowledge Graph Resources is a static, daily-refreshed catalog of ontology and semantic software records sourced from Wikidata. It publishes both machine-readable artifacts (Turtle + JSON) and a searchable browser UI.",
+    "spark": "Open Knowledge Graph Resources is a static, daily-refreshed catalog of ontology and semantic software records sourced from Wikidata. It publishes both machine-readable artifacts (Turtle + JSON) and a searchable browser UI.",
+    "githubUrl": "https://github.com/SteveHedden/open-knowledge-graphs",
+    "stars": 64,
+    "license": "Apache-2.0",
+    "category": "ontology",
+    "tags": [
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "demoUrl": "https://openknowledgegraphs.com",
+    "cloneCommand": "git clone https://github.com/SteveHedden/open-knowledge-graphs",
+    "lastUpdated": "2026-07-06",
+    "loc": 3472,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "gchq-ld-explorer",
+    "name": "Ld Explorer",
+    "description": "LD-Explorer is the missing tool for exploring, federating and querying linked data resources directly from the browser",
+    "spark": "LD-Explorer is the missing tool for exploring, federating and querying linked data resources directly from the browser",
+    "githubUrl": "https://github.com/gchq/LD-Explorer",
+    "stars": 23,
+    "license": "Apache-2.0",
+    "category": "ontology",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://gchq.github.io/LD-Explorer/",
+    "cloneCommand": "git clone https://github.com/gchq/LD-Explorer",
+    "lastUpdated": "2026-07-06",
+    "loc": 2737,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "dbcls-togomcp",
+    "name": "Togomcp",
+    "description": "MCP server for the RDF Portal (Public version)",
+    "spark": "MCP server for the RDF Portal (Public version)",
+    "githubUrl": "https://github.com/dbcls/togomcp",
+    "stars": 9,
+    "license": "MIT",
+    "category": "ontology",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/dbcls/togomcp",
+    "lastUpdated": "2026-07-06",
+    "loc": 6642,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "enilink-enilink",
+    "name": "Enilink",
+    "description": "eniLINK is a web platform for linked data applications.",
+    "spark": "eniLINK is a web platform for linked data applications.",
+    "githubUrl": "https://github.com/enilink/enilink",
+    "stars": 6,
+    "license": "Unknown",
+    "category": "ontology",
+    "tags": [
+      "java",
+      "rdf",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "http://platform.enilink.net",
+    "cloneCommand": "git clone https://github.com/enilink/enilink",
+    "lastUpdated": "2026-07-06",
+    "loc": 2950,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "varfish-org-mehari",
+    "name": "Mehari",
+    "description": "VEP-like tool for sequence ontology and HGVS annotation of VCF files",
+    "spark": "VEP-like tool for sequence ontology and HGVS annotation of VCF files",
+    "githubUrl": "https://github.com/varfish-org/mehari",
+    "stars": 32,
+    "license": "MIT",
+    "category": "ontology",
+    "tags": [
+      "genetics",
+      "varfish",
+      "variant-filtration",
+      "variant-prioritization",
+      "vcf",
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "cloneCommand": "git clone https://github.com/varfish-org/mehari",
+    "lastUpdated": "2026-07-06",
+    "loc": 6070,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "entsoe-application-profiles-library",
+    "name": "Application Profiles Library",
+    "description": "All version of machine understandable artifacts (RDFS, SHACL) for Common Grid Model Exchange Standard (CGMES) and Network (NC) CGMES extensions.",
+    "spark": "All version of machine understandable artifacts (RDFS, SHACL) for Common Grid Model Exchange Standard (CGMES) and Network (NC) CGMES extensions.",
+    "githubUrl": "https://github.com/entsoe/application-profiles-library",
+    "stars": 20,
+    "license": "Apache-2.0",
+    "category": "ontology",
+    "tags": [
+      "shell"
+    ],
+    "stack": [
+      "Shell"
+    ],
+    "demoUrl": "https://www.entsoe.eu/data/cim/cim-for-grid-models-exchange/#_Application_Profiles_Library",
+    "cloneCommand": "git clone https://github.com/entsoe/application-profiles-library",
+    "lastUpdated": "2026-07-06",
+    "loc": 4307,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "soptim-opencgmes",
+    "name": "Opencgmes",
+    "description": "Suite of tools for CGMES / CIM (IEC 61970) RDF - RDFS, SHACL and CIMXML",
+    "spark": "Suite of tools for CGMES / CIM (IEC 61970) RDF - RDFS, SHACL and CIMXML",
+    "githubUrl": "https://github.com/SOPTIM/OpenCGMES",
+    "stars": 6,
+    "license": "Apache-2.0",
+    "category": "ontology",
+    "tags": [
+      "java"
+    ],
+    "stack": [
+      "Java"
+    ],
+    "cloneCommand": "git clone https://github.com/SOPTIM/OpenCGMES",
+    "lastUpdated": "2026-07-06",
+    "loc": 1909,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "sparna-git-sparnatural-yasgui-plugins",
+    "name": "Sparnatural Yasgui Plugins",
+    "description": "Set of Plugins for Yasgui / YASR useful in conjunction with Sparnatural",
+    "spark": "Set of Plugins for Yasgui / YASR useful in conjunction with Sparnatural",
+    "githubUrl": "https://github.com/sparna-git/Sparnatural-yasgui-plugins",
+    "stars": 6,
+    "license": "LGPL-3.0",
+    "category": "ontology",
+    "tags": [
+      "rdf",
+      "sparnatural",
+      "sparql",
+      "yasgui",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "http://sparnatural.eu",
+    "cloneCommand": "git clone https://github.com/sparna-git/Sparnatural-yasgui-plugins",
+    "lastUpdated": "2026-07-06",
+    "loc": 4383,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "ch-sander-zotero_rdf_server",
+    "name": "Zotero Rdf Server",
+    "description": "This server loads multiple Zotero libraries into an RDF graph, exposes a local SPARQL endpoint, and allows exporting the graph.",
+    "spark": "This server loads multiple Zotero libraries into an RDF graph, exposes a local SPARQL endpoint, and allows exporting the graph.",
+    "githubUrl": "https://github.com/ch-sander/zotero_rdf_server",
+    "stars": 8,
+    "license": "MIT",
+    "category": "ontology",
+    "tags": [
+      "oxigraph",
+      "rdf",
+      "sparql",
+      "zotero",
+      "zotero-addon",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://ch-sander.github.io/zotero_rdf_server/",
+    "cloneCommand": "git clone https://github.com/ch-sander/zotero_rdf_server",
+    "lastUpdated": "2026-07-06",
+    "loc": 5978,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "memd-app-me.md",
+    "name": "Me.Md",
+    "description": "AI-guided personal knowledge system. Build a verified knowledge graph of yourself through interview-style sessions with Claude. All data stays local.",
+    "spark": "AI-guided personal knowledge system. Build a verified knowledge graph of yourself through interview-style sessions with Claude. All data stays local.",
+    "githubUrl": "https://github.com/memd-app/me.md",
+    "stars": 14,
+    "license": "MIT",
+    "category": "knowledgegraphs",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/memd-app/me.md",
+    "lastUpdated": "2026-07-06",
+    "loc": 2418,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "micronaut-projects-micronaut-neo4j",
+    "name": "Micronaut Neo4J",
+    "description": "Includes integrations between Micronaut and Neo4j Graph Database",
+    "spark": "Includes integrations between Micronaut and Neo4j Graph Database",
+    "githubUrl": "https://github.com/micronaut-projects/micronaut-neo4j",
+    "stars": 12,
+    "license": "Apache-2.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "java"
+    ],
+    "stack": [
+      "Java"
+    ],
+    "cloneCommand": "git clone https://github.com/micronaut-projects/micronaut-neo4j",
+    "lastUpdated": "2026-07-06",
+    "loc": 6427,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "wizzy15-obsidian-skill",
+    "name": "Obsidian Skill",
+    "description": "📝 Manage and organize Obsidian vaults with CLI tools for notes, tasks, tags, templates, and knowledge graph analysis.",
+    "spark": "📝 Manage and organize Obsidian vaults with CLI tools for notes, tasks, tags, templates, and knowledge graph analysis.",
+    "githubUrl": "https://github.com/wizzy15/obsidian-skill",
+    "stars": 5,
+    "license": "MIT",
+    "category": "knowledgegraphs",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "automation",
+      "bun",
+      "claude-agent"
+    ],
+    "stack": [
+      "typescript"
+    ],
+    "cloneCommand": "git clone https://github.com/wizzy15/obsidian-skill",
+    "lastUpdated": "2026-07-06",
+    "loc": 432,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "bilal0399-learn-agentic-ai",
+    "name": "Learn Agentic Ai",
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.",
+    "spark": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.",
+    "githubUrl": "https://github.com/bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "license": "Unknown",
+    "category": "knowledgegraphs",
+    "tags": [
+      "a2a",
+      "agent",
+      "ai-agents",
+      "ai-systems",
+      "dapr"
+    ],
+    "stack": [
+      "python"
+    ],
+    "cloneCommand": "git clone https://github.com/bilal0399/learn-agentic-ai",
+    "lastUpdated": "2026-07-06",
+    "loc": 463,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "mnemo-mcp-mnemo",
+    "name": "Mnemo",
+    "description": "Give your AI agent a brain that survives across sessions. 56 MCP tools, 14-language knowledge graph, tiered memory with decay, and hybrid search (BM25 + vector + graph). Works with Amazon Q, Cursor, Claude Code, Kiro, Copilot, and 6 more.   Local-first, no infrastructure.",
+    "spark": "Give your AI agent a brain that survives across sessions. 56 MCP tools, 14-language knowledge graph, tiered memory with decay, and hybrid search (BM25 + vector + graph). Works with Amazon Q, Cursor, Claude Code, Kiro, Copilot, and 6 more.   Local-first, no infrastructure.",
+    "githubUrl": "https://github.com/Mnemo-mcp/Mnemo",
+    "stars": 20,
+    "license": "AGPL-3.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://mnemo-mcp.github.io/Mnemo/",
+    "cloneCommand": "git clone https://github.com/Mnemo-mcp/Mnemo",
+    "lastUpdated": "2026-07-06",
+    "loc": 1529,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "bd-mutant7-gitnexus",
+    "name": "Gitnexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "spark": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "githubUrl": "https://github.com/Bd-Mutant7/GitNexus",
+    "stars": 9,
+    "license": "NOASSERTION",
+    "category": "knowledgegraphs",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://gitnexus.vercel.app",
+    "cloneCommand": "git clone https://github.com/Bd-Mutant7/GitNexus",
+    "lastUpdated": "2026-07-06",
+    "loc": 6590,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "datacommonsorg-import",
+    "name": "Import",
+    "description": "Tools and pipelines for importing data into the Data Commons Knowledge Graph.",
+    "spark": "Tools and pipelines for importing data into the Data Commons Knowledge Graph.",
+    "githubUrl": "https://github.com/datacommonsorg/import",
+    "stars": 7,
+    "license": "Apache-2.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/datacommonsorg/import",
+    "lastUpdated": "2026-07-06",
+    "loc": 2742,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "liutod-scream-code",
+    "name": "Scream Code",
+    "description": "中文UI / Local Agent / Unlimited concurrency / Global memory + Vector knowledge graph / Customizable model / Support for Slack, WeChat, etc. / Secure without any remote operations",
+    "spark": "中文UI / Local Agent / Unlimited concurrency / Global memory + Vector knowledge graph / Customizable model / Support for Slack, WeChat, etc. / Secure without any remote operations",
+    "githubUrl": "https://github.com/LIUTod/scream-code",
+    "stars": 118,
+    "license": "MIT",
+    "category": "knowledgegraphs",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/LIUTod/scream-code",
+    "lastUpdated": "2026-07-06",
+    "loc": 2160,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "0xnyk-awesome-agent-cortex",
+    "name": "Awesome Agent Cortex",
+    "description": "The sovereign agent stack — practical scripts, on-chain identity, and knowledge graphs for AI agents that think, remember, and own themselves.",
+    "spark": "The sovereign agent stack — practical scripts, on-chain identity, and knowledge graphs for AI agents that think, remember, and own themselves.",
+    "githubUrl": "https://github.com/0xNyk/awesome-agent-cortex",
+    "stars": 170,
+    "license": "CC0-1.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "cloneCommand": "git clone https://github.com/0xNyk/awesome-agent-cortex",
+    "lastUpdated": "2026-07-06",
+    "loc": 118,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "kraison-vivace-graph",
+    "name": "Vivace Graph",
+    "description": "VivaceGraph. Open source Common Lisp graph database & Prolog implementation. Supersedes http://github.com/kraison/vivace-graph-v2.",
+    "spark": "VivaceGraph. Open source Common Lisp graph database & Prolog implementation. Supersedes http://github.com/kraison/vivace-graph-v2.",
+    "githubUrl": "https://github.com/kraison/vivace-graph",
+    "stars": 189,
+    "license": "NOASSERTION",
+    "category": "knowledgegraphs",
+    "tags": [
+      "common lisp"
+    ],
+    "stack": [
+      "Common Lisp"
+    ],
+    "cloneCommand": "git clone https://github.com/kraison/vivace-graph",
+    "lastUpdated": "2026-07-06",
+    "loc": 1175,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "nicia-ai-typegraph",
+    "name": "Typegraph",
+    "description": "The Knowledge Graph for TypeScript",
+    "spark": "The Knowledge Graph for TypeScript",
+    "githubUrl": "https://github.com/nicia-ai/typegraph",
+    "stars": 57,
+    "license": "MIT",
+    "category": "knowledgegraphs",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://typegraph.dev",
+    "cloneCommand": "git clone https://github.com/nicia-ai/typegraph",
+    "lastUpdated": "2026-07-06",
+    "loc": 3730,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
+    "id": "jawciu-synapse",
+    "name": "Synapse",
+    "description": "Journaling that remembers and reasons in context.  Synapse is a memory-first reflection agent built for the London LangChain x SurrealDB Hackathon. It turns unstructured reflections into a persistent knowledge graph, then answers questions from that evolving graph context.",
+    "spark": "Journaling that remembers and reasons in context.  Synapse is a memory-first reflection agent built for the London LangChain x SurrealDB Hackathon. It turns unstructured reflections into a persistent knowledge graph, then answers questions from that evolving graph context.",
+    "githubUrl": "https://github.com/jawciu/synapse",
+    "stars": 11,
+    "license": "Unknown",
+    "category": "knowledgegraphs",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://synapse-frontend-vdmo.onrender.com",
+    "cloneCommand": "git clone https://github.com/jawciu/synapse",
+    "lastUpdated": "2026-07-06",
+    "loc": 5369,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 34
+    }
+  },
+  {
     "id": "webhook-tester",
     "name": "Webhook Tester",
     "description": "Powerful tool for testing WebHooks and more. Self-hosted webhook debugging with a live-updating UI to inspect requests.",
@@ -14812,6 +15560,84 @@
     }
   },
   {
+    "id": "zazuko-trifid",
+    "name": "Trifid",
+    "description": "Lightweight Linked Data Server and Proxy",
+    "spark": "Lightweight Linked Data Server and Proxy",
+    "githubUrl": "https://github.com/zazuko/trifid",
+    "stars": 101,
+    "license": "Apache-2.0",
+    "category": "ontology",
+    "tags": [
+      "linkeddata",
+      "nodejs",
+      "rdf",
+      "sparql",
+      "trifid",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/zazuko/trifid",
+    "lastUpdated": "2026-07-06",
+    "loc": 7168,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 33
+    }
+  },
+  {
+    "id": "ldelements-lde",
+    "name": "Lde",
+    "description": "Coherent, composable building blocks for your Linked Data apps and pipelines, powering the full Linked Data lifecycle  🧩 ",
+    "spark": "Coherent, composable building blocks for your Linked Data apps and pipelines, powering the full Linked Data lifecycle  🧩 ",
+    "githubUrl": "https://github.com/ldelements/lde",
+    "stars": 6,
+    "license": "MIT",
+    "category": "ontology",
+    "tags": [
+      "dcat",
+      "linked-data",
+      "rdf",
+      "shacl",
+      "transformation",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/ldelements/lde",
+    "lastUpdated": "2026-07-06",
+    "loc": 7643,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 33
+    }
+  },
+  {
     "id": "nevermore23274-aethertune",
     "name": "Aethertune",
     "description": "A terminal-based internet radio player with real-time audio visualization, built in Rust.",
@@ -15386,6 +16212,40 @@
     "cloneCommand": "git clone https://github.com/farisxiong/HS-STaR",
     "lastUpdated": "2025-11-03",
     "loc": 9095,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 32
+    }
+  },
+  {
+    "id": "long-safe-accont-4567-uvwxyz-9876-xiaoda-agent",
+    "name": "Xiaoda Agent",
+    "description": "Nahida AI Agent - A QQ bot powered by MiMo model with knowledge graph, memory system, and tool calling capabilities",
+    "spark": "Nahida AI Agent - A QQ bot powered by MiMo model with knowledge graph, memory system, and tool calling capabilities",
+    "githubUrl": "https://github.com/long-safe-accont-4567-uvwxyz-9876/xiaoda-agent",
+    "stars": 11,
+    "license": "Unknown",
+    "category": "knowledgegraphs",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/long-safe-accont-4567-uvwxyz-9876/xiaoda-agent",
+    "lastUpdated": "2026-07-06",
+    "loc": 9564,
     "authorCount": 1,
     "dormant": false,
     "singleFile": false,
@@ -25288,6 +26148,906 @@
     }
   },
   {
+    "id": "mdesalvo-owlsharp",
+    "name": "Owlsharp",
+    "description": "Lightweight and friendly .NET library for realizing modern Semantic Web applications (OWL2, SWRL)",
+    "spark": "Lightweight and friendly .NET library for realizing modern Semantic Web applications (OWL2, SWRL)",
+    "githubUrl": "https://github.com/mdesalvo/OWLSharp",
+    "stars": 16,
+    "license": "Apache-2.0",
+    "category": "ontology",
+    "tags": [
+      "inference",
+      "ontology",
+      "owl",
+      "owl2",
+      "owl2-xml",
+      "c#"
+    ],
+    "stack": [
+      "C#"
+    ],
+    "cloneCommand": "git clone https://github.com/mdesalvo/OWLSharp",
+    "lastUpdated": "2026-07-06",
+    "loc": 4770,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "ohdearquant-khive",
+    "name": "Khive",
+    "description": "A knowledge graph your AI agents build, query, and grow. Built for agents that need structure beyond vectors",
+    "spark": "A knowledge graph your AI agents build, query, and grow. Built for agents that need structure beyond vectors",
+    "githubUrl": "https://github.com/ohdearquant/khive",
+    "stars": 17,
+    "license": "Apache-2.0",
+    "category": "ontology",
+    "tags": [
+      "ai-agents",
+      "context-engineering",
+      "embeddings",
+      "harness",
+      "knowledge-graph",
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "demoUrl": "https://www.khive.ai",
+    "cloneCommand": "git clone https://github.com/ohdearquant/khive",
+    "lastUpdated": "2026-07-06",
+    "loc": 6721,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "streamintelligencelab-kolibrie",
+    "name": "Kolibrie",
+    "description": "A SPARQL database, RDF Stream Processing Engine and RDF toolkit, supporting Neurosymbolic Stream Reasoning",
+    "spark": "A SPARQL database, RDF Stream Processing Engine and RDF toolkit, supporting Neurosymbolic Stream Reasoning",
+    "githubUrl": "https://github.com/StreamIntelligenceLab/Kolibrie",
+    "stars": 55,
+    "license": "NOASSERTION",
+    "category": "ontology",
+    "tags": [
+      "data-analysis",
+      "data-science",
+      "database",
+      "database-design",
+      "database-management",
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "demoUrl": "https://streamintelligencelab.github.io/Kolibrie-website/",
+    "cloneCommand": "git clone https://github.com/StreamIntelligenceLab/Kolibrie",
+    "lastUpdated": "2026-07-06",
+    "loc": 2576,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "hadden-industries-universal-ontology",
+    "name": "Universal Ontology",
+    "description": "Set of concepts and categories, applicable to almost all domains, that shows their properties and the relations between them",
+    "spark": "Set of concepts and categories, applicable to almost all domains, that shows their properties and the relations between them",
+    "githubUrl": "https://github.com/Hadden-Industries/universal-ontology",
+    "stars": 9,
+    "license": "MIT",
+    "category": "ontology",
+    "tags": [
+      "epistemology",
+      "linked-data",
+      "ontology",
+      "ontology-repository",
+      "open-source",
+      "xslt"
+    ],
+    "stack": [
+      "XSLT"
+    ],
+    "cloneCommand": "git clone https://github.com/Hadden-Industries/universal-ontology",
+    "lastUpdated": "2026-07-06",
+    "loc": 2604,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "senolisci-mykg",
+    "name": "Mykg",
+    "description": "Knowledge graph extractor: Markdown (or any format) → knowledge graph with RDFS/OWL ontology",
+    "spark": "Knowledge graph extractor: Markdown (or any format) → knowledge graph with RDFS/OWL ontology",
+    "githubUrl": "https://github.com/SenolIsci/mykg",
+    "stars": 43,
+    "license": "MIT",
+    "category": "ontology",
+    "tags": [
+      "ai-agent",
+      "ai-workflow",
+      "ai-workflow-automation",
+      "claude-code",
+      "claude-skills",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/SenolIsci/mykg",
+    "lastUpdated": "2026-07-06",
+    "loc": 5112,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "sciknoworg-ontoaligner",
+    "name": "Ontoaligner",
+    "description": "OntoAligner: A Python Toolkit for Ontology Alignment https://pypi.org/project/OntoAligner/",
+    "spark": "OntoAligner: A Python Toolkit for Ontology Alignment https://pypi.org/project/OntoAligner/",
+    "githubUrl": "https://github.com/sciknoworg/OntoAligner",
+    "stars": 80,
+    "license": "Apache-2.0",
+    "category": "ontology",
+    "tags": [
+      "large-language-models",
+      "ontology",
+      "ontology-alignment",
+      "ontology-engineering",
+      "ontology-matching",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://ontoaligner.readthedocs.io",
+    "cloneCommand": "git clone https://github.com/sciknoworg/OntoAligner",
+    "lastUpdated": "2026-07-06",
+    "loc": 3938,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "isaitb-shacl-validator",
+    "name": "Shacl Validator",
+    "description": "Web and command-line application supported by the European Commission’s DIGIT for the validation of RDF data.",
+    "spark": "Web and command-line application supported by the European Commission’s DIGIT for the validation of RDF data.",
+    "githubUrl": "https://github.com/ISAITB/shacl-validator",
+    "stars": 28,
+    "license": "EUPL-1.2",
+    "category": "ontology",
+    "tags": [
+      "conformance",
+      "interoperability",
+      "rdf",
+      "shacl",
+      "testing",
+      "java"
+    ],
+    "stack": [
+      "Java"
+    ],
+    "demoUrl": "https://www.itb.ec.europa.eu",
+    "cloneCommand": "git clone https://github.com/ISAITB/shacl-validator",
+    "lastUpdated": "2026-07-06",
+    "loc": 1243,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "softwareunderstanding-somef-vider",
+    "name": "Somef Vider",
+    "description": "Web application for displaying the contents automatically retrieved from a code repository by applying the Software Metadata Extraction Framework (SOMEF)",
+    "spark": "Web application for displaying the contents automatically retrieved from a code repository by applying the Software Metadata Extraction Framework (SOMEF)",
+    "githubUrl": "https://github.com/SoftwareUnderstanding/SOMEF-Vider",
+    "stars": 9,
+    "license": "Apache-2.0",
+    "category": "ontology",
+    "tags": [
+      "codemeta",
+      "demo",
+      "knowledge-graphs",
+      "metadata",
+      "open-science",
+      "vue"
+    ],
+    "stack": [
+      "Vue"
+    ],
+    "cloneCommand": "git clone https://github.com/SoftwareUnderstanding/SOMEF-Vider",
+    "lastUpdated": "2026-07-06",
+    "loc": 4830,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "scaseco-rdfprocessingtoolkit",
+    "name": "Rdfprocessingtoolkit",
+    "description": "Command line interface based RDF processing toolkit to run sequences of SPARQL statements ad-hoc on RDF datasets, streams of bindings and streams of named graphs with support for processing JSON, CSV and XML using function extensions. Ships with an integrated SPARQL and GraphQL server.",
+    "spark": "Command line interface based RDF processing toolkit to run sequences of SPARQL statements ad-hoc on RDF datasets, streams of bindings and streams of named graphs with support for processing JSON, CSV and XML using function extensions. Ships with an integrated SPARQL and GraphQL server.",
+    "githubUrl": "https://github.com/Scaseco/RdfProcessingToolkit",
+    "stars": 49,
+    "license": "NOASSERTION",
+    "category": "ontology",
+    "tags": [
+      "debian-package",
+      "docker-image",
+      "jena",
+      "named-graphs",
+      "rdf",
+      "java"
+    ],
+    "stack": [
+      "Java"
+    ],
+    "demoUrl": "https://scaseco.github.io/RdfProcessingToolkit/",
+    "cloneCommand": "git clone https://github.com/Scaseco/RdfProcessingToolkit",
+    "lastUpdated": "2026-07-06",
+    "loc": 2267,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "jhjhong-biolink-agent",
+    "name": "Biolink Agent",
+    "description": "Multi-agent AI platform for biomedical & genomic research — query PubMed, ClinVar, Ensembl, UniProt and 10+ scientific databases with natural language.",
+    "spark": "Multi-agent AI platform for biomedical & genomic research — query PubMed, ClinVar, Ensembl, UniProt and 10+ scientific databases with natural language.",
+    "githubUrl": "https://github.com/jhjhong/biolink-agent",
+    "stars": 13,
+    "license": "Apache-2.0",
+    "category": "ontology",
+    "tags": [
+      "bioinformatics",
+      "clinvar",
+      "ensemble",
+      "genomics",
+      "multi-agent",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://biolink-agent.vercel.app/",
+    "cloneCommand": "git clone https://github.com/jhjhong/biolink-agent",
+    "lastUpdated": "2026-07-06",
+    "loc": 122,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": true,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 3,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "rubensworks-graphql-to-sparql.js",
+    "name": "Graphql To Sparql.Js",
+    "description": "Converts GraphQL queries to SPARQL queries",
+    "spark": "Converts GraphQL queries to SPARQL queries",
+    "githubUrl": "https://github.com/rubensworks/graphql-to-sparql.js",
+    "stars": 117,
+    "license": "MIT",
+    "category": "ontology",
+    "tags": [
+      "graphql",
+      "hacktoberfest",
+      "linkeddata",
+      "querying",
+      "rdf",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "cloneCommand": "git clone https://github.com/rubensworks/graphql-to-sparql.js",
+    "lastUpdated": "2026-07-06",
+    "loc": 665,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "jojoprison-mnemo",
+    "name": "Mnemo",
+    "description": "Persistent memory layer for Claude Code — Obsidian vault health, connection discovery, brain dump, session notes, email bridge. Five lightweight skills, CLI-first, any taxonomy.",
+    "spark": "Persistent memory layer for Claude Code — Obsidian vault health, connection discovery, brain dump, session notes, email bridge. Five lightweight skills, CLI-first, any taxonomy.",
+    "githubUrl": "https://github.com/jojoprison/mnemo",
+    "stars": 6,
+    "license": "MIT",
+    "category": "ontology",
+    "tags": [
+      "ai-agent",
+      "ai-memory",
+      "brain-dump",
+      "claude",
+      "claude-code",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/jojoprison/mnemo",
+    "lastUpdated": "2026-07-06",
+    "loc": 926,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "chang-xinhai-awesome-umi",
+    "name": "Awesome Umi",
+    "description": "Curated papers, datasets, policies, and taxonomy for the Universal Manipulation Interface (UMI) ecosystem",
+    "spark": "Curated papers, datasets, policies, and taxonomy for the Universal Manipulation Interface (UMI) ecosystem",
+    "githubUrl": "https://github.com/chang-xinhai/Awesome-UMI",
+    "stars": 13,
+    "license": "MIT",
+    "category": "ontology",
+    "tags": [
+      "awesome",
+      "awesome-list",
+      "bimanual-manipulation",
+      "datasets",
+      "dexterous-manipulation"
+    ],
+    "stack": [],
+    "demoUrl": "https://github.com/chang-xinhai/Awesome-UMI",
+    "cloneCommand": "git clone https://github.com/chang-xinhai/Awesome-UMI",
+    "lastUpdated": "2026-07-06",
+    "loc": 1166,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "atomgraph-core",
+    "name": "Core",
+    "description": "Generic Linked Data framework for SPARQL tripestore backends. Apache license. ",
+    "spark": "Generic Linked Data framework for SPARQL tripestore backends. Apache license. ",
+    "githubUrl": "https://github.com/AtomGraph/Core",
+    "stars": 41,
+    "license": "Apache-2.0",
+    "category": "ontology",
+    "tags": [
+      "apache-jena",
+      "framework",
+      "generic",
+      "jax-rs",
+      "linked-data",
+      "java"
+    ],
+    "stack": [
+      "Java"
+    ],
+    "demoUrl": "https://atomgraph.com",
+    "cloneCommand": "git clone https://github.com/AtomGraph/Core",
+    "lastUpdated": "2026-07-06",
+    "loc": 2656,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "iammm0-advanced-rag",
+    "name": "Advanced Rag",
+    "description": "advanced-rag 是一个\"纯粹的开源高级RAG系统\"，基于 FastAPI + Next.js 构建，仅保留 AI 助手对话（含深度研究/深度思考） 与 知识库检索/入库 两大能力，所有 API 匿名访问。",
+    "spark": "advanced-rag 是一个\"纯粹的开源高级RAG系统\"，基于 FastAPI + Next.js 构建，仅保留 AI 助手对话（含深度研究/深度思考） 与 知识库检索/入库 两大能力，所有 API 匿名访问。",
+    "githubUrl": "https://github.com/iammm0/advanced-rag",
+    "stars": 34,
+    "license": "MIT",
+    "category": "knowledgegraphs",
+    "tags": [
+      "fastapi",
+      "langchain",
+      "mongodb",
+      "neo4j",
+      "nextjs16",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/iammm0/advanced-rag",
+    "lastUpdated": "2026-07-06",
+    "loc": 5918,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "caura-ai-caura-memclaw",
+    "name": "Caura Memclaw",
+    "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+    "spark": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+    "githubUrl": "https://github.com/caura-ai/caura-memclaw",
+    "stars": 268,
+    "license": "Apache-2.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "agent-memory",
+      "agentic-ai",
+      "ai-agents",
+      "ai-infrastructure",
+      "claude",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://memclaw.net",
+    "cloneCommand": "git clone https://github.com/caura-ai/caura-memclaw",
+    "lastUpdated": "2026-07-06",
+    "loc": 6056,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "lemyst-wikibaseintegrator",
+    "name": "Wikibaseintegrator",
+    "description": "A Python module to manipulate data on a Wikibase instance (like Wikidata) through the MediaWiki Wikibase API and the Wikibase SPARQL endpoint.",
+    "spark": "A Python module to manipulate data on a Wikibase instance (like Wikidata) through the MediaWiki Wikibase API and the Wikibase SPARQL endpoint.",
+    "githubUrl": "https://github.com/LeMyst/WikibaseIntegrator",
+    "stars": 92,
+    "license": "MIT",
+    "category": "knowledgegraphs",
+    "tags": [
+      "mediawiki",
+      "sparql",
+      "wikibase",
+      "wikidata",
+      "wikidata-api",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/LeMyst/WikibaseIntegrator",
+    "lastUpdated": "2026-07-06",
+    "loc": 2595,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "semanticmediawiki-knowledgegraph",
+    "name": "Knowledgegraph",
+    "description": "Visualize the knowledge graph within Semantic MediaWiki",
+    "spark": "Visualize the knowledge graph within Semantic MediaWiki",
+    "githubUrl": "https://github.com/SemanticMediaWiki/KnowledgeGraph",
+    "stars": 5,
+    "license": "AGPL-3.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "knowledge-graph",
+      "mediawiki",
+      "mediawiki-extension",
+      "semantic",
+      "semantic-mediawiki",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "https://www.mediawiki.org/wiki/Extension:KnowledgeGraph",
+    "cloneCommand": "git clone https://github.com/SemanticMediaWiki/KnowledgeGraph",
+    "lastUpdated": "2026-07-06",
+    "loc": 1025,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "opencitations-oc_graphenricher",
+    "name": "Oc Graphenricher",
+    "description": "A tool to enrich any OCDM compliant Knowledge Graph, finding new identifiers and deduplicating entities. ",
+    "spark": "A tool to enrich any OCDM compliant Knowledge Graph, finding new identifiers and deduplicating entities. ",
+    "githubUrl": "https://github.com/opencitations/oc_graphenricher",
+    "stars": 10,
+    "license": "ISC",
+    "category": "knowledgegraphs",
+    "tags": [
+      "deduplication",
+      "enrichment",
+      "instance-matching",
+      "knowledge-graph",
+      "opencitations",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://opencitations.github.io/oc_graphenricher/",
+    "cloneCommand": "git clone https://github.com/opencitations/oc_graphenricher",
+    "lastUpdated": "2026-07-06",
+    "loc": 558,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "arthursrz-knowledge_glossary",
+    "name": "Knowledge Glossary",
+    "description": "Personal Knowledge Graph about Data ",
+    "spark": "Personal Knowledge Graph about Data ",
+    "githubUrl": "https://github.com/ArthurSrz/knowledge_glossary",
+    "stars": 7,
+    "license": "Unknown",
+    "category": "knowledgegraphs",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/ArthurSrz/knowledge_glossary",
+    "lastUpdated": "2026-07-06",
+    "loc": 12945,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 6,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "rish-1997-wsl-assistant",
+    "name": "Wsl Assistant",
+    "description": "A fully auto configured, self-hosted local AI & database stack on Debian WSL2.",
+    "spark": "A fully auto configured, self-hosted local AI & database stack on Debian WSL2.",
+    "githubUrl": "https://github.com/rish-1997/wsl-assistant",
+    "stars": 5,
+    "license": "MIT",
+    "category": "knowledgegraphs",
+    "tags": [
+      "ai",
+      "debian",
+      "edge-computing",
+      "llamacpp",
+      "localization",
+      "shell"
+    ],
+    "stack": [
+      "Shell"
+    ],
+    "cloneCommand": "git clone https://github.com/rish-1997/wsl-assistant",
+    "lastUpdated": "2026-07-06",
+    "loc": 558,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "avnlp-agentic-med-diag",
+    "name": "Agentic Med Diag",
+    "description": "Agentic Graph RAG for Medical diagnosis and Clinical QA. Combines LangGraph-orchestrated multi-hop reasoning with parallel graph, vector, community, and text-to-Cypher retrieval with an agentic plan–research–verify loop for evidence-grounded answers on MedQA, MedXpertQA, MedCaseReasoning and MMLU-Pro. ",
+    "spark": "Agentic Graph RAG for Medical diagnosis and Clinical QA. Combines LangGraph-orchestrated multi-hop reasoning with parallel graph, vector, community, and text-to-Cypher retrieval with an agentic plan–research–verify loop for evidence-grounded answers on MedQA, MedXpertQA, MedCaseReasoning and MMLU-Pro. ",
+    "githubUrl": "https://github.com/avnlp/agentic-med-diag",
+    "stars": 6,
+    "license": "Apache-2.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "agents",
+      "diagnosis",
+      "graphrag",
+      "knowledge-graph",
+      "medical",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/avnlp/agentic-med-diag",
+    "lastUpdated": "2026-07-06",
+    "loc": 1940,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
+    "id": "jaylfc-taosmd",
+    "name": "Taosmd",
+    "description": "Local-first AI memory — runs offline on any machine with 8 GB+ RAM (SBC, mini PC, laptop, workstation). Zero-loss verbatim archive, knowledge graph, hybrid retrieval. Framework-agnostic, no cloud.",
+    "spark": "Local-first AI memory — runs offline on any machine with 8 GB+ RAM (SBC, mini PC, laptop, workstation). Zero-loss verbatim archive, knowledge graph, hybrid retrieval. Framework-agnostic, no cloud.",
+    "githubUrl": "https://github.com/jaylfc/taosmd",
+    "stars": 64,
+    "license": "NOASSERTION",
+    "category": "knowledgegraphs",
+    "tags": [
+      "ai-memory",
+      "arm",
+      "edge-ai",
+      "embedding",
+      "framework-agnostic",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/jaylfc/taosmd",
+    "lastUpdated": "2026-07-06",
+    "loc": 6019,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 31
+    }
+  },
+  {
     "id": "noisefactorllc-noisemaker",
     "name": "Noisemaker",
     "description": "A collection of creative coding effects for Python or JavaScript",
@@ -27638,6 +29398,451 @@
     }
   },
   {
+    "id": "big-map-battinfo",
+    "name": "Battinfo",
+    "description": "A Battery Interface Ontology based on EMMO",
+    "spark": "A Battery Interface Ontology based on EMMO",
+    "githubUrl": "https://github.com/BIG-MAP/BattINFO",
+    "stars": 56,
+    "license": "Apache-2.0",
+    "category": "ontology",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://big-map.github.io/BattINFO/index.html",
+    "cloneCommand": "git clone https://github.com/BIG-MAP/BattINFO",
+    "lastUpdated": "2026-07-06",
+    "loc": 13646,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 5,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "islandora-interest-groups-islandora-metadata-committee",
+    "name": "Islandora Metadata Committee",
+    "description": "We investigate and provide metadata solutions that help improve metadata creation, maintenance and enhancement in Islandora.",
+    "spark": "We investigate and provide metadata solutions that help improve metadata creation, maintenance and enhancement in Islandora.",
+    "githubUrl": "https://github.com/islandora-interest-groups/Islandora-Metadata-Committee",
+    "stars": 37,
+    "license": "Unknown",
+    "category": "ontology",
+    "tags": [
+      "islandora",
+      "islandora-metadata",
+      "linked-data",
+      "metadata",
+      "mods"
+    ],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/islandora-interest-groups/Islandora-Metadata-Committee",
+    "lastUpdated": "2026-07-06",
+    "loc": 7009,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "yassir-aykhlf-dsa-taxonomies",
+    "name": "Dsa Taxonomies",
+    "description": "DSA Pattern Taxonomy",
+    "spark": "DSA Pattern Taxonomy",
+    "githubUrl": "https://github.com/Yassir-aykhlf/DSA-Taxonomies",
+    "stars": 161,
+    "license": "Unknown",
+    "category": "ontology",
+    "tags": [
+      "algorithms",
+      "competitive-programming",
+      "computer-science",
+      "data-structures",
+      "leetcode"
+    ],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/Yassir-aykhlf/DSA-Taxonomies",
+    "lastUpdated": "2026-07-06",
+    "loc": 533,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "trickle-labs-pg-ripple",
+    "name": "Pg Ripple",
+    "description": "A high-performance RDF triple store implemented as a native PostgreSQL 18+ extension.",
+    "spark": "A high-performance RDF triple store implemented as a native PostgreSQL 18+ extension.",
+    "githubUrl": "https://github.com/trickle-labs/pg-ripple",
+    "stars": 7,
+    "license": "Apache-2.0",
+    "category": "ontology",
+    "tags": [
+      "knowledge-graph",
+      "postgresql",
+      "rdf",
+      "semantic-web",
+      "sparql",
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "demoUrl": "https://trickle-labs.github.io/pg-ripple/",
+    "cloneCommand": "git clone https://github.com/trickle-labs/pg-ripple",
+    "lastUpdated": "2026-07-06",
+    "loc": 8412,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "jrollin-cartog",
+    "name": "Cartog",
+    "description": "Pre-indexed code knowledge graph via treesitter, enchanced query with RAG, MCP server, private and local storage. Agent ready.",
+    "spark": "Pre-indexed code knowledge graph via treesitter, enchanced query with RAG, MCP server, private and local storage. Agent ready.",
+    "githubUrl": "https://github.com/jrollin/cartog",
+    "stars": 14,
+    "license": "MIT",
+    "category": "knowledgegraphs",
+    "tags": [
+      "claude",
+      "cli",
+      "lsp",
+      "lsp-server",
+      "mcp",
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "demoUrl": "https://www.cartog.dev",
+    "cloneCommand": "git clone https://github.com/jrollin/cartog",
+    "lastUpdated": "2026-07-06",
+    "loc": 7912,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "falkordb-falkordb-rs-next-gen",
+    "name": "Falkordb Rs Next Gen",
+    "description": "The next-generation, high-performance FalkorDB engine rewritten in Rust. A lightning-fast Graph Database powered by GraphBLAS sparse matrix algebra, purpose-built for Knowledge Graphs and GraphRAG.",
+    "spark": "The next-generation, high-performance FalkorDB engine rewritten in Rust. A lightning-fast Graph Database powered by GraphBLAS sparse matrix algebra, purpose-built for Knowledge Graphs and GraphRAG.",
+    "githubUrl": "https://github.com/FalkorDB/falkordb-rs-next-gen",
+    "stars": 26,
+    "license": "NOASSERTION",
+    "category": "knowledgegraphs",
+    "tags": [
+      "database",
+      "graph-database",
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "demoUrl": "https://www.falkordb.com",
+    "cloneCommand": "git clone https://github.com/FalkorDB/falkordb-rs-next-gen",
+    "lastUpdated": "2026-07-06",
+    "loc": 14334,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 5,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "neo4j-neo4j-kafka-connector",
+    "name": "Neo4J Kafka Connector",
+    "description": "Neo4j Kafka Connector",
+    "spark": "Neo4j Kafka Connector",
+    "githubUrl": "https://github.com/neo4j/neo4j-kafka-connector",
+    "stars": 16,
+    "license": "Apache-2.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "kotlin"
+    ],
+    "stack": [
+      "Kotlin"
+    ],
+    "cloneCommand": "git clone https://github.com/neo4j/neo4j-kafka-connector",
+    "lastUpdated": "2026-07-06",
+    "loc": 5032,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "khteh-rag-agent",
+    "name": "Rag Agent",
+    "description": "Python LLM-RAG deep agent using LangChain, LangGraph and LangSmith built on Quart web microframework and served using Hypercorn ASGI and WSGI web server.",
+    "spark": "Python LLM-RAG deep agent using LangChain, LangGraph and LangSmith built on Quart web microframework and served using Hypercorn ASGI and WSGI web server.",
+    "githubUrl": "https://github.com/khteh/rag-agent",
+    "stars": 8,
+    "license": "Unknown",
+    "category": "knowledgegraphs",
+    "tags": [
+      "asgi-server",
+      "http3-server",
+      "hypercorn",
+      "langchain",
+      "langgraph",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/khteh/rag-agent",
+    "lastUpdated": "2026-07-06",
+    "loc": 8062,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "ad-freiburg-qlever-petrimaps",
+    "name": "Qlever Petrimaps",
+    "description": "Interactive visualization of SPARQL query results with geospatial information on a map, either as individual objects or as a heatmap.",
+    "spark": "Interactive visualization of SPARQL query results with geospatial information on a map, either as individual objects or as a heatmap.",
+    "githubUrl": "https://github.com/ad-freiburg/qlever-petrimaps",
+    "stars": 21,
+    "license": "Apache-2.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "c++"
+    ],
+    "stack": [
+      "C++"
+    ],
+    "cloneCommand": "git clone https://github.com/ad-freiburg/qlever-petrimaps",
+    "lastUpdated": "2026-07-06",
+    "loc": 13041,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 5,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "rhanka-graphify",
+    "name": "Graphify",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+    "spark": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+    "githubUrl": "https://github.com/rhanka/graphify",
+    "stars": 7,
+    "license": "MIT",
+    "category": "knowledgegraphs",
+    "tags": [
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://safishamsi.github.io/penpax.ai",
+    "cloneCommand": "git clone https://github.com/rhanka/graphify",
+    "lastUpdated": "2026-07-06",
+    "loc": 13577,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 5,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "enola-labs-enola",
+    "name": "Enola",
+    "description": "enola - MCP Architectural Snapshot Server and Knowledge Graph",
+    "spark": "enola - MCP Architectural Snapshot Server and Knowledge Graph",
+    "githubUrl": "https://github.com/enola-labs/enola",
+    "stars": 66,
+    "license": "Apache-2.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "ai-tools",
+      "architecture",
+      "code-analysis",
+      "dependency-graph",
+      "golang",
+      "c"
+    ],
+    "stack": [
+      "C"
+    ],
+    "demoUrl": "https://enola.tech",
+    "cloneCommand": "git clone https://github.com/enola-labs/enola",
+    "lastUpdated": "2026-07-06",
+    "loc": 8588,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
+    "id": "etanhey-brainlayer",
+    "name": "Brainlayer",
+    "description": "Persistent memory MCP for AI agents — SQLite, knowledge graph, 12 tools with ToolAnnotations",
+    "spark": "Persistent memory MCP for AI agents — SQLite, knowledge graph, 12 tools with ToolAnnotations",
+    "githubUrl": "https://github.com/EtanHey/brainlayer",
+    "stars": 8,
+    "license": "Apache-2.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "ai-agents",
+      "ai-memory",
+      "claude-code",
+      "knowledge-graph",
+      "llm",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/EtanHey/brainlayer",
+    "lastUpdated": "2026-07-06",
+    "loc": 7094,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 8,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 30
+    }
+  },
+  {
     "id": "jsoncrack",
     "name": "JSON Crack",
     "description": "Innovative and open-source visualization application that transforms various data formats such as JSON, YAML, XML and CSV into interactive graphs.",
@@ -29041,6 +31246,86 @@
     "cloneCommand": "git clone https://github.com/janbaykara/zotero-syllabus",
     "lastUpdated": "2026-07-05",
     "loc": 9550,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 29
+    }
+  },
+  {
+    "id": "laminlabs-lamindb",
+    "name": "Lamindb",
+    "description": "Open-source data framework for biology. Query, trace & validate with a lineage-native lakehouse that supports bio-formats, registries & ontologies. 🍊YC S22",
+    "spark": "Open-source data framework for biology. Query, trace & validate with a lineage-native lakehouse that supports bio-formats, registries & ontologies. 🍊YC S22",
+    "githubUrl": "https://github.com/laminlabs/lamindb",
+    "stars": 273,
+    "license": "Apache-2.0",
+    "category": "ontology",
+    "tags": [
+      "comp-bio-ops",
+      "context-engineering",
+      "data-lakehouse",
+      "data-lineage",
+      "data-versioning",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://docs.lamin.ai",
+    "cloneCommand": "git clone https://github.com/laminlabs/lamindb",
+    "lastUpdated": "2026-07-06",
+    "loc": 9238,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 7,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 29
+    }
+  },
+  {
+    "id": "rapiercraftstudios-forgedock",
+    "name": "Forgedock",
+    "description": "GitHub as a knowledge graph for AI agents. Autonomous dev pipeline for Claude Code - investigate, build, review, merge. Issue in, PR out.",
+    "spark": "GitHub as a knowledge graph for AI agents. Autonomous dev pipeline for Claude Code - investigate, build, review, merge. Issue in, PR out.",
+    "githubUrl": "https://github.com/RapierCraftStudios/ForgeDock",
+    "stars": 100,
+    "license": "AGPL-3.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-development",
+      "ai-pipeline",
+      "anthropic",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "https://github.com/RapierCraftStudios/ForgeDock",
+    "cloneCommand": "git clone https://github.com/RapierCraftStudios/ForgeDock",
+    "lastUpdated": "2026-07-06",
+    "loc": 9382,
     "authorCount": 1,
     "dormant": false,
     "singleFile": false,
@@ -34274,6 +36559,509 @@
     }
   },
   {
+    "id": "mondb-dev-x-hunter",
+    "name": "X Hunter",
+    "description": "An autonomous AI agent that reads X continuously, builds a quantified worldview from observation via a dynamic belief ontology, and publishes a live journal to the web. Everything archived on Arweave.",
+    "spark": "An autonomous AI agent that reads X continuously, builds a quantified worldview from observation via a dynamic belief ontology, and publishes a live journal to the web. Everything archived on Arweave.",
+    "githubUrl": "https://github.com/mondb-dev/x-hunter",
+    "stars": 5,
+    "license": "Unknown",
+    "category": "ontology",
+    "tags": [
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "demoUrl": "https://www.sebastianhunter.fun/",
+    "cloneCommand": "git clone https://github.com/mondb-dev/x-hunter",
+    "lastUpdated": "2026-07-06",
+    "loc": 310714,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "flybase-drosophila-anatomy-developmental-ontology",
+    "name": "Drosophila Anatomy Developmental Ontology",
+    "description": "The home of the Drosophila anatomy ontology",
+    "spark": "The home of the Drosophila anatomy ontology",
+    "githubUrl": "https://github.com/FlyBase/drosophila-anatomy-developmental-ontology",
+    "stars": 23,
+    "license": "CC-BY-4.0",
+    "category": "ontology",
+    "tags": [
+      "anatomy",
+      "drosophila",
+      "flybase",
+      "obofoundry",
+      "ontology",
+      "jupyter notebook"
+    ],
+    "stack": [
+      "Jupyter Notebook"
+    ],
+    "cloneCommand": "git clone https://github.com/FlyBase/drosophila-anatomy-developmental-ontology",
+    "lastUpdated": "2026-07-06",
+    "loc": 489862,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "digitaltwinconsortium-manufacturingontologies",
+    "name": "Manufacturingontologies",
+    "description": "A reference solution for leveraging manufacturing ontologies.",
+    "spark": "A reference solution for leveraging manufacturing ontologies.",
+    "githubUrl": "https://github.com/digitaltwinconsortium/ManufacturingOntologies",
+    "stars": 238,
+    "license": "NOASSERTION",
+    "category": "ontology",
+    "tags": [
+      "shell"
+    ],
+    "stack": [
+      "Shell"
+    ],
+    "cloneCommand": "git clone https://github.com/digitaltwinconsortium/ManufacturingOntologies",
+    "lastUpdated": "2026-07-06",
+    "loc": 29066,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "netwerk-digitaal-erfgoed-dataset-register",
+    "name": "Dataset Register",
+    "description": "API, crawler and browser components for the NDE Dataset Register",
+    "spark": "API, crawler and browser components for the NDE Dataset Register",
+    "githubUrl": "https://github.com/netwerk-digitaal-erfgoed/dataset-register",
+    "stars": 7,
+    "license": "EUPL-1.2",
+    "category": "ontology",
+    "tags": [
+      "dataset-register",
+      "linked-data",
+      "open-data",
+      "rdf",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://datasetregister.netwerkdigitaalerfgoed.nl",
+    "cloneCommand": "git clone https://github.com/netwerk-digitaal-erfgoed/dataset-register",
+    "lastUpdated": "2026-07-06",
+    "loc": 28806,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "souslesens-souslesensvocables",
+    "name": "Souslesensvocables",
+    "description": "SousLeSensVocables is a set of tools to manage semantic web thesaurii and ontologies (SKOS,OWL,RDF)",
+    "spark": "SousLeSensVocables is a set of tools to manage semantic web thesaurii and ontologies (SKOS,OWL,RDF)",
+    "githubUrl": "https://github.com/souslesens/souslesensVocables",
+    "stars": 45,
+    "license": "MIT",
+    "category": "ontology",
+    "tags": [
+      "hacktoberfest",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://souslesens.github.io/souslesensVocables/",
+    "cloneCommand": "git clone https://github.com/souslesens/souslesensVocables",
+    "lastUpdated": "2026-07-06",
+    "loc": 204853,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "oxfordsemantic-rdfoxworkshop",
+    "name": "Rdfoxworkshop",
+    "description": "A workshop on SPARQL, OWL, and Datalog reasoning with RDFox",
+    "spark": "A workshop on SPARQL, OWL, and Datalog reasoning with RDFox",
+    "githubUrl": "https://github.com/OxfordSemantic/RDFoxWorkshop",
+    "stars": 31,
+    "license": "Unknown",
+    "category": "ontology",
+    "tags": [],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/OxfordSemantic/RDFoxWorkshop",
+    "lastUpdated": "2026-07-06",
+    "loc": 77885,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "humanbehaviourchangeproject-ontologies",
+    "name": "Ontologies",
+    "description": "A repository for the BCIO ontology",
+    "spark": "A repository for the BCIO ontology",
+    "githubUrl": "https://github.com/HumanBehaviourChangeProject/ontologies",
+    "stars": 43,
+    "license": "CC-BY-4.0",
+    "category": "ontology",
+    "tags": [
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/HumanBehaviourChangeProject/ontologies",
+    "lastUpdated": "2026-07-06",
+    "loc": 40492,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "silk-framework-silk",
+    "name": "Silk",
+    "description": "Silk Linked Data Integration Framework",
+    "spark": "Silk Linked Data Integration Framework",
+    "githubUrl": "https://github.com/silk-framework/silk",
+    "stars": 250,
+    "license": "NOASSERTION",
+    "category": "ontology",
+    "tags": [
+      "scala"
+    ],
+    "stack": [
+      "Scala"
+    ],
+    "demoUrl": "http://silkframework.org/",
+    "cloneCommand": "git clone https://github.com/silk-framework/silk",
+    "lastUpdated": "2026-07-06",
+    "loc": 82298,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "pseudoparadox-gensokyoontologics",
+    "name": "Gensokyoontologics",
+    "description": "Touhou-Project × Minecraft 二次创作：幻想存有论 (Gensokyo Ontology)",
+    "spark": "Touhou-Project × Minecraft 二次创作：幻想存有论 (Gensokyo Ontology)",
+    "githubUrl": "https://github.com/Pseudoparadox/GensokyoOntologics",
+    "stars": 21,
+    "license": "NOASSERTION",
+    "category": "ontology",
+    "tags": [
+      "forge",
+      "forge-mod",
+      "gradle",
+      "minecraft",
+      "minecraft-mod",
+      "java"
+    ],
+    "stack": [
+      "Java"
+    ],
+    "cloneCommand": "git clone https://github.com/Pseudoparadox/GensokyoOntologics",
+    "lastUpdated": "2026-07-06",
+    "loc": 68280,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "rdfjs-comunica-browser",
+    "name": "Comunica Browser",
+    "description": "🌍 Comunica engine scripts for Web browsers",
+    "spark": "🌍 Comunica engine scripts for Web browsers",
+    "githubUrl": "https://github.com/rdfjs/comunica-browser",
+    "stars": 16,
+    "license": "NOASSERTION",
+    "category": "ontology",
+    "tags": [
+      "comunica",
+      "linked-data",
+      "query",
+      "rdf",
+      "sparql"
+    ],
+    "stack": [],
+    "cloneCommand": "git clone https://github.com/rdfjs/comunica-browser",
+    "lastUpdated": "2026-07-06",
+    "loc": 476620,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "syndicalt-zaxy",
+    "name": "Zaxy",
+    "description": "Zaxy turns agent work into durable, auditable memory: a hash-chained Eventloom log as the source of truth, an embedded temporal knowledge graph for reasoning (local-first, no sidecar; Neo4j/Postgres optional), cited Memory Checkout for compact context, and MCP tools for  model-facing retrieval, capture, and feedback.",
+    "spark": "Zaxy turns agent work into durable, auditable memory: a hash-chained Eventloom log as the source of truth, an embedded temporal knowledge graph for reasoning (local-first, no sidecar; Neo4j/Postgres optional), cited Memory Checkout for compact context, and MCP tools for  model-facing retrieval, capture, and feedback.",
+    "githubUrl": "https://github.com/syndicalt/zaxy",
+    "stars": 15,
+    "license": "MIT",
+    "category": "knowledgegraphs",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "llm-tools",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "http://docs.zaxy.io/",
+    "cloneCommand": "git clone https://github.com/syndicalt/zaxy",
+    "lastUpdated": "2026-07-06",
+    "loc": 20644,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "gitlabhq-orbit-knowledge-graph",
+    "name": "Orbit Knowledge Graph",
+    "description": "Orbit, aka the GitLab Knowledge Graph, is a project that aims to provide a unified context API for AI systems and human users. This project has both a local Knowledge Graph for your code and a backend service for the entire SDLC.",
+    "spark": "Orbit, aka the GitLab Knowledge Graph, is a project that aims to provide a unified context API for AI systems and human users. This project has both a local Knowledge Graph for your code and a backend service for the entire SDLC.",
+    "githubUrl": "https://github.com/gitlabhq/orbit-knowledge-graph",
+    "stars": 28,
+    "license": "NOASSERTION",
+    "category": "knowledgegraphs",
+    "tags": [
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "cloneCommand": "git clone https://github.com/gitlabhq/orbit-knowledge-graph",
+    "lastUpdated": "2026-07-06",
+    "loc": 24639,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "monoes-monomind",
+    "name": "Monomind",
+    "description": "Autonomous Claude Code orchestration with persistent memory, self-coordinating agent orgs, and a codebase knowledge graph.",
+    "spark": "Autonomous Claude Code orchestration with persistent memory, self-coordinating agent orgs, and a codebase knowledge graph.",
+    "githubUrl": "https://github.com/monoes/monomind",
+    "stars": 8,
+    "license": "MIT",
+    "category": "knowledgegraphs",
+    "tags": [
+      "agent-harness",
+      "agentic-framework",
+      "agentic-os",
+      "orchestration-systems",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://monoes.github.io/monomind/",
+    "cloneCommand": "git clone https://github.com/monoes/monomind",
+    "lastUpdated": "2026-07-06",
+    "loc": 118094,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
+    "id": "markburgess-sstorytime",
+    "name": "Sstorytime",
+    "description": "Semantic Spacetime Story graph database library over postgresql (SSTorytime)",
+    "spark": "Semantic Spacetime Story graph database library over postgresql (SSTorytime)",
+    "githubUrl": "https://github.com/markburgess/SSTorytime",
+    "stars": 155,
+    "license": "Apache-2.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "go"
+    ],
+    "stack": [
+      "Go"
+    ],
+    "cloneCommand": "git clone https://github.com/markburgess/SSTorytime",
+    "lastUpdated": "2026-07-06",
+    "loc": 84704,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 28
+    }
+  },
+  {
     "id": "okerew-larkos",
     "name": "Larkos",
     "description": "This repository shows an alternative neural network structure to modern ones, inspiring from the brain and it's creativity, workings.",
@@ -35021,6 +37809,46 @@
     }
   },
   {
+    "id": "neo4j-contrib-neo4j-streams",
+    "name": "Neo4J Streams",
+    "description": "Neo4j Kafka Connector",
+    "spark": "Neo4j Kafka Connector",
+    "githubUrl": "https://github.com/neo4j-contrib/neo4j-streams",
+    "stars": 180,
+    "license": "Apache-2.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "cdc",
+      "change-data-capture",
+      "graph-database",
+      "hacktoberfest",
+      "kafka",
+      "kotlin"
+    ],
+    "stack": [
+      "Kotlin"
+    ],
+    "demoUrl": "https://neo4j.com/docs/kafka",
+    "cloneCommand": "git clone https://github.com/neo4j-contrib/neo4j-streams",
+    "lastUpdated": "2026-07-06",
+    "loc": 3228,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 9,
+      "scopeClarity": 5,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 27
+    }
+  },
+  {
     "id": "jsoulier-voxel_raytracer",
     "name": "Voxel Raytracer",
     "description": "Simple Voxel Raytracer using SDL3 GPU with compute shaders",
@@ -35605,6 +38433,87 @@
       "singleFileBonus": 0,
       "genericClonePenalty": 0,
       "popularityRamp": 0,
+      "total": 26
+    }
+  },
+  {
+    "id": "xr843-fojin",
+    "name": "Fojin",
+    "description": "Buddhist Digital Text Platform — 10,500+ texts, 613 sources, trilingual cross-canon, AI Q&A (RAG), knowledge graph, full-text search",
+    "spark": "Buddhist Digital Text Platform — 10,500+ texts, 613 sources, trilingual cross-canon, AI Q&A (RAG), knowledge graph, full-text search",
+    "githubUrl": "https://github.com/xr843/fojin",
+    "stars": 321,
+    "license": "Apache-2.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "ai",
+      "buddhism",
+      "buddhist-studies",
+      "chinese-classics",
+      "digital-humanities",
+      "python"
+    ],
+    "stack": [
+      "Python",
+      "react"
+    ],
+    "demoUrl": "https://fojin.app",
+    "cloneCommand": "git clone https://github.com/xr843/fojin",
+    "lastUpdated": "2026-07-06",
+    "loc": 15816,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 4,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -0.5,
+      "total": 26
+    }
+  },
+  {
+    "id": "catlog22-maestro-flow",
+    "name": "Maestro Flow",
+    "description": "Intent-driven workflow orchestration for multi-agent AI development — adaptive lifecycle engine, self-reinforcing knowledge graph, and visual dashboard for Claude Code, Gemini, Codex & more",
+    "spark": "Intent-driven workflow orchestration for multi-agent AI development — adaptive lifecycle engine, self-reinforcing knowledge graph, and visual dashboard for Claude Code, Gemini, Codex & more",
+    "githubUrl": "https://github.com/catlog22/maestro-flow",
+    "stars": 442,
+    "license": "Unknown",
+    "category": "knowledgegraphs",
+    "tags": [
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "gemini",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://catlog22.github.io/maestro-flow/",
+    "cloneCommand": "git clone https://github.com/catlog22/maestro-flow",
+    "lastUpdated": "2026-07-06",
+    "loc": 14808,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 5,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -1,
       "total": 26
     }
   },
@@ -43218,6 +46127,802 @@
     }
   },
   {
+    "id": "kuhumcst-dannet",
+    "name": "Dannet",
+    "description": "The Danish WordNet as an RDF graph.",
+    "spark": "The Danish WordNet as an RDF graph.",
+    "githubUrl": "https://github.com/kuhumcst/DanNet",
+    "stars": 29,
+    "license": "MIT",
+    "category": "ontology",
+    "tags": [
+      "apache-jena",
+      "danish",
+      "graph",
+      "jena",
+      "knowledge-graph",
+      "clojure"
+    ],
+    "stack": [
+      "Clojure"
+    ],
+    "demoUrl": "https://wordnet.dk",
+    "cloneCommand": "git clone https://github.com/kuhumcst/DanNet",
+    "lastUpdated": "2026-07-06",
+    "loc": 31930,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "fabio-rovai-open-ontologies",
+    "name": "Open Ontologies",
+    "description": "AI-native ontology engine: a Rust MCP server with tools for building, validating, querying, and reasoning over RDF/OWL ontologies. In-memory Oxigraph triple store, native OWL2-DL tableaux reasoner, SHACL validation, SPARQL, versioning. Single binary, no JVM.",
+    "spark": "AI-native ontology engine: a Rust MCP server with tools for building, validating, querying, and reasoning over RDF/OWL ontologies. In-memory Oxigraph triple store, native OWL2-DL tableaux reasoner, SHACL validation, SPARQL, versioning. Single binary, no JVM.",
+    "githubUrl": "https://github.com/fabio-rovai/open-ontologies",
+    "stars": 178,
+    "license": "MIT",
+    "category": "ontology",
+    "tags": [
+      "ai-native",
+      "claude",
+      "description-logics",
+      "knowledge-graph",
+      "linked-data",
+      "rust"
+    ],
+    "stack": [
+      "Rust"
+    ],
+    "demoUrl": "https://gov.tesseract.academy/research",
+    "cloneCommand": "git clone https://github.com/fabio-rovai/open-ontologies",
+    "lastUpdated": "2026-07-06",
+    "loc": 144808,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "sparna-git-shacl-play",
+    "name": "Shacl Play",
+    "description": "SHACL validation UI, SHACL documentation generator, UML diagram generator from SHACL, SHACL generator from RDF.",
+    "spark": "SHACL validation UI, SHACL documentation generator, UML diagram generator from SHACL, SHACL generator from RDF.",
+    "githubUrl": "https://github.com/sparna-git/shacl-play",
+    "stars": 55,
+    "license": "LGPL-3.0",
+    "category": "ontology",
+    "tags": [
+      "json-ld-context",
+      "knowledge-graph",
+      "owl",
+      "plantuml",
+      "playground",
+      "java"
+    ],
+    "stack": [
+      "Java"
+    ],
+    "demoUrl": "http://shacl-play.sparna.fr",
+    "cloneCommand": "git clone https://github.com/sparna-git/shacl-play",
+    "lastUpdated": "2026-07-06",
+    "loc": 35412,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "fabio-rovai-tardygrada",
+    "name": "Tardygrada",
+    "description": "Trust infrastructure for AI agents. Know who produced a value, when, and that it hasn't been tampered with. Zero dependencies. Pure C.",
+    "spark": "Trust infrastructure for AI agents. Know who produced a value, when, and that it hasn't been tampered with. Zero dependencies. Pure C.",
+    "githubUrl": "https://github.com/fabio-rovai/tardygrada",
+    "stars": 16,
+    "license": "MIT",
+    "category": "ontology",
+    "tags": [
+      "agent-framework",
+      "ai-agents",
+      "ai-safety",
+      "byzantine-fault-tolerance",
+      "c"
+    ],
+    "stack": [
+      "C"
+    ],
+    "cloneCommand": "git clone https://github.com/fabio-rovai/tardygrada",
+    "lastUpdated": "2026-07-06",
+    "loc": 27756,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "jupyter-naas-abi",
+    "name": "Abi",
+    "description": "AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.",
+    "spark": "AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.",
+    "githubUrl": "https://github.com/jupyter-naas/abi",
+    "stars": 133,
+    "license": "MIT",
+    "category": "ontology",
+    "tags": [
+      "abi",
+      "ai",
+      "aiagentic",
+      "aiagentsframework",
+      "analytics",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://naas.ai",
+    "cloneCommand": "git clone https://github.com/jupyter-naas/abi",
+    "lastUpdated": "2026-07-06",
+    "loc": 101805,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "geneontology-go-ontology",
+    "name": "Go Ontology",
+    "description": "Source ontology files for the Gene Ontology",
+    "spark": "Source ontology files for the Gene Ontology",
+    "githubUrl": "https://github.com/geneontology/go-ontology",
+    "stars": 246,
+    "license": "CC-BY-4.0",
+    "category": "ontology",
+    "tags": [
+      "functional-annotation",
+      "gene-ontology",
+      "geneontology",
+      "go",
+      "obo",
+      "makefile"
+    ],
+    "stack": [
+      "Makefile",
+      "go"
+    ],
+    "demoUrl": "http://geneontology.org/page/download-ontology",
+    "cloneCommand": "git clone https://github.com/geneontology/go-ontology",
+    "lastUpdated": "2026-07-06",
+    "loc": 2245018,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "oaknational-oak-curriculum-ontology",
+    "name": "Oak Curriculum Ontology",
+    "description": "A formal semantic representation of the Oak National Academy Curriculum and its alignment to the National Curriculum for England (2014).",
+    "spark": "A formal semantic representation of the Oak National Academy Curriculum and its alignment to the National Curriculum for England (2014).",
+    "githubUrl": "https://github.com/oaknational/oak-curriculum-ontology",
+    "stars": 13,
+    "license": "NOASSERTION",
+    "category": "ontology",
+    "tags": [
+      "curriculum",
+      "education",
+      "knowledge-graph",
+      "linked-data",
+      "ontology",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://www.thenational.academy",
+    "cloneCommand": "git clone https://github.com/oaknational/oak-curriculum-ontology",
+    "lastUpdated": "2026-07-06",
+    "loc": 36584,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "atomgraph-web-client",
+    "name": "Web Client",
+    "description": "Generic Linked Data browser and UX component framework. Apache license.",
+    "spark": "Generic Linked Data browser and UX component framework. Apache license.",
+    "githubUrl": "https://github.com/AtomGraph/Web-Client",
+    "stars": 122,
+    "license": "Apache-2.0",
+    "category": "ontology",
+    "tags": [
+      "browser",
+      "client",
+      "docker-image",
+      "generic",
+      "knowledge-graph",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "demoUrl": "https://hub.docker.com/r/atomgraph/web-client/",
+    "cloneCommand": "git clone https://github.com/AtomGraph/Web-Client",
+    "lastUpdated": "2026-07-06",
+    "loc": 37272,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "stevereiner-flexible-graphrag",
+    "name": "Flexible Graphrag",
+    "description": "Python, LlamaIndex, LangChain, Docker Compose: 15 Property Graph, 4 RDF , 10 Vector, OpenSearch, Elasticsearch, Alfresco DBs. 13 data sources (9 auto-sync), KG auto-building, Ontologies, LLMs, Docling or LlamaParse doc processing, GraphRAG, RAG only, Hybrid Search, AI Chat. TypeScript React, Vue, Angular frontends, FastAPI REST backend, MCP Server.",
+    "spark": "Python, LlamaIndex, LangChain, Docker Compose: 15 Property Graph, 4 RDF , 10 Vector, OpenSearch, Elasticsearch, Alfresco DBs. 13 data sources (9 auto-sync), KG auto-building, Ontologies, LLMs, Docling or LlamaParse doc processing, GraphRAG, RAG only, Hybrid Search, AI Chat. TypeScript React, Vue, Angular frontends, FastAPI REST backend, MCP Server.",
+    "githubUrl": "https://github.com/stevereiner/flexible-graphrag",
+    "stars": 162,
+    "license": "Apache-2.0",
+    "category": "ontology",
+    "tags": [
+      "ai-agent-memory",
+      "ai-chat",
+      "ai-context-extraction",
+      "ai-context-management",
+      "alfresco",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://stevereiner.github.io/flexible-graphrag/",
+    "cloneCommand": "git clone https://github.com/stevereiner/flexible-graphrag",
+    "lastUpdated": "2026-07-06",
+    "loc": 29326,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "jalmasi-vrspace",
+    "name": "Vrspace",
+    "description": "VRSpace: Multiuser Virtual Reality Engine",
+    "spark": "VRSpace: Multiuser Virtual Reality Engine",
+    "githubUrl": "https://github.com/jalmasi/vrspace",
+    "stars": 189,
+    "license": "Apache-2.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "augmented-reality",
+      "babylonjs",
+      "es6",
+      "java",
+      "metaverse",
+      "javascript"
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "cloneCommand": "git clone https://github.com/jalmasi/vrspace",
+    "lastUpdated": "2026-07-06",
+    "loc": 624077,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "joht-code-graph-analysis-pipeline",
+    "name": "Code Graph Analysis Pipeline",
+    "description": "Fully automated pipeline for static code graph analysis",
+    "spark": "Fully automated pipeline for static code graph analysis",
+    "githubUrl": "https://github.com/JohT/code-graph-analysis-pipeline",
+    "stars": 34,
+    "license": "GPL-3.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "anomaly-detection",
+      "association-rule-mining",
+      "automation",
+      "code-analysis",
+      "code-dependency-analysis",
+      "jupyter notebook"
+    ],
+    "stack": [
+      "Jupyter Notebook"
+    ],
+    "cloneCommand": "git clone https://github.com/JohT/code-graph-analysis-pipeline",
+    "lastUpdated": "2026-07-06",
+    "loc": 1688809,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "yarmoluk-ckg-benchmark",
+    "name": "Ckg Benchmark",
+    "description": "Benchmarking RAG vs GraphRAG vs Compressed Knowledge Graphs on the McCreary Intelligent Textbook Corpus",
+    "spark": "Benchmarking RAG vs GraphRAG vs Compressed Knowledge Graphs on the McCreary Intelligent Textbook Corpus",
+    "githubUrl": "https://github.com/Yarmoluk/ckg-benchmark",
+    "stars": 15,
+    "license": "Unknown",
+    "category": "knowledgegraphs",
+    "tags": [
+      "ai-agents",
+      "benchmark",
+      "context-engineering",
+      "evaluation",
+      "graphrag",
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "cloneCommand": "git clone https://github.com/Yarmoluk/ckg-benchmark",
+    "lastUpdated": "2026-07-06",
+    "loc": 51761,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "nano-step-nano-brain",
+    "name": "Nano Brain",
+    "description": "Persistent memory & code intelligence server for AI coding agents. Deploy on VPS for shared memory across machines. Hybrid search (BM25 + pgvector), knowledge graph, impact analysis. 14 MCP tools. Works with Claude Code, OpenCode, Cursor, and any MCP client.",
+    "spark": "Persistent memory & code intelligence server for AI coding agents. Deploy on VPS for shared memory across machines. Hybrid search (BM25 + pgvector), knowledge graph, impact analysis. 14 MCP tools. Works with Claude Code, OpenCode, Cursor, and any MCP client.",
+    "githubUrl": "https://github.com/nano-step/nano-brain",
+    "stars": 7,
+    "license": "Unknown",
+    "category": "knowledgegraphs",
+    "tags": [
+      "ai-agents",
+      "ai-memory",
+      "claude-code",
+      "golang",
+      "hybrid-search",
+      "go"
+    ],
+    "stack": [
+      "Go"
+    ],
+    "cloneCommand": "git clone https://github.com/nano-step/nano-brain",
+    "lastUpdated": "2026-07-06",
+    "loc": 59791,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "wilson0523-yuxi-know",
+    "name": "Yuxi Know",
+    "description": "🧠 Build intelligent agents using a large model framework for knowledge bases and knowledge graphs with Yuxi-Know.",
+    "spark": "🧠 Build intelligent agents using a large model framework for knowledge bases and knowledge graphs with Yuxi-Know.",
+    "githubUrl": "https://github.com/wilson0523/Yuxi-Know",
+    "stars": 6,
+    "license": "MIT",
+    "category": "knowledgegraphs",
+    "tags": [
+      "ar",
+      "book-series",
+      "cheatsheets",
+      "javascript",
+      "learn-to-code",
+      "python"
+    ],
+    "stack": [
+      "Python",
+      "vue"
+    ],
+    "demoUrl": "https://wilson0523.github.io",
+    "cloneCommand": "git clone https://github.com/wilson0523/Yuxi-Know",
+    "lastUpdated": "2026-07-06",
+    "loc": 32751,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "neo4j-graph-data-science-client",
+    "name": "Graph Data Science Client",
+    "description": "A Python client for the Neo4j Graph Data Science (GDS) library",
+    "spark": "A Python client for the Neo4j Graph Data Science (GDS) library",
+    "githubUrl": "https://github.com/neo4j/graph-data-science-client",
+    "stars": 242,
+    "license": "Apache-2.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "algorithms",
+      "data-science",
+      "graph",
+      "graph-algorithms",
+      "graph-data-science",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://neo4j.com/product/graph-data-science/",
+    "cloneCommand": "git clone https://github.com/neo4j/graph-data-science-client",
+    "lastUpdated": "2026-07-06",
+    "loc": 20162,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "squid-protocol-gitgalaxy",
+    "name": "Gitgalaxy",
+    "description": "An AST-free, LLM-free heuristic knowledge graph engine for deep repository intelligence. Map, secure, and modernize enterprise codebases across 50+ languages at extreme velocity",
+    "spark": "An AST-free, LLM-free heuristic knowledge graph engine for deep repository intelligence. Map, secure, and modernize enterprise codebases across 50+ languages at extreme velocity",
+    "githubUrl": "https://github.com/squid-protocol/gitgalaxy",
+    "stars": 45,
+    "license": "NOASSERTION",
+    "category": "knowledgegraphs",
+    "tags": [
+      "ai-security",
+      "appsec",
+      "auditing",
+      "cli",
+      "cobol",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "demoUrl": "https://squid-protocol.github.io/gitgalaxy/",
+    "cloneCommand": "git clone https://github.com/squid-protocol/gitgalaxy",
+    "lastUpdated": "2026-07-06",
+    "loc": 187815,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "ocelot-social-community-ocelot-social",
+    "name": "Ocelot Social",
+    "description": "Free and open-source social network for active citizenship.",
+    "spark": "Free and open-source social network for active citizenship.",
+    "githubUrl": "https://github.com/Ocelot-Social-Community/Ocelot-Social",
+    "stars": 112,
+    "license": "NOASSERTION",
+    "category": "knowledgegraphs",
+    "tags": [
+      "activitypub",
+      "apollo",
+      "cypress",
+      "docker",
+      "docker-compose",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript",
+      "vue"
+    ],
+    "demoUrl": "https://ocelot.social",
+    "cloneCommand": "git clone https://github.com/Ocelot-Social-Community/Ocelot-Social",
+    "lastUpdated": "2026-07-06",
+    "loc": 105996,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "ttmens-ai-radar-wiki",
+    "name": "Ai Radar Wiki",
+    "description": "🧠 Automated AI Knowledge Base for Product Managers — 4-pillar system with self-evolving knowledge graph. Updates every 4h.",
+    "spark": "🧠 Automated AI Knowledge Base for Product Managers — 4-pillar system with self-evolving knowledge graph. Updates every 4h.",
+    "githubUrl": "https://github.com/ttmens/ai-radar-wiki",
+    "stars": 7,
+    "license": "MIT",
+    "category": "knowledgegraphs",
+    "tags": [
+      "agent-discovery",
+      "ai-agent",
+      "ai-knowledge",
+      "ai-product-management",
+      "ai-radar",
+      "html"
+    ],
+    "stack": [
+      "HTML"
+    ],
+    "demoUrl": "https://ttmens.github.io/ai-radar-wiki/graph.html",
+    "cloneCommand": "git clone https://github.com/ttmens/ai-radar-wiki",
+    "lastUpdated": "2026-07-06",
+    "loc": 34463,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "origintrail-dkg",
+    "name": "Dkg",
+    "description": "OriginTrail Decentralized Knowledge Graph (DKG) is a decentralized knowledge infrastructure for multi-agent AI memory — enabling agents to publish, verify, and query shared knowledge as cryptographically verifiable graph assets across a peer-to-peer network.",
+    "spark": "OriginTrail Decentralized Knowledge Graph (DKG) is a decentralized knowledge infrastructure for multi-agent AI memory — enabling agents to publish, verify, and query shared knowledge as cryptographically verifiable graph assets across a peer-to-peer network.",
+    "githubUrl": "https://github.com/OriginTrail/dkg",
+    "stars": 167,
+    "license": "Apache-2.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "ai-memory",
+      "decentralized",
+      "dkg",
+      "ethereum",
+      "graph",
+      "typescript"
+    ],
+    "stack": [
+      "TypeScript"
+    ],
+    "demoUrl": "https://origintrail.io",
+    "cloneCommand": "git clone https://github.com/OriginTrail/dkg",
+    "lastUpdated": "2026-07-06",
+    "loc": 55362,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
+    "id": "dsevilla-bdge",
+    "name": "Bdge",
+    "description": "Recursos para la asignatura BDGE del Máster de Big Data de la UM/USC.",
+    "spark": "Recursos para la asignatura BDGE del Máster de Big Data de la UM/USC.",
+    "githubUrl": "https://github.com/dsevilla/bdge",
+    "stars": 10,
+    "license": "MIT",
+    "category": "knowledgegraphs",
+    "tags": [
+      "bigdata",
+      "cassandra",
+      "cassandra-database",
+      "couchdb",
+      "hbase",
+      "python"
+    ],
+    "stack": [
+      "Python"
+    ],
+    "cloneCommand": "git clone https://github.com/dsevilla/bdge",
+    "lastUpdated": "2026-07-06",
+    "loc": 162586,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 25
+    }
+  },
+  {
     "id": "reyamira-models",
     "name": "Models",
     "description": "TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers.",
@@ -45165,6 +48870,85 @@
       "singleFileBonus": 0,
       "genericClonePenalty": 0,
       "popularityRamp": 0,
+      "total": 24
+    }
+  },
+  {
+    "id": "dasch-swiss-dsp-api",
+    "name": "Dsp Api",
+    "description": "DaSCH Service Platform API",
+    "spark": "DaSCH Service Platform API",
+    "githubUrl": "https://github.com/dasch-swiss/dsp-api",
+    "stars": 78,
+    "license": "Apache-2.0",
+    "category": "ontology",
+    "tags": [
+      "humanities",
+      "ontologies",
+      "rdf",
+      "triplestore",
+      "scala"
+    ],
+    "stack": [
+      "Scala"
+    ],
+    "demoUrl": "http://dasch-swiss.github.io/dsp-api/",
+    "cloneCommand": "git clone https://github.com/dasch-swiss/dsp-api",
+    "lastUpdated": "2026-07-06",
+    "loc": 410563,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 8,
+      "readmeClarity": 4,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": 0,
+      "total": 24
+    }
+  },
+  {
+    "id": "helicalinsight-helicalinsight",
+    "name": "Helicalinsight",
+    "description": "Helical Insight software is world’s first Open Source Business Intelligence framework which helps you to make sense out of your data and make well informed decisions.",
+    "spark": "Helical Insight software is world’s first Open Source Business Intelligence framework which helps you to make sense out of your data and make well informed decisions.",
+    "githubUrl": "https://github.com/helicalinsight/helicalinsight",
+    "stars": 344,
+    "license": "Apache-2.0",
+    "category": "knowledgegraphs",
+    "tags": [
+      "amazon-redshift",
+      "big-data",
+      "business-intelligence",
+      "dashboard",
+      "data-analysis",
+      "java"
+    ],
+    "stack": [
+      "Java"
+    ],
+    "demoUrl": "https://helicalinsight.github.io/helicalinsight/",
+    "cloneCommand": "git clone https://github.com/helicalinsight/helicalinsight",
+    "lastUpdated": "2026-07-06",
+    "loc": 397919,
+    "authorCount": 1,
+    "dormant": false,
+    "singleFile": false,
+    "seedScore": {
+      "ideaNovelty": 6,
+      "sizeFit": 3,
+      "scopeClarity": 5,
+      "readmeClarity": 8,
+      "singleAuthorBonus": 3,
+      "dormancyBonus": 0,
+      "singleFileBonus": 0,
+      "genericClonePenalty": 0,
+      "popularityRamp": -0.5,
       "total": 24
     }
   },

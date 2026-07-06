@@ -1,4 +1,4 @@
-export type Category = 'creative' | 'tools' | 'data' | 'games' | 'learning' | 'automation' | 'web' | 'agents' | 'cybersecurity' | 'privacy' | 'curriculum' | 'papers' | 'degree' | 'vision' | 'all';
+export type Category = 'creative' | 'tools' | 'data' | 'games' | 'learning' | 'automation' | 'web' | 'agents' | 'cybersecurity' | 'privacy' | 'curriculum' | 'papers' | 'degree' | 'vision' | 'ontology' | 'knowledgegraphs' | 'all';
 
 export type DiscoveryMode = 'all' | 'dormant-gems' | 'single-file' | 'jam-survivors' | 'tiny-and-complete';
 

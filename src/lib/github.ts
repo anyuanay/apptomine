@@ -28,6 +28,8 @@ const CATEGORY_QUERIES: Record<Exclude<Category, 'all'>, string> = {
   papers: '"awesome papers" OR "paper list" OR "research papers" OR "paper implementations" OR "reading list" OR "paper collection" in:description,topics',
   degree: '"open source degree" OR "cs curriculum" OR "self-taught" OR "computer science curriculum" OR "ossu" OR "degree program" in:description,topics',
   vision: '"computer vision" OR "object detection" OR "image segmentation" OR "opencv" OR "image processing" OR "yolo" in:description,topics',
+  ontology: '"ontology" OR "semantic web" OR "rdf" OR "linked data" OR "owl ontology" OR "taxonomy" in:description,topics',
+  knowledgegraphs: '"knowledge graph" OR "graph database" OR "neo4j" OR "triple store" OR "sparql" OR "entity linking" in:description,topics',
 };
 
 export async function searchGithubRepos(options: CrawlOptions): Promise<GithubRepo[]> {
